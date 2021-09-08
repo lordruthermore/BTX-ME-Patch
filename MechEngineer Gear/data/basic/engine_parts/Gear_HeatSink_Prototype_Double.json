@@ -11,7 +11,7 @@
             "StabilityDamage": 10
         }
     },
-    "DissipationCapacity": 6,
+    "DissipationCapacity": 5,
     "Description": {
         "Cost": 200000,
         "Rarity": 10,
@@ -24,7 +24,7 @@
         "Details": "These Prototype Double Heat Sinks were created by House Davion researchers. Unlike the Double Heat Sinks used by the Star League and after the War of 3039 these prototype units were smaller. As an experiment, they worked adequately, but their use of liquid heavy metals instead of the safer (if larger) radiators used in SLDF double heat sinks meant that they have been highly unstable. <b><color=#099ff2>VOLATILE!</color></b>",
         "Icon": "uixSvgIcon_equipment_Heatsink"
     },
-    "BonusValueA": "- 6 Heat / Turn",
+    "BonusValueA": "- 5 Heat / Turn",
     "BonusValueB": "",
     "ComponentType": "HeatSink",
     "ComponentSubType": "Heatsink",
