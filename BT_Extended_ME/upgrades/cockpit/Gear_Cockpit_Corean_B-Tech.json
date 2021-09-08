@@ -1,0 +1,93 @@
+{
+    "Custom": {
+        "Category": [
+            {
+                "CategoryID": "SensorsB"
+            }
+        ],
+        "WorkOrderCosts": {
+            "Install": {
+                "TechCost": "[[Chassis.Tonnage]]/10",
+                "CBillCost": "[[Chassis.Tonnage]] * 1.15"
+            }
+        },
+        "BonusDescriptions": {
+            "Bonuses": [
+                "Minimal range -45m",
+                "IsSensorsB"
+            ]
+        },
+        "InventorySorter": {
+            "SortKey": "00201"
+        },
+        "Flags": {
+            "Flags": [
+                "not_broken",
+                "no_salvage"
+            ]
+        }
+    },
+    "Description": {
+        "Cost": 0,
+        "Rarity": 99,
+        "Purchasable": false,
+        "Manufacturer": "Corean Enterprises",
+        "Model": "",
+        "UIName": "Corean B-Tech T&T",
+        "Id": "Gear_Cockpit_Corean_B-Tech",
+        "Name": "Corean B-Tech",
+        "Details": "Corean Enterprises designed their line of 'Mechs to support multiple ranges.  The Corean B-Tech Targeting-Tracking System provides predictive Hot Loading of missiles based on target locks, effectively reducing the minimum range of LRMs. The predictive capabilities also extend to the aiming of Autocannons.",
+        "Icon": "uixSvgIcon_equipment_TTS"
+    },
+    "BonusValueA": "- 45m Minimum Range",
+    "BonusValueB": "",
+    "ComponentType": "Upgrade",
+    "ComponentSubType": "NotSet",
+    "PrefabIdentifier": "",
+    "InventorySize": 1,
+    "Tonnage": 0,
+    "AllowedLocations": "Head",
+    "DisallowedLocations": "All",
+    "CriticalComponent": false,
+    "statusEffects": [
+        {
+            "Description": {
+                "Id": "StatusEffect-B-Tech-LRMMinimumRangeReduce",
+                "Name": "COREAN B-TECH",
+                "Details": "Minimum weapon ranges reduced by 45m",
+                "Icon": "uixSvgIcon_equipment_TTS"
+            },
+            "durationData": {
+                "duration": -1,
+                "stackLimit": 1
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "effectTargetType": "Creator",
+                "showInTargetPreview": true,
+                "showInStatusPanel": true
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "statisticData": {
+                "effectsPersistAfterDestruction": false,
+                "statName": "MinRange",
+                "operation": "Float_Add",
+                "modValue": "-45.0",
+                "modType": "System.Single",
+                "additionalRules": "NotSet",
+                "targetCollection": "Weapon",
+                "targetWeaponCategory": "NotSet",
+                "targetWeaponType": "NotSet",
+                "targetAmmoCategory": "NotSet",
+                "targetWeaponSubType": "NotSet"
+            }
+        }
+    ],
+    "ComponentTags": {
+        "items": [
+            "BUILT-IN"
+        ],
+        "tagSetSourceFile": ""
+    }
+}

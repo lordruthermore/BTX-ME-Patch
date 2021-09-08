@@ -1,0 +1,74 @@
+{
+    "Custom": {
+        "Flags": {
+            "Flags": [
+                "not_broken",
+                "no_salvage"
+            ]
+        }
+    },
+    "Description": {
+        "Cost": 0,
+        "Rarity": 99,
+        "Purchasable": false,
+        "Manufacturer": "Kallon",
+        "Model": "",
+        "UIName": "Dorwinion Ballistic Compensators",
+        "Id": "Gear_General_Dorwinion_Ballistic_Compensators",
+        "Name": "Ballistic Compensators",
+        "Details": "The Enforcer was designed to fullfil the roles of a mobile barrage vehicle, laying down an intense hail of fire as a prelude to an offensive or to blunt an enemy's attack. The chassis has been designed to compensate for the refire penalty given by ballistic weapons.",
+        "Icon": "UixSvgIcon_specialEquip_System"
+    },
+    "BonusValueA": "- 2 Recoil Penalty",
+    "BonusValueB": "",
+    "ComponentType": "Upgrade",
+    "ComponentSubType": "NotSet",
+    "PrefabIdentifier": "",
+    "InventorySize": 1,
+    "Tonnage": 0,
+    "AllowedLocations": "RightArm",
+    "DisallowedLocations": "All",
+    "CriticalComponent": false,
+    "statusEffects": [
+        {
+            "durationData": {
+                "duration": -1,
+                "stackLimit": 1
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "effectTargetType": "Creator",
+                "showInTargetPreview": false,
+                "showInStatusPanel": true
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+                "Id": "StatusEffect-ENF-BallisticCompensators",
+                "Name": "BALLISTIC COMPENSATORS",
+                "Details": "Ballistic weapons on this unit have their refire penalty reduced by [AMT].",
+                "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+                "appliesEachTick": false,
+                "effectsPersistAfterDestruction": false,
+                "statName": "RefireModifier",
+                "operation": "Int_Add",
+                "modValue": "-2",
+                "modType": "System.Int32",
+                "additionalRules": "NotSet",
+                "targetCollection": "Weapon",
+                "targetWeaponCategory": "Ballistic",
+                "targetWeaponType": "NotSet",
+                "targetAmmoCategory": "NotSet",
+                "targetWeaponSubType": "NotSet"
+            },
+            "nature": "Buff"
+        }
+    ],
+    "ComponentTags": {
+        "items": [
+            "BUILT-IN"
+        ],
+        "tagSetSourceFile": ""
+    }
+}

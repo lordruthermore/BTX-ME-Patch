@@ -1,0 +1,91 @@
+{
+    "Custom": {
+        "Flags": {
+            "Flags": [
+                "not_broken",
+                "no_salvage"
+            ]
+        }
+    },
+    "Description": {
+        "Cost": 0,
+        "Rarity": 99,
+        "Purchasable": false,
+        "Manufacturer": "Ceres Metals",
+        "Model": "",
+        "UIName": "CM PPC Range Improvements",
+        "Id": "Gear_General_CM_PPC_Range_Improvement",
+        "Name": "CM PPC Range Improvements",
+        "Details": "Ceres Metals adjustments to the targeting systems integration of the mounts on the Vindicator allow for more accurate PPC fire at range.",
+        "Icon": "UixSvgIcon_specialEquip_System"
+    },
+    "BonusValueA": "-2 Range Penalty",
+    "BonusValueB": "for PPCs",
+    "ComponentType": "Upgrade",
+    "ComponentSubType": "NotSet",
+    "PrefabIdentifier": "",
+    "InventorySize": 1,
+    "Tonnage": 0,
+    "AllowedLocations": "RightArm",
+    "DisallowedLocations": "All",
+    "CriticalComponent": false,
+    "statusEffects": [
+        {
+            "durationData": {
+                "duration": -1,
+                "ticksOnActivations": false,
+                "useActivationsOfTarget": false,
+                "ticksOnEndOfRound": false,
+                "ticksOnMovements": false,
+                "stackLimit": -1,
+                "clearedWhenAttacked": false
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "triggerLimit": 0,
+                "extendDurationOnTrigger": 0,
+                "specialRules": "NotSet",
+                "effectTargetType": "Creator",
+                "range": 0,
+                "forcePathRebuild": false,
+                "forceVisRebuild": false,
+                "showInTargetPreview": false,
+                "showInStatusPanel": false
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+                "Id": "StatusEffect-VND-PPCLongRangePenaltyReduce",
+                "Name": "PPC LONG RANGE PENALTIES REDUCED",
+                "Details": "Removes long range hit penalties.",
+                "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "nature": "Buff",
+            "statisticData": {
+                "appliesEachTick": false,
+                "effectsPersistAfterDestruction": false,
+                "statName": "LongRangeModifier",
+                "operation": "Float_Subtract",
+                "modValue": "2.0",
+                "modType": "System.Single",
+                "additionalRules": "NotSet",
+                "targetCollection": "Weapon",
+                "targetWeaponCategory": "NotSet",
+                "targetWeaponType": "PPC",
+                "targetAmmoCategory": "NotSet",
+                "targetWeaponSubType": "NotSet"
+            },
+            "tagData": null,
+            "floatieData": null,
+            "actorBurningData": null,
+            "vfxData": null,
+            "instantModData": null,
+            "poorlyMaintainedEffectData": null
+        }
+    ],
+    "ComponentTags": {
+        "items": [
+            "BUILT-IN"
+        ],
+        "tagSetSourceFile": ""
+    }
+}

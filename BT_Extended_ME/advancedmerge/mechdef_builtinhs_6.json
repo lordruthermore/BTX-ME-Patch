@@ -1,0 +1,32 @@
+{
+    "TargetIDs": [
+		"mechdef_berserker_BRZ-A3",
+		"mechdef_berserker_BRZ-B3",
+		"mechdef_kodiak-1",
+		"mechdef_kodiak-5",
+		"mechdef_manowar_gargoyle-A",
+		"mechdef_manowar_gargoyle-B",
+		"mechdef_manowar_gargoyle-C",
+		"mechdef_manowar_gargoyle-D",
+		"mechdef_manowar_gargoyle-PRIME"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "CenterTorso",
+				  "ComponentDefID": "emod_engine_cooling_6",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "TargetIDs": [
+		"mechdef_banshee_BNC-5S",
+		"mechdef_cyclops_CP-10-HQ",
+		"mechdef_cyclops_CP-10-Q",
+		"mechdef_sunder_SD1-O",
+		"mechdef_sunder_SD1-OA",
+		"mechdef_kingfisher-A",
+		"mechdef_kingfisher-B",
+		"mechdef_kingfisher-C",
+		"mechdef_kingfisher-D",
+		"mechdef_kingfisher-PRIME",
+		"mechdef_linebacker-A",
+		"mechdef_linebacker-B",
+		"mechdef_linebacker-C",
+		"mechdef_linebacker-D",
+		"mechdef_linebacker-PRIME",
+		"mechdef_sun_spider-A",
+		"mechdef_sun_spider-C",
+		"mechdef_sun_spider-PRIME",
+		"mechdef_thor_summoner-A",
+		"mechdef_thor_summoner-B",
+		"mechdef_thor_summoner-C",
+		"mechdef_thor_summoner-D",
+		"mechdef_thor_summoner-E",
+		"mechdef_thor_summoner-F",
+		"mechdef_thor_summoner-PRIME"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "CenterTorso",
+				  "ComponentDefID": "emod_engine_cooling_4",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

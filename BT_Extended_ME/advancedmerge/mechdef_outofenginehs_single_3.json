@@ -1,0 +1,84 @@
+{
+    "TargetIDs": [
+		"mechdef_blackjack_BJ-1",
+		"mechdef_blackjack_BJ-1DB",
+		"mechdef_blackjack_BJ-1DC",
+		"mechdef_blackjack_BJ-1-STARTER",
+		"mechdef_falcon_FLC-4N",
+		"mechdef_firebee_FRB-2E",
+		"mechdef_flea_FLE-16",
+		"mechdef_galahad_GLH-2D",
+		"mechdef_hatchetman_GDL_HCT-3F",
+		"mechdef_hatchetman_HCT-3F",
+		"mechdef_hatchetman_HCT-3K",
+		"mechdef_hatchetman_HCT-3NH",
+		"mechdef_hatchetman_HCT-3X",
+		"mechdef_hatchetman_HCT-5S",
+		"mechdef_hollander_BZK-F3",
+		"mechdef_hollander_BZK-G1",
+		"mechdef_javelin_JVN-10A",
+		"mechdef_javelin_JVN-10F",
+		"mechdef_javelin_JVN-10N",
+		"mechdef_javelin_JVN-10P",
+		"mechdef_mongoose_MON-68",
+		"mechdef_raven_RVN-1X",
+		"mechdef_raven_RVN-2X",
+		"mechdef_raven_RVN-3X",
+		"mechdef_raven_RVN-4X",
+		"mechdef_rifleman_RFL-3M",
+		"mechdef_toro_TR-A-6",
+		"mechdef_trooper_TP-1R",
+		"mechdef_vindicator_VND-1R",
+		"mechdef_vindicator_VND-1SIC",
+		"mechdef_vindicator_VND-1X",
+		"mechdef_wyvern_WVE-5N",
+		"mechdef_wyvern_WVE-5Nb",
+		"mechdef_wyvern_WVE-6N",
+		"mechdef_stinger_STG-A5",
+		"mechdef_wasp_WSP-105"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "LeftTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				},
+				{
+				  "MountedLocation": "RightTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				},
+				{
+				  "MountedLocation": "LeftTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

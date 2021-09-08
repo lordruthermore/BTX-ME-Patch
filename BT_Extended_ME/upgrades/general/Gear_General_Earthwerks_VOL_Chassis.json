@@ -1,0 +1,74 @@
+{
+    "Custom": {
+        "Flags": {
+            "Flags": [
+                "not_broken",
+                "no_salvage"
+            ]
+        }
+    },
+    "Description": {
+        "Cost": 0,
+        "Rarity": 99,
+        "Purchasable": false,
+        "Manufacturer": "Earthwerks Incorporated",
+        "Model": "",
+        "UIName": "Earthwerks VOL Chassis",
+        "Id": "Gear_General_Earthwerks_VOL_Chassis",
+        "Name": "Earthwerks VOL",
+        "Details": "The Thug design become known amongst Mechwarriors as a nearly indestructible zombie 'Mech. Mechwarriors would give the moniker zombie 'Mech to describe a 'Mech that would keep going till the last drop, usually used to describe 'Mechs with high armor, no XL engine and no ammo bins to crit. The Thug became known for this though because the Earthwerks VOL chassis design would store it's components in all the right places and would operate at almost full capacity until parts finally started falling off. When the Hatamoto line of 'Mechs saw the field, a mating of the Charger and Thug, and using the Earthwerks VOL chassis, they would have the very same feature.",
+        "Icon": "uixSvgIcon_special_Equipment"
+    },
+    "BonusValueA": "50% Crit. defence",
+    "BonusValueB": "",
+    "ComponentType": "Upgrade",
+    "ComponentSubType": "NotSet",
+    "PrefabIdentifier": "",
+    "InventorySize": 1,
+    "Tonnage": 0,
+    "AllowedLocations": "CenterTorso",
+    "DisallowedLocations": "All",
+    "CriticalComponent": false,
+    "statusEffects": [
+        {
+            "Description": {
+                "Id": "StatusEffect-VOL-CritDefence",
+                "Name": "EARTHWERKS VOL CHASSIS",
+                "Details": "This unit takes [AMT] less crits.",
+                "Icon": "uixSvgIcon_special_Equipment"
+            },
+            "durationData": {
+                "duration": -1,
+                "stackLimit": 1
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "effectTargetType": "Creator",
+                "showInTargetPreview": true,
+                "showInStatusPanel": true,
+                "hideApplicationFloatie": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "statisticData": {
+                "effectsPersistAfterDestruction": false,
+                "statName": "CriticalHitChanceReceivedMultiplier",
+                "operation": "Float_Multiply",
+                "modValue": "0.5",
+                "modType": "System.Single",
+                "additionalRules": "NotSet",
+                "targetCollection": "NotSet",
+                "targetWeaponCategory": "NotSet",
+                "targetWeaponType": "NotSet",
+                "targetAmmoCategory": "NotSet",
+                "targetWeaponSubType": "NotSet"
+            }
+        }
+    ],
+    "ComponentTags": {
+        "items": [
+            "BUILT-IN"
+        ],
+        "tagSetSourceFile": ""
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "inventory": [
+        {
+            "MountedLocation" : "RightArm",
+            "ComponentDefID" : "Weapon_Laser_LargeLaserPulse_0-STOCK",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Weapon",
+            "HardpointSlot" : 0,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "RightTorso",
+            "ComponentDefID" : "Weapon_Laser_MediumLaser_1-Magna",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Weapon",
+            "HardpointSlot" : 0,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "RightTorso",
+            "ComponentDefID" : "Weapon_Laser_MediumLaser_1-Magna",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Weapon",
+            "HardpointSlot" : 1,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "RightTorso",
+            "ComponentDefID" : "Weapon_Laser_MediumLaser_1-Magna",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Weapon",
+            "HardpointSlot" : 2,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "LeftTorso",
+            "ComponentDefID" : "Weapon_Laser_MediumLaser_1-Magna",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Weapon",
+            "HardpointSlot" : 1,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "LeftTorso",
+            "ComponentDefID" : "Weapon_Laser_MediumLaser_1-Magna",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Weapon",
+            "HardpointSlot" : 2,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "LeftTorso",
+            "ComponentDefID" : "Weapon_Laser_MediumLaser_1-Magna",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Weapon",
+            "HardpointSlot" : 3,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "CenterTorso",
+            "ComponentDefID" : "Gear_HeatSink_Generic_Thermal-Exchanger-I",
+            "SimGameUID" : "",
+            "ComponentDefType" : "HeatSink",
+            "HardpointSlot" : -1,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "LeftTorso",
+            "ComponentDefID" : "Weapon_LRM_LRM15_2-Telos",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Weapon",
+            "HardpointSlot" : 3,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "LeftTorso",
+            "ComponentDefID" : "Ammo_AmmunitionBox_Generic_LRM",
+            "SimGameUID" : "",
+            "ComponentDefType" : "AmmunitionBox",
+            "HardpointSlot" : -1,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "LeftTorso",
+            "ComponentDefID" : "Ammo_AmmunitionBox_Generic_LRM",
+            "SimGameUID" : "",
+            "ComponentDefType" : "AmmunitionBox",
+            "HardpointSlot" : -1,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "RightTorso",
+            "ComponentDefID" : "Gear_HeatSink_Prototype_Double",
+            "SimGameUID" : "",
+            "ComponentDefType" : "HeatSink",
+            "HardpointSlot" : -1,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "RightTorso",
+            "ComponentDefID" : "Gear_HeatSink_Prototype_Double",
+            "SimGameUID" : "",
+            "ComponentDefType" : "HeatSink",
+            "HardpointSlot" : -1,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "LeftTorso",
+            "ComponentDefID" : "Gear_HeatSink_Prototype_Double",
+            "SimGameUID" : "",
+            "ComponentDefType" : "HeatSink",
+            "HardpointSlot" : -1,
+            "IsFixed" : false,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        }
+    ]
+}

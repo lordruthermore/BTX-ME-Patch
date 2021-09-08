@@ -1,0 +1,17 @@
+{
+  "InventorySize": 1,
+  "Custom": {
+    "Category": [
+      {
+        "CategoryID": "w/m/s/narc"
+      }
+    ],
+    "BonusDescriptions": {
+      "Bonuses": [
+        "WpnAccuracy: +1",
+        "PipsIgnored: 2",
+        "AMSImmune"
+      ]
+    }
+  }
+}

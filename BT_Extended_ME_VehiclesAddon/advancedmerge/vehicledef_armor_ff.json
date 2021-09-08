@@ -1,0 +1,46 @@
+{
+    "TargetIDs": [
+		"vehicledef_BEAGLE",
+		"vehicledef_BURKE",
+		"vehicledef_BURKE_Royal",
+		"vehicledef_CHALLENGER_MBT-X",
+		"vehicledef_CYRANO",
+		"vehicledef_CYRANO_Royal",
+		"vehicledef_GABRIEL",
+		"vehicledef_GALLEON_GAL102",
+		"vehicledef_GOBLIN_3053",
+		"vehicledef_HUNTER_3054",
+		"vehicledef_LIGHTNING",
+		"vehicledef_LIGHTNING_Royal",
+		"vehicledef_MANTICORE_3055",
+		"vehicledef_NIGHTSHADE_Royal",
+		"vehicledef_ONTOS_3053",
+		"vehicledef_REGULATOR",
+		"vehicledef_RIPPER",
+		"vehicledef_RIPPER_Royal",
+		"vehicledef_STRIKER_3053",
+		"vehicledef_THOR",
+		"vehicledef_VEDETTE_ULTRA",
+		"vehicledef_ZEPHYR",
+		"vehicledef_ZEPHYR_Royal"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "Rear",
+				  "ComponentDefID": "emod_armorslots_ferrosfibrous",
+				  "SimGameUID": "",
+				  "ComponentDefType": "Upgrade",
+				  "HardpointSlot": -1,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

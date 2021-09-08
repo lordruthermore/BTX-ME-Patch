@@ -1,0 +1,26 @@
+{
+    "TargetIDs": [
+		"mechdef_blackjack_BJ-3X",
+		"mechdef_battlemaster_BLR-1G_fp_morganKell",
+		"mechdef_marauder_MAD-CM"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "CenterTorso",
+				  "ComponentDefID": "emod_kit_dhs_proto",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

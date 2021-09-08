@@ -1,0 +1,15 @@
+{
+  "InventorySize": 1,
+  "Custom": {
+    "Category": [
+      {
+        "CategoryID": "w/e/l/pulse"
+      }
+    ],
+    "BonusDescriptions": {
+      "Bonuses": [
+        "PipsIgnored: 3"
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "TargetIDs": [
+		"mechdef_clint_CLNT-2-3U",
+		"mechdef_hermesII_HER-5S",
+		"mechdef_rifleman_RFL-5D",
+		"mechdef_rifleman_RFL-5M",
+		"mechdef_snake_SNK-1V",
+		"mechdef_vulcan_VL-5M"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "LeftTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Double",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "TargetIDs": [
+		"mechdef_annihilator_ANH-1A",
+		"mechdef_annihilator_ANH-1E",
+		"mechdef_annihilator_ANH-JH",
+		"mechdef_cataphract_CTF-4X",
+		"mechdef_centurion_CN9-A",
+		"mechdef_centurion_CN9-AH",
+		"mechdef_centurion_CN9-AL",
+		"mechdef_centurion_CN9-AS",
+		"mechdef_Centurion_fp_justinAllard",
+		"mechdef_centurion_GDL_CN9-A",
+		"mechdef_enforcer_ENF-3R",
+		"mechdef_enforcer_ENF-4R",
+		"mechdef_enforcer_GDL_ENF-5D",
+		"mechdef_fireball_ALM-7D",
+		"mechdef_fireball_ALM-8D",
+		"mechdef_fireball_ALM-9D",
+		"mechdef_firestarter_FS9-A",
+		"mechdef_firestarter_FS9-H",
+		"mechdef_firestarter_FS9-H_fp_theRaid",
+		"mechdef_firestarter_FS9-K",
+		"mechdef_firestarter_FS9-M",
+		"mechdef_firestarter_FS9-S",
+		"mechdef_firestarter_FS9-S1",
+		"mechdef_hunchback_GDL_HBK-4G",
+		"mechdef_hunchback_HBK-4G",
+		"mechdef_hunchback_HBK-4H",
+		"mechdef_hunchback_HBK-4J",
+		"mechdef_hunchback_HBK-4N",
+		"mechdef_hunchback_HBK-4P",
+		"mechdef_hunchback_HBK-4SP",
+		"mechdef_jayhawker_JHR-X0",
+		"mechdef_jackal_JA-KL-1532",
+		"mechdef_mongoose_MON-66",
+		"mechdef_mongoose_MON-67",
+		"mechdef_raven_RVN-3L",
+		"mechdef_raven_RVN-3M",
+		"mechdef_talos_TLS-1B",
+		"mechdef_wolfhound_WLF-1",
+		"mechdef_wolfhound_WLF-1A",
+		"mechdef_wolfhound_WLF-1B"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "LeftTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				},
+				{
+				  "MountedLocation": "RightTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

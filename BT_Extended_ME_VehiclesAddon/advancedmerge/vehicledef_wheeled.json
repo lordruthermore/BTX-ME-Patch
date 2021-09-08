@@ -1,0 +1,36 @@
+{
+    "TargetIDs": [
+		"vehicledef_CHEVALIER",
+		"vehicledef_DEMON",
+		"vehicledef_DEMON_Royal",
+		"vehicledef_INDRA",
+		"vehicledef_ISHTAR",
+		"vehicledef_ODIN",
+		"vehicledef_STRIKER_3053",
+		"vehicledef_THOR",
+		"vehicledef_TOKUGAWA",
+		"vehicledef_KU"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "Left",
+				  "ComponentDefID": "Gear_Wheeled_Left",
+				  "ComponentDefType": "Upgrade",
+				  "HardpointSlot": -1,
+				  "DamageLevel": "Functional"
+				},
+				{
+				  "MountedLocation": "Right",
+				  "ComponentDefID": "Gear_Wheeled_Right",
+				  "ComponentDefType": "Upgrade",
+				  "HardpointSlot": -1,
+				  "DamageLevel": "Functional"
+				}
+			]
+        }
+    ]
+}

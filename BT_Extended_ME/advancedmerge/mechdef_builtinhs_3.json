@@ -1,0 +1,53 @@
+{
+    "TargetIDs": [
+		"mechdef_battlemaster_BLR-1D",
+		"mechdef_battlemaster_BLR-1G",
+		"mechdef_battlemaster_BLR-1GB",
+		"mechdef_battlemaster_BLR-1G-DC",
+		"mechdef_battlemaster_BLR-1S",
+		"mechdef_battlemaster_BLR-2C",
+		"mechdef_battlemaster_BLR-3M",
+		"mechdef_battlemaster_BLR-3S",
+		"mechdef_cauldron_born_ebon_jaguar-A",
+		"mechdef_cauldron_born_ebon_jaguar-B",
+		"mechdef_cauldron_born_ebon_jaguar-C",
+		"mechdef_cauldron_born_ebon_jaguar-PRIME",
+		"mechdef_loki_hellbringer-A",
+		"mechdef_loki_hellbringer-B",
+		"mechdef_loki_hellbringer-C",
+		"mechdef_loki_hellbringer-F",
+		"mechdef_loki_hellbringer-PRIME",
+		"mechdef_longbow_LGB-0W",
+		"mechdef_marauder_IIC",
+		"mechdef_marauder_IIC-8",
+		"mechdef_masakari_warhawk-A",
+		"mechdef_masakari_warhawk-B",
+		"mechdef_masakari_warhawk-C",
+		"mechdef_masakari_warhawk-D",
+		"mechdef_masakari_warhawk-PRIME",
+		"mechdef_viper_black_python-1",
+		"mechdef_viper_black_python-2",
+		"mechdef_battlemaster_BLR-1G_fp_theRaid",
+		"mechdef_battlemaster_BLR-1G_fp_morganKell",
+		"mechdef_ostwar_OWR-2Mb"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "CenterTorso",
+				  "ComponentDefID": "emod_engine_cooling_3",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

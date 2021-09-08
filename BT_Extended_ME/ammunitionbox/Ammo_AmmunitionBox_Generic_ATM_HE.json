@@ -1,0 +1,8 @@
+{
+	"Custom": {
+		"ComponentExplosion": {
+			"ExplosionDamagePerAmmo": 10
+		}
+	},
+	"Cost": 75000,
+}

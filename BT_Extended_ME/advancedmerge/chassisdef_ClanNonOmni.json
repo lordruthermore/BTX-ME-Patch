@@ -1,0 +1,37 @@
+{
+    "TargetIDs": [
+		"chassisdef_goshawk_vapor_eagle-1",
+		"chassisdef_goshawk_vapor_eagle-2",
+		"chassisdef_highlander_IIC",
+		"chassisdef_hunchback_IIC",
+		"chassisdef_jenner_IIC",
+		"chassisdef_jenner_IIC-2",
+		"chassisdef_jenner_IIC-3",
+		"chassisdef_kodiak-1",
+		"chassisdef_kodiak-5",
+		"chassisdef_locust_IIC",
+		"chassisdef_locust_IIC-2",
+		"chassisdef_locust_IIC-3",
+		"chassisdef_marauder_IIC",
+		"chassisdef_marauder_IIC-8",
+		"chassisdef_orion_IIC",
+		"chassisdef_piranha-1",
+		"chassisdef_rifleman_IIC",
+		"chassisdef_rifleman_IIC-2",
+		"chassisdef_supernova-1",
+		"chassisdef_vixen_incubus-1",
+		"chassisdef_vixen_incubus-2",
+		"chassisdef_vixen_incubus-3",
+		"chassisdef_warhammer_IIC",
+		"chassisdef_warhammer_IIC-2"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.ChassisTags.items",
+            "Action": "ArrayConcat",
+            "Value": [
+				"ClanMech"
+			]
+        }
+    ]
+}

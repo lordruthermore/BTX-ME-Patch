@@ -1,0 +1,18 @@
+{
+  "Custom": {
+    "Category": [
+      {
+        "CategoryID": "w/m/s/srm"
+      }
+    ],
+    "BonusDescriptions": {
+      "Bonuses": [
+        "Streak",
+        "PipsIgnored: 1",
+        "WpnAccuracy: +1",
+        "WpnCrits: +100%",
+        "MissileHealth: 3"
+      ]
+    }
+  }
+}

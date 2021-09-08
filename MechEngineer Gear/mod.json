@@ -1,0 +1,68 @@
+{
+	"Name": "MechEngineer Gear",
+	"Author": "The Community",
+	"Website": "https://github.com/CptMoore/MechEngineer",
+	"Enabled": true,
+	"Hidden": true,
+	"DependsOn": [
+		"BT_Extended", "BT_Extended_3050", "BT_Extended_Clans", "BT_Extended_Plus", "CustomComponents", "MechEngineer"
+	],
+	"ConflictsWith": [],
+	"Manifest": [
+		{
+			"Type": "UpgradeDef",
+			"Path": "data/basic/internals/",
+			"ShouldMergeJSON": false
+		},
+		{
+			"Type": "HeatSinkDef",
+			"Path": "data/basic/engines/",
+			"ShouldMergeJSON": false
+		},
+		{
+			"Type": "HeatSinkDef",
+			"Path": "data/basic/engine_parts/",
+			"ShouldMergeJSON": false
+		},
+		{
+			"Type": "UpgradeDef",
+			"Path": "data/basic/targetTrackingSystem/",
+			"ShouldMergeJSON": false
+		},
+		{
+			"Type": "UpgradeDef",
+			"Path": "data/vanilla/gyro/",
+			"ShouldMergeJSON": false
+		},
+		{
+			"Type": "UpgradeDef",
+			"Path": "data/vanilla/cockpitMods/",
+			"ShouldMergeJSON": false
+		},
+		{
+			"Type": "UpgradeDef",
+			"Path": "data/vanilla/targetTrackingSystem/",
+			"ShouldMergeJSON": false
+		},
+		{
+			"Type": "HeatSinkDef",
+			"Path": "data/vanilla/heatsinks/",
+			"ShouldMergeJSON": false
+		},
+		{
+			"Type": "UpgradeDef",
+			"Path": "data/vanilla/actuators/",
+			"ShouldMergeJSON": false
+		},
+		{
+			"Type": "JumpJetDef",
+			"Path": "data/JumpJets/",
+			"ShouldMergeJSON": false
+		},
+		{
+			"Type": "JumpJetDef",
+			"Path": "data/vanilla/jumpjets/",
+			"ShouldMergeJSON": false
+		}
+	]
+}

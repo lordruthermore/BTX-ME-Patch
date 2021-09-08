@@ -1,0 +1,18 @@
+{
+  "InventorySize": 1,
+  "Custom": {
+    "Category": [
+      {
+        "CategoryID": "w/m/s/ssrm"
+      }
+    ],
+    "BonusDescriptions": {
+      "Bonuses": [
+        "WpnAccuracy: +1",
+        "PipsIgnored: +1",
+        "Streak",
+        "MissileHealth: 3"
+      ]
+    }
+  }
+}

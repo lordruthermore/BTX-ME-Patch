@@ -1,0 +1,53 @@
+{
+    "TargetIDs": [
+		"vehicledef_BURKE",
+		"vehicledef_BURKE_Royal",
+		"vehicledef_CHAPARRAL",
+		"vehicledef_DEMOLISHER_GAUSS",
+		"vehicledef_FURY",
+		"vehicledef_FURY_Royal",
+		"vehicledef_GALLEON_GAL102",
+		"vehicledef_GOBLIN_3053",
+		"vehicledef_HACHIMAN",
+		"vehicledef_HUITZILOPOCHTLI",
+		"vehicledef_HUNTER_3054",
+		"vehicledef_KOUKOU",
+		"vehicledef_MANTICORE_3055",
+		"vehicledef_MARS",
+		"vehicledef_MARSDENII",
+		"vehicledef_MARSDENII-A",
+		"vehicledef_MITHRAS",
+		"vehicledef_ONTOS_3053",
+		"vehicledef_ORO",
+		"vehicledef_PROWLER",
+		"vehicledef_PUMA_PAT-005b",
+		"vehicledef_ROMMEL_GAUSS",
+		"vehicledef_TIGER_T-12",
+		"vehicledef_VEDETTE_ULTRA",
+		"vehicledef_VONLUCKNER_Royal",
+		"vehicledef_VONLUCKNER_SLDF",
+		"vehicledef_ZORYA"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "Left",
+				  "ComponentDefID": "Gear_Tracked_Left",
+				  "ComponentDefType": "Upgrade",
+				  "HardpointSlot": -1,
+				  "DamageLevel": "Functional"
+				},
+				{
+				  "MountedLocation": "Right",
+				  "ComponentDefID": "Gear_Tracked_Right",
+				  "ComponentDefType": "Upgrade",
+				  "HardpointSlot": -1,
+				  "DamageLevel": "Functional"
+				}
+			]
+        }
+    ]
+}

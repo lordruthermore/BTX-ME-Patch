@@ -1,0 +1,22 @@
+{
+  "InventorySize": 2,
+  "Custom": {
+    "Category": [
+      {
+        "CategoryID": "w/m/l/atm"
+      },
+      {
+        "CategoryID": "NeverMelee"
+      }
+    ],
+    "BonusDescriptions": {
+      "Bonuses": [
+        "DFAccuracy: +1",
+        "PipsIgnored: 1",
+        "ATM",
+        "NoFireInMelee",
+        "MissileHealth: 2"
+      ]
+    }
+  }
+}

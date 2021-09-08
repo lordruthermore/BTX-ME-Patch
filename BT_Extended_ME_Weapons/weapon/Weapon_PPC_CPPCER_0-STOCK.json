@@ -1,0 +1,15 @@
+{
+  "InventorySize": 2,
+  "Custom": {
+    "Category": [
+      {
+        "CategoryID": "w/e/p/erppc"
+      }
+    ],
+    "BonusDescriptions": {
+      "Bonuses": [
+        "PPCDEBUFF: 2"
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "TargetIDs": [
+		"chassisdef_clint_CLNT-1-2R",
+		"chassisdef_clint_CLNT-2-3T",
+		"chassisdef_clint_CLNT-2-4T",
+		"chassisdef_clint_CLNT-2-3U"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.ChassisTags.items",
+            "Action": "ArrayConcat",
+            "Value": [
+				"mr-resize-0.9-0.9-0.9"
+			]
+        }
+    ]
+}

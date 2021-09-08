@@ -1,0 +1,90 @@
+{
+    "TargetIDs": [
+		"mechdef_commando_COM-1B",
+		"mechdef_commando_COM-1C",
+		"mechdef_commando_COM-1D",
+		"mechdef_commando_COM-2D",
+		"mechdef_commando_COM-2D-BI",
+		"mechdef_commando_COM-3A",
+		"mechdef_commando_COM-J",
+		"mechdef_commando_COM-5S",
+		"mechdef_firefly_FFL-4A",
+		"mechdef_firefly_FFL-4B",
+		"mechdef_icarusII_ICR-1S",
+		"mechdef_locust_LCT-1E",
+		"mechdef_locust_LCT-1L",
+		"mechdef_locust_LCT-1M",
+		"mechdef_locust_LCT-1S",
+		"mechdef_locust_LCT-1V",
+		"mechdef_locust_LCT-3D",
+		"mechdef_locust_LCT-3M",
+		"mechdef_locust_LCT-3S",
+		"mechdef_locust_LCT-3V",
+		"mechdef_mercury_MCY-97",
+		"mechdef_mercury_MCY-98",
+		"mechdef_mercury_MCY-99",
+		"mechdef_swordsman_SWD-2",
+		"mechdef_valkyrie_VLK-QA",
+		"mechdef_valkyrie_VLK-QD",
+		"mechdef_valkyrie_VLK-QF",
+		"mechdef_whitworth_WTH-1",
+		"mechdef_whitworth_WTH-1S",
+		"mechdef_whitworth_WTH-2"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "LeftTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				},
+				{
+				  "MountedLocation": "RightTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				},
+				{
+				  "MountedLocation": "LeftTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				},
+				{
+				  "MountedLocation": "RightTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

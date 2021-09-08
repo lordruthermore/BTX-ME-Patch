@@ -1,0 +1,44 @@
+{
+    "TargetIDs": [
+		"mechdef_anvil_ANV-3M",
+		"mechdef_apollo_APL-1M",
+		"mechdef_apollo_APL-1R",
+		"mechdef_apollo_APL-2S",
+		"mechdef_hunchback_HBK-5M",
+		"mechdef_mongoose_MON-66b",
+		"mechdef_nighthawk_NTK-2Q",
+		"mechdef_osprey_OSP-15"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "LeftArm",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Double",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				},
+				{
+				  "MountedLocation": "RightArm",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Double",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

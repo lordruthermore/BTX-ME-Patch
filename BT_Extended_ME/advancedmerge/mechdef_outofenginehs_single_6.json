@@ -1,0 +1,104 @@
+{
+    "TargetIDs": [
+		"mechdef_flea_FLE-15",
+		"mechdef_flea_FLE-17",
+		"mechdef_flea_FLE-4",
+		"mechdef_hornet_HNT-151",
+		"mechdef_hornet_HNT-152",
+		"mechdef_hornet_HNT-161",
+		"mechdef_hornet_HNT-171",
+		"mechdef_stinger_STG-3G",
+		"mechdef_stinger_STG-3R",
+		"mechdef_stinger_STG-5M",
+		"mechdef_thorn_THE-N",
+		"mechdef_thorn_THE-S",
+		"mechdef_thorn_THE-T",
+		"mechdef_wasp_WSP-1A",
+		"mechdef_wasp_WSP-1D",
+		"mechdef_wasp_WSP-1K",
+		"mechdef_wasp_WSP-1L",
+		"mechdef_wasp_WSP-1S",
+		"mechdef_wasp_WSP-1W",
+		"mechdef_wasp_WSP-3M"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "LeftTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				},
+				{
+				  "MountedLocation": "RightTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				},
+				{
+				  "MountedLocation": "LeftTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				},
+				{
+				  "MountedLocation": "RightTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				},
+				{
+				  "MountedLocation": "LeftTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				},
+				{
+				  "MountedLocation": "RightTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "Custom": {
+    "Category": [
+      {
+        "CategoryID": "w/s/t/tag"
+      }
+    ],
+    "BonusDescriptions": {
+      "Bonuses": [
+        "PipsIgnored: 1",
+        "WpnAccuracy: +1",
+        "TAG: 1"
+      ]
+    }
+  }
+}

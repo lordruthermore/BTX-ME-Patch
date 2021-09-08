@@ -1,0 +1,88 @@
+{
+    "Custom": {
+        "Category": [
+            {
+                "CategoryID": "ArmLowerActuator"
+            }
+        ],
+        "ArmActuator": {
+            "Type": "PartLower"
+        },
+        "BonusDescriptions": {
+            "Bonuses": [
+                "Target Initiative -1",
+                "IsLowerArm"
+            ]
+        },
+        "Flags": {
+            "Flags": [
+                "not_broken",
+                "no_salvage"
+            ]
+        }
+    },
+    "Description": {
+        "Cost": 0,
+        "Rarity": 99,
+        "Purchasable": false,
+        "Manufacturer": "Komiyaba",
+        "Model": "",
+        "UIName": "Komiyaba Grapple Frame",
+        "Id": "Gear_Actuator_Komiyaba_Grapple_Frame",
+        "Name": "Grapple Frame",
+        "Details": "Built for urban combat and close range brawling, the Hunchback frame has been designed to grapple and subdue other 'Mechs in close combat, pushing back an opponent initiative phases when attacked in melee.",
+        "Icon": "uixSvgIcon_equipment_ActuatorArm"
+    },
+    "BonusValueA": "Initiative Push Back",
+    "BonusValueB": "",
+    "ComponentType": "Upgrade",
+    "ComponentSubType": "NotSet",
+    "PrefabIdentifier": "",
+    "InventorySize": 2,
+    "Tonnage": 0,
+    "AllowedLocations": "Arms",
+    "DisallowedLocations": "All",
+    "CriticalComponent": false,
+    "statusEffects": [
+        {
+            "durationData": {
+                "duration": -1,
+                "stackLimit": 2
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "effectTargetType": "Creator",
+                "showInTargetPreview": false,
+                "showInStatusPanel": true
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+                "Id": "StatusEffect-HBK-GrappleFrame",
+                "Name": "GRAPPLE FRAME",
+                "Details": "This unit will push back an opponent initative phases when struck in melee.",
+                "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+                "appliesEachTick": false,
+                "effectsPersistAfterDestruction": false,
+                "statName": "MeleeHitPushBackPhases",
+                "operation": "Int_Add",
+                "modValue": "1",
+                "modType": "System.Int32",
+                "additionalRules": "NotSet",
+                "targetCollection": "NotSet",
+                "targetWeaponCategory": "NotSet",
+                "targetWeaponType": "NotSet",
+                "targetAmmoCategory": "NotSet",
+                "targetWeaponSubType": "NotSet"
+            },
+            "nature": "Buff"
+        }
+    ],
+    "ComponentTags": {
+        "items": [
+            "BUILT-IN"
+        ],
+        "tagSetSourceFile": ""
+    }
+}

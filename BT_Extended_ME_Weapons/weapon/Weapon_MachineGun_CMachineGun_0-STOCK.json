@@ -1,0 +1,16 @@
+{
+  "InventorySize": 1,
+  "Custom": {
+    "Category": [
+      {
+        "CategoryID": "w/a/o/mg"
+      }
+    ],
+    "BonusDescriptions": {
+      "Bonuses": [
+        "WpnCrits: -50%",
+        "VariableBurstCount: 3"
+      ]
+    }
+  }
+}

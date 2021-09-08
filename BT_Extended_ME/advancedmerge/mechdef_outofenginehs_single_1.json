@@ -1,0 +1,68 @@
+{
+    "TargetIDs": [
+		"mechdef_awesome_AWS-8Q",
+		"mechdef_awesome_AWS-8Q_fp_theRaid",
+		"mechdef_awesome_AWS-8R",
+		"mechdef_awesome_AWS-8T",
+		"mechdef_awesome_AWS-8T_fp_theRaid",
+		"mechdef_awesome_AWS-8V",
+		"mechdef_blackjack_BJ-1X",
+		"mechdef_clint_CLNT-1-2R",
+		"mechdef_clint_CLNT-2-3T",
+		"mechdef_clint_CLNT-2-4T",
+		"mechdef_hermesII_HER-2M",
+		"mechdef_hermesII_HER-2S",
+		"mechdef_hermesII_HER-4K",
+		"mechdef_hussar_HSR-350-D",
+		"mechdef_hussar_HSR-400-D",
+		"mechdef_jenner_JR7-A",
+		"mechdef_jenner_JR7-C",
+		"mechdef_jenner_JR7-D",
+		"mechdef_jenner_JR7-F",
+		"mechdef_jenner_JR7-K",
+		"mechdef_merlin_MLN-1A",
+		"mechdef_merlin_MLN-1B",
+		"mechdef_rifleman_GDL_RFL-3N",
+		"mechdef_rifleman_RFL-3C",
+		"mechdef_rifleman_RFL-3N",
+		"mechdef_rifleman_RFL-4D",
+		"mechdef_rifleman_RFL-RIP",
+		"mechdef_sentinel_STN-3K",
+		"mechdef_sentinel_STN-3KA",
+		"mechdef_sentinel_STN-3KB",
+		"mechdef_sentinel_STN-3L",
+		"mechdef_sentinel_STN-3Lb",
+		"mechdef_sentinel_STN-3M",
+		"mechdef_spider_SDR-5D",
+		"mechdef_spider_SDR-5K",
+		"mechdef_spider_SDR-5V",
+		"mechdef_spider_SDR-7M",
+		"mechdef_stalker_STK-4P",
+		"mechdef_vindicator_VND-1AA",
+		"mechdef_vulcan_VL-2T",
+		"mechdef_vulcan_VL-5S",
+		"mechdef_vulcan_VL-5T",
+		"mechdef_vulcan_VT-BL",
+		"mechdef_helepolis_HEP-3H"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "LeftTorso",
+				  "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "IsFixed": false,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

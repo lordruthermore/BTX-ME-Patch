@@ -1,0 +1,94 @@
+{
+    "Custom": {
+        "Category": [
+            {
+                "CategoryID": "SensorsB"
+            }
+        ],
+        "WorkOrderCosts": {
+            "Install": {
+                "TechCost": "[[Chassis.Tonnage]]/10",
+                "CBillCost": "[[Chassis.Tonnage]] * 1.15"
+            }
+        },
+        "BonusDescriptions": {
+            "Bonuses": [
+                "+10% PPC Damage",
+                "IsSensorsB"
+            ]
+        },
+        "InventorySorter": {
+            "SortKey": "00201"
+        },
+        "Flags": {
+            "Flags": [
+                "not_broken",
+                "no_salvage"
+            ]
+        }
+    },
+    "Description": {
+        "Cost": 0,
+        "Rarity": 99,
+        "Purchasable": false,
+        "Manufacturer": "GM",
+        "Model": "",
+        "UIName": "O/P 2000A PPC Interface",
+        "Id": "Gear_General_OP_2000A_InterfacePPC",
+        "Name": "O/P 2000A PPC Interface",
+        "Details": "The O/P 2000A Targeting and Tracking system of the Shadow Hawk integrates a powerful interface to the left torso, increasing the effectiveness of a mounted PPC.",
+        "Icon": "UixSvgIcon_specialEquip_System"
+    },
+    "BonusValueA": "+ 10% PPC Dmg.",
+    "BonusValueB": "",
+    "ComponentType": "Upgrade",
+    "ComponentSubType": "NotSet",
+    "PrefabIdentifier": "",
+    "InventorySize": 1,
+    "Tonnage": 0,
+    "AllowedLocations": "Head",
+    "DisallowedLocations": "All",
+    "CriticalComponent": false,
+    "statusEffects": [
+        {
+            "durationData": {
+                "duration": -1,
+                "stackLimit": 1
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "effectTargetType": "Creator",
+                "showInTargetPreview": true,
+                "showInStatusPanel": true
+            },
+            "effectType": "StatisticEffect",
+            "Description": {
+                "Id": "StatusEffect-SHD-BallisticBoost",
+                "Name": "O/P 2000A INTERFACE",
+                "Details": "PPC weapons on this unit deal [AMT] more damage.",
+                "Icon": "UixSvgIcon_specialEquip_System"
+            },
+            "statisticData": {
+                "appliesEachTick": false,
+                "effectsPersistAfterDestruction": false,
+                "statName": "DamagePerShot",
+                "operation": "Float_Multiply",
+                "modValue": "1.1",
+                "modType": "System.Single",
+                "additionalRules": "NotSet",
+                "targetCollection": "Weapon",
+                "targetWeaponCategory": "NotSet",
+                "targetWeaponType": "PPC",
+                "targetAmmoCategory": "NotSet",
+                "targetWeaponSubType": "NotSet"
+            },
+            "nature": "Buff"
+        }
+    ],
+    "ComponentTags": {
+        "items": [
+            "BUILT-IN"
+        ],
+        "tagSetSourceFile": ""
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Custom": {
+        "Flags": {
+            "Flags": [
+                "not_broken",
+                "no_salvage"
+            ]
+        }
+    },
+    "Description": {
+        "Cost": 0,
+        "Rarity": 99,
+        "Purchasable": false,
+        "Manufacturer": "Earthwerks Incorporated",
+        "Model": "",
+        "UIName": "Earthwerks Chassis",
+        "Id": "Gear_General_Earthwerks_Chassis",
+        "Name": "Earthwerks Chassis",
+        "Details": "During the Succession Wars, the five Successor States took control of the local branches of Earthwerks, essentially converting one large company into five smaller ones. It was a testament to the Earthwerks designs that so many survived and were so ubiquitous even throughout that destructive time. The Thug design was probably when Earthwerks perfected their chassis but some of the earlier chassis designs also benefitted from Earthwerk's ability to make a durable 'Mech.",
+        "Icon": "uixSvgIcon_special_Equipment"
+    },
+    "BonusValueA": "25% Crit. defence",
+    "BonusValueB": "",
+    "ComponentType": "Upgrade",
+    "ComponentSubType": "NotSet",
+    "PrefabIdentifier": "",
+    "InventorySize": 1,
+    "Tonnage": 0,
+    "AllowedLocations": "CenterTorso",
+    "DisallowedLocations": "All",
+    "CriticalComponent": false,
+    "statusEffects": [
+        {
+            "Description": {
+                "Id": "StatusEffect-EW-CritDefence",
+                "Name": "EARTHWERKS CHASSIS",
+                "Details": "This units only takes [AMT] crits.",
+                "Icon": "uixSvgIcon_special_Equipment"
+            },
+            "durationData": {
+                "duration": -1,
+                "stackLimit": 1
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "effectTargetType": "Creator",
+                "showInTargetPreview": true,
+                "showInStatusPanel": true,
+                "hideApplicationFloatie": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "statisticData": {
+                "effectsPersistAfterDestruction": false,
+                "statName": "CriticalHitChanceReceivedMultiplier",
+                "operation": "Float_Multiply",
+                "modValue": "0.75",
+                "modType": "System.Single",
+                "additionalRules": "NotSet",
+                "targetCollection": "NotSet",
+                "targetWeaponCategory": "NotSet",
+                "targetWeaponType": "NotSet",
+                "targetAmmoCategory": "NotSet",
+                "targetWeaponSubType": "NotSet"
+            }
+        }
+    ],
+    "ComponentTags": {
+        "items": [
+            "BUILT-IN"
+        ],
+        "tagSetSourceFile": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "InventorySize": 3,
+  "Custom": {
+    "Category": [
+      {
+        "CategoryID": "w/a/a/uac"
+      },
+      {
+        "CategoryID": "NeverMelee"
+      }
+    ],
+    "BonusDescriptions": {
+      "Bonuses": [
+        "VariableBurstCount: 2",
+        "WpnRecoil: 1",
+        "WeaponJAMFlat: 10",
+        "NoFireInMelee"
+      ]
+    }
+  }
+}

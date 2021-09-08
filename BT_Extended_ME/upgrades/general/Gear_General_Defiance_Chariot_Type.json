@@ -1,0 +1,74 @@
+{
+    "Custom": {
+        "Flags": {
+            "Flags": [
+                "not_broken",
+                "no_salvage"
+            ]
+        }
+    },
+    "Description": {
+        "Cost": 0,
+        "Rarity": 99,
+        "Purchasable": false,
+        "Manufacturer": "Defiance Industries",
+        "Model": "",
+        "UIName": "Chariot Type Chassis",
+        "Id": "Gear_General_Defiance_Chariot_Type",
+        "Name": "Chariot Type",
+        "Details": "The Chariot Type line of chassis designed by Defiance Industries has hit and run attacks in mind, used amongst mechs such as the Hatchetman and the Zeus, albiet different versions of the same concept. What stands out about the chassis is their ability to aim and compensate for shooting at maximum speeds although accuracy when doing so is extremely compromised.",
+        "Icon": "uixSvgIcon_run_n_gun"
+    },
+    "BonusValueA": "Sprint and Shoot",
+    "BonusValueB": "",
+    "ComponentType": "Upgrade",
+    "ComponentSubType": "NotSet",
+    "PrefabIdentifier": "",
+    "InventorySize": 1,
+    "Tonnage": 0,
+    "AllowedLocations": "CenterTorso",
+    "DisallowedLocations": "All",
+    "CriticalComponent": false,
+    "statusEffects": [
+        {
+            "Description": {
+                "Id": "StatusEffect-CHARIOT-ShootandSprint",
+                "Name": "CHARIOT TYPE CHASSIS",
+                "Details": "This unit is able to shoot after sprinting.",
+                "Icon": "uixSvgIcon_run_n_gun"
+            },
+            "durationData": {
+                "duration": -1,
+                "stackLimit": 1
+            },
+            "targetingData": {
+                "effectTriggerType": "Passive",
+                "effectTargetType": "Creator",
+                "showInTargetPreview": true,
+                "showInStatusPanel": true,
+                "hideApplicationFloatie": false
+            },
+            "effectType": "StatisticEffect",
+            "nature": "Buff",
+            "statisticData": {
+                "effectsPersistAfterDestruction": false,
+                "statName": "CanShootAfterSprinting",
+                "operation": "Set",
+                "modValue": "true",
+                "modType": "System.Boolean",
+                "additionalRules": "NotSet",
+                "targetCollection": "NotSet",
+                "targetWeaponCategory": "NotSet",
+                "targetWeaponType": "NotSet",
+                "targetAmmoCategory": "NotSet",
+                "targetWeaponSubType": "NotSet"
+            }
+        }
+    ],
+    "ComponentTags": {
+        "items": [
+            "BUILT-IN"
+        ],
+        "tagSetSourceFile": ""
+    }
+}

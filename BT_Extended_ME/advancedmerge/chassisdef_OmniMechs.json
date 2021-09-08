@@ -1,0 +1,35 @@
+{
+    "TargetIDs": [
+		"chassisdef_avatar_AV1-O",
+		"chassisdef_avatar_AV1-OA",
+		"chassisdef_avatar_AV1-OB",
+		"chassisdef_avatar_AV1-OC",
+		"chassisdef_blackhawk-ku_BHKU-O",
+		"chassisdef_blackhawk-ku_BHKU-OA",
+		"chassisdef_blackhawk-ku_BHKU-OB",
+		"chassisdef_blackhawk-ku_BHKU-OC",
+		"chassisdef_blackhawk-ku_BHKU-OD",
+		"chassisdef_firestarter_FS9-O",
+		"chassisdef_owens_OW-1",
+		"chassisdef_owens_OW-1A",
+		"chassisdef_owens_OW-1B",
+		"chassisdef_owens_OW-1C",
+		"chassisdef_owens_OW-1D",
+		"chassisdef_raptor_RTX-O",
+		"chassisdef_raptor_RTX-OA",
+		"chassisdef_raptor_RTX-OB",
+		"chassisdef_raptor_RTX-OC",
+		"chassisdef_raptor_RTX-OD",
+		"chassisdef_sunder_SD1-O",
+		"chassisdef_sunder_SD1-OA"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.ChassisTags.items",
+            "Action": "ArrayConcat",
+            "Value": [
+				"OmniMech"
+			]
+        }
+    ]
+}

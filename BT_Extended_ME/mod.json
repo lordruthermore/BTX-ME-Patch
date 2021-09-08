@@ -1,0 +1,44 @@
+{
+	"Name": "BT_Extended_ME",
+	"Enabled": true,
+	"Version": "1.9.2.2",
+	"Description": "Changes to Extended to work with Mech Engineer.",
+	"Author": "",
+	"Website": "",
+	"Contact": "https://discord.gg/KSmamMz",
+	"DependsOn": [
+		"BT_Extended", "BT_Extended_3050", "BT_Extended_Clans", "BT_Extended_Plus", "MechEngineer", "CustomComponents", "BTX_CAC_Compatibility"
+	],
+	"OptionallyDependsOn": [
+		"BT_Extended_Quirks", "Flashpoint_Birth_Of_A_Legend", "Flashpoint_Falcons_Fury", "Flashpoint_Second_Try", "Battle_Of_Tukayyid", "Give_them_Kell"
+	],
+	"ConflictsWith": [],
+	
+	"Manifest": [
+		{ "Type": "AmmunitionBoxDef", "ShouldMergeJSON": true, "Path": "ammunitionbox" },
+		{ "Type": "AmmunitionBoxDef", "ShouldMergeJSON": false, "Path": "ammoboxnew" },
+		{ "Type": "ItemCollectionDef", "ShouldAppendText": true, "Path": "itemcollections" },
+		{ "Type": "ChassisDef", "ShouldMergeJSON": true, "Path": "chassis/Vanilla" },
+		{ "Type": "ChassisDef", "ShouldMergeJSON": true, "Path": "chassis/BT_Extended" },
+		{ "Type": "ChassisDef", "ShouldMergeJSON": true, "Path": "chassis/BT_Extended_3050" },
+		{ "Type": "ChassisDef", "ShouldMergeJSON": true, "Path": "chassis/BT_Extended_Clans" },
+		{ "Type": "ChassisDef", "ShouldMergeJSON": true, "Path": "chassis/BT_Extended_Flashpoints" },
+		{ "Type": "ChassisDef", "ShouldMergeJSON": true, "Path": "chassis/BT_Extended_Plus" },
+		{ "Type": "ChassisDef", "ShouldMergeJSON": false, "Path": "chassis/new" },
+		{ "Type": "MechDef", "Path": "mech/minus1hs", "ShouldMergeJSON": true },
+		{ "Type": "MechDef", "Path": "mech/minus2hs", "ShouldMergeJSON": true },
+		{ "Type": "MechDef", "Path": "mech/minus3hs", "ShouldMergeJSON": true },
+		{ "Type": "MechDef", "Path": "mech/minus4hs", "ShouldMergeJSON": true },
+		{ "Type": "MechDef", "Path": "mech/minus5hs", "ShouldMergeJSON": true },
+		{ "Type": "MechDef", "Path": "mech/minus6hs", "ShouldMergeJSON": true },
+		{ "Type": "MechDef", "Path": "mech/refit", "ShouldMergeJSON": true },
+		{ "Type": "UpgradeDef", "Path": "upgrades/actuator" },
+		{ "Type": "UpgradeDef", "Path": "upgrades/cockpit" },
+		{ "Type": "UpgradeDef", "Path": "upgrades/general" },
+		{ "Type": "UpgradeDef", "Path": "upgrades/gyro" },
+		{ "Type": "HeatSinkDef", "Path": "upgrades/heatsink" },
+		{ "Type": "JumpJetDef", "Path": "upgrades/jumpjet" },
+		{ "Type": "UpgradeDef", "Path": "upgrades/tts" },
+		{ "Type": "AdvancedJSONMerge", "Path": "advancedmerge" }
+	]
+}

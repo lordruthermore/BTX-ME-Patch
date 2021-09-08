@@ -1,0 +1,16 @@
+{
+    "Name": "BT_Extended_ME_Vehicles",
+    "Enabled": true,
+
+	"Version": "1.0",
+	
+    "Description": "Edits to BT Extended settings",
+    "Author": "lordruthermore",
+	
+	"DependsOn": [ "MechEngineer Gear", "PlayableVehicles" ],
+	
+	"Manifest": [
+		{ "Type": "UpgradeDef", "Path": "upgrades", "AddToDB": true },
+		{ "Type": "AdvancedJSONMerge", "Path": "advancedmerge" }
+    ]
+}

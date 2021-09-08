@@ -1,0 +1,19 @@
+{
+  "InventorySize": 5,
+  "Custom": {
+    "Category": [
+      {
+        "CategoryID": "w/a/a/lbx"
+      },
+      {
+        "CategoryID": "NeverMelee"
+      }
+    ],
+    "BonusDescriptions": {
+      "Bonuses": [
+        "WpnRecoil: 1",
+        "NoFireInMelee"
+      ]
+    }
+  }
+}
