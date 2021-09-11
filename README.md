@@ -7,6 +7,8 @@ Requirements are:
 
 Installation:
 
+- remove CBTBehaviors
+
 - install CBTBE: https://github.com/BattletechModders/CBTBehaviorsEnhanced
 
 - and CleverGirl: https://github.com/BattletechModders/CleverGirl
