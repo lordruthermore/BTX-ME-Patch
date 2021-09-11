@@ -13,5 +13,7 @@ Installation:
 
 - replace the mod.jsons with files from this mod
 
+- overwrite BetterAI
+
 - remove BT_Extended_ME_Vehicles and BT_Extended_ME_VehiclesAddon if not using my PlayableVehicles mod
 
