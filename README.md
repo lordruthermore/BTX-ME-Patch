@@ -19,5 +19,4 @@ Installation:
 
 - remove BT_Extended_ME_Vehicles and BT_Extended_ME_VehiclesAddon if not using my PlayableVehicles mod
 
-- BT_Extended_Quirks_Plus can also be removed. It gets overwritten anyway, and BT_Extended_ME_QuirksPlus adds part of them
-
+- BT_Extended_Quirks_Plus can also be removed. It gets overwritten anyway.
