@@ -8,6 +8,18 @@
     }
   },
   "FixedEquipment": [
+	{
+		"MountedLocation" : "Head",
+		"ComponentDefID" : "Gear_General_Dorwinion_Ballistic_Compensators",
+		"SimGameUID" : "",
+		"ComponentDefType" : "Upgrade",
+		"HardpointSlot" : -1,
+		"IsFixed" : true,
+		"GUID" : null,
+		"DamageLevel" : "Functional",
+		"prefabName" : null,
+		"hasPrefabName" : false
+	},
     {
       "MountedLocation": "CenterTorso",
       "ComponentDefID": "emod_structureslots_standard",

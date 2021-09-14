@@ -8,6 +8,18 @@
   },
   "FixedEquipment": [
 	{
+		"MountedLocation" : "Head",
+		"ComponentDefID" : "Gear_Cockpit_Corean_B-Tech",
+		"SimGameUID" : "",
+		"ComponentDefType" : "Upgrade",
+		"HardpointSlot" : -1,
+		"IsFixed" : true,
+		"GUID" : null,
+		"DamageLevel" : "Functional",
+		"prefabName" : null,
+		"hasPrefabName" : false
+	},
+	{
 		"MountedLocation" : "LeftArm",
 		"ComponentDefID" : "Gear_Triple_Strength_Myomer",
 		"SimGameUID" : "",

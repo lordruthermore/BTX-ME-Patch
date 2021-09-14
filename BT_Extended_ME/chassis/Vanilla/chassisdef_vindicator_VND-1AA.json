@@ -7,6 +7,18 @@
     }
   },
   "FixedEquipment": [
+	{
+		"MountedLocation" : "Head",
+		"ComponentDefID" : "Gear_General_CM_PPC_Range_Improvement",
+		"SimGameUID" : "",
+		"ComponentDefType" : "Upgrade",
+		"HardpointSlot" : -1,
+		"IsFixed" : true,
+		"GUID" : null,
+		"DamageLevel" : "Functional",
+		"prefabName" : null,
+		"hasPrefabName" : false
+	},
     {
       "MountedLocation": "CenterTorso",
       "ComponentDefID": "emod_structureslots_standard",

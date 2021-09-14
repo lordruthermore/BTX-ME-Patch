@@ -7,6 +7,30 @@
     }
   },
   "FixedEquipment": [
+	{
+		"MountedLocation" : "CenterTorso",
+		"ComponentDefID" : "Gear_JumpJet_VTR_Vectored_Thrust",
+		"SimGameUID" : "",
+		"ComponentDefType" : "JumpJet",
+		"HardpointSlot" : -1,
+		"IsFixed" : true,
+		"GUID" : null,
+		"DamageLevel" : "Functional",
+		"prefabName" : null,
+		"hasPrefabName" : false
+	},
+	{
+		"MountedLocation" : "CenterTorso",
+		"ComponentDefID" : "Gear_JumpJet_VTR_Vectored_Thrust",
+		"SimGameUID" : "",
+		"ComponentDefType" : "JumpJet",
+		"HardpointSlot" : -1,
+		"IsFixed" : true,
+		"GUID" : null,
+		"DamageLevel" : "Functional",
+		"prefabName" : null,
+		"hasPrefabName" : false
+	},
     {
       "MountedLocation": "CenterTorso",
       "ComponentDefID": "emod_structureslots_endosteel",

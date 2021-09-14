@@ -1,0 +1,32 @@
+{
+    "TargetIDs": [
+		"mechdef_hunchback_GDL_HBK-4G",
+		"mechdef_hunchback_HBK-4G",
+		"mechdef_hunchback_HBK-4H",
+		"mechdef_hunchback_HBK-4J",
+		"mechdef_hunchback_HBK-4N",
+		"mechdef_hunchback_HBK-4P",
+		"mechdef_hunchback_HBK-4SP",
+		"mechdef_hunchback_HBK-5M"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "LeftArm",
+				  "ComponentDefID": "Gear_Actuator_Komiyaba_Grapple_Frame",
+				  "SimGameUID": "",
+				  "ComponentDefType": "Upgrade",
+				  "HardpointSlot": -1,
+				  "IsFixed": true,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

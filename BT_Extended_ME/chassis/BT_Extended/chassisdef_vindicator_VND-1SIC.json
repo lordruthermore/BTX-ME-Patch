@@ -7,18 +7,18 @@
     }
   },
   "FixedEquipment": [
-    {
-      "MountedLocation": "RightArm",
-      "ComponentDefID": "Gear_General_CM_LL_Range_Improvement",
-      "SimGameUID": "",
-      "ComponentDefType": "Upgrade",
-      "HardpointSlot": -1,
-      "IsFixed": true,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
+	{
+		"MountedLocation" : "Head",
+		"ComponentDefID" : "Gear_General_CM_LL_Range_Improvement",
+		"SimGameUID" : "",
+		"ComponentDefType" : "Upgrade",
+		"HardpointSlot" : -1,
+		"IsFixed" : true,
+		"GUID" : null,
+		"DamageLevel" : "Functional",
+		"prefabName" : null,
+		"hasPrefabName" : false
+	},
     {
       "MountedLocation": "CenterTorso",
       "ComponentDefID": "emod_structureslots_standard",
