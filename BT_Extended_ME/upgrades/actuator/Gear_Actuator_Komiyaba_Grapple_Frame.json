@@ -38,7 +38,7 @@
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
     "PrefabIdentifier": "",
-    "InventorySize": 2,
+    "InventorySize": 1,
     "Tonnage": 0,
     "AllowedLocations": "Arms",
     "DisallowedLocations": "All",
