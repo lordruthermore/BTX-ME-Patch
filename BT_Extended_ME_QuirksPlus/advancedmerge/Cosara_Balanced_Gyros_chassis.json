@@ -1,0 +1,34 @@
+{
+    "TargetIDs": [
+	"chassisdef_crab__fp_gladiator_BSC-27",
+	"chassisdef_crab_CRB-20",
+	"chassisdef_crab_CRB-27",
+	"chassisdef_crab_CRB-27_actual",
+	"chassisdef_crab_CRB-27b",
+	"chassisdef_crab_CRB-C",
+	"chassisdef_kingcrab_KGC-0000",
+	"chassisdef_kingcrab_KGC-000",
+	"chassisdef_kingcrab_KGC-000b",
+	"chassisdef_kingcrab_KGC-001"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.FixedEquipment",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+					"MountedLocation" : "CenterTorso",
+					"ComponentDefID" : "Gear_Gyro_Cosara_Balanced_Gyros",
+					"SimGameUID" : "",
+					"ComponentDefType" : "Upgrade",
+					"HardpointSlot" : -1,
+					"IsFixed" : true,
+					"GUID" : null,
+					"DamageLevel" : "Functional",
+					"prefabName" : null,
+					"hasPrefabName" : false
+				}
+			]
+        }
+    ]
+}

@@ -1,5 +1,16 @@
 {
     "Custom": {
+        "Category": [
+            {
+                "CategoryID": "SensorsB"
+            }
+        ],
+        "BonusDescriptions": {
+            "Bonuses": [
+                "-2 Range Penalty for PPCs",
+                "IsSensorsB"
+            ]
+        },
         "Flags": {
             "Flags": [
                 "not_broken",
@@ -11,22 +22,22 @@
         "Cost": 0,
         "Rarity": 99,
         "Purchasable": false,
-        "Manufacturer": "GM",
+        "Manufacturer": "Ceres Metals",
         "Model": "",
-        "UIName": "Starbeam 3000 Narc Deployment",
-        "Id": "Gear_General_Starbeam_3000_Narc_Deployment",
-        "Name": "Starbeam 3000",
-        "Details": "The Kintaro was originally designed to get in, deploy a Narc and get out.  Although the overall design doesn't facilitate getting in and out as easily as envisioned, the Starbeam 3000 Narc Deployment component is second to none.",
-        "Icon": "uixSvgIcon_equipment_TTS"
+        "UIName": "CM PPC Range Improvements",
+        "Id": "Gear_General_CM_PPC_Range_Improvement",
+        "Name": "CM PPC Range Improvements",
+        "Details": "Ceres Metals adjustments to the targeting systems integration of the mounts on the Vindicator allow for more accurate PPC fire at range.",
+        "Icon": "UixSvgIcon_specialEquip_System"
     },
-    "BonusValueA": "+ 2 Acc. (Narc)",
-    "BonusValueB": "",
+    "BonusValueA": "-2 Range Penalty",
+    "BonusValueB": "for PPCs",
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
     "PrefabIdentifier": "",
     "InventorySize": 1,
     "Tonnage": 0,
-    "AllowedLocations": "CenterTorso",
+    "AllowedLocations": "Head",
     "DisallowedLocations": "All",
     "CriticalComponent": false,
     "statusEffects": [
@@ -50,29 +61,29 @@
                 "forcePathRebuild": false,
                 "forceVisRebuild": false,
                 "showInTargetPreview": false,
-                "showInStatusPanel": true
+                "showInStatusPanel": false
             },
             "effectType": "StatisticEffect",
             "Description": {
-                "Id": "StatusEffect-Attack_ToHitNarc-T2",
-                "Name": "NARC WEAPON HIT CHANCE IMPROVED",
-                "Details": "Narc weapon attacks have their hit improved by [AMT].",
-                "Icon": "uixSvgIcon_equipment_TTS"
+                "Id": "StatusEffect-VND-PPCLongRangePenaltyReduce",
+                "Name": "PPC LONG RANGE PENALTIES REDUCED",
+                "Details": "Removes long range hit penalties.",
+                "Icon": "UixSvgIcon_specialEquip_System"
             },
             "nature": "Buff",
             "statisticData": {
                 "appliesEachTick": false,
                 "effectsPersistAfterDestruction": false,
-                "statName": "AccuracyModifier",
-                "operation": "Float_Add",
-                "modValue": "-2.0",
+                "statName": "LongRangeModifier",
+                "operation": "Float_Subtract",
+                "modValue": "2.0",
                 "modType": "System.Single",
                 "additionalRules": "NotSet",
                 "targetCollection": "Weapon",
                 "targetWeaponCategory": "NotSet",
-                "targetWeaponType": "NotSet",
+                "targetWeaponType": "PPC",
                 "targetAmmoCategory": "NotSet",
-                "targetWeaponSubType": "Narc"
+                "targetWeaponSubType": "NotSet"
             },
             "tagData": null,
             "floatieData": null,

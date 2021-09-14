@@ -1,5 +1,16 @@
 {
     "Custom": {
+        "Category": [
+            {
+                "CategoryID": "SensorsB"
+            }
+        ],
+        "BonusDescriptions": {
+            "Bonuses": [
+                "-2 Recoil Penalty",
+                "IsSensorsB"
+            ]
+        },
         "Flags": {
             "Flags": [
                 "not_broken",
@@ -16,7 +27,7 @@
         "UIName": "Dorwinion Ballistic Compensators",
         "Id": "Gear_General_Dorwinion_Ballistic_Compensators",
         "Name": "Ballistic Compensators",
-        "Details": "The Enforcer was designed to fullfil the roles of a mobile barrage vehicle, laying down an intense hail of fire as a prelude to an offensive or to blunt an enemy's attack. The chassis has been designed to compensate for the refire penalty given by ballistic weapons.",
+        "Details": "The Enforcer was designed to fullfil the roles of a mobile barrage vehicle, laying down an intense hail of fire as a prelude to an offensive or to blunt an enemy's attack. The chassis and targeting system have been tuned to compensate for the refire penalty given by ballistic weapons.",
         "Icon": "UixSvgIcon_specialEquip_System"
     },
     "BonusValueA": "- 2 Recoil Penalty",
@@ -26,7 +37,7 @@
     "PrefabIdentifier": "",
     "InventorySize": 1,
     "Tonnage": 0,
-    "AllowedLocations": "RightArm",
+    "AllowedLocations": "Head",
     "DisallowedLocations": "All",
     "CriticalComponent": false,
     "statusEffects": [

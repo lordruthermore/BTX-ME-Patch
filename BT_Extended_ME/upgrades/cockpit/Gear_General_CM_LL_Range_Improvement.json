@@ -1,5 +1,16 @@
 {
     "Custom": {
+        "Category": [
+            {
+                "CategoryID": "SensorsB"
+            }
+        ],
+        "BonusDescriptions": {
+            "Bonuses": [
+                "-2 Range Penalty for Large Lasers",
+                "IsSensorsB"
+            ]
+        },
         "Flags": {
             "Flags": [
                 "not_broken",
@@ -13,20 +24,20 @@
         "Purchasable": false,
         "Manufacturer": "Ceres Metals",
         "Model": "",
-        "UIName": "CM PPC Range Improvements",
-        "Id": "Gear_General_CM_PPC_Range_Improvement",
-        "Name": "CM PPC Range Improvements",
-        "Details": "Ceres Metals adjustments to the targeting systems integration of the mounts on the Vindicator allow for more accurate PPC fire at range.",
+        "UIName": "CM Large Laser Range Improvements",
+        "Id": "Gear_General_CM_LL_Range_Improvement",
+        "Name": "CM Large Laser Range Improvements",
+        "Details": "Ceres Metals adjustments to the targeting systems integration of the mounts on the Vindicator allow for more accurate standard Large Laser fire at range.",
         "Icon": "UixSvgIcon_specialEquip_System"
     },
     "BonusValueA": "-2 Range Penalty",
-    "BonusValueB": "for PPCs",
+    "BonusValueB": "for Large Lasers",
     "ComponentType": "Upgrade",
     "ComponentSubType": "NotSet",
     "PrefabIdentifier": "",
     "InventorySize": 1,
     "Tonnage": 0,
-    "AllowedLocations": "RightArm",
+    "AllowedLocations": "Head",
     "DisallowedLocations": "All",
     "CriticalComponent": false,
     "statusEffects": [
@@ -54,8 +65,8 @@
             },
             "effectType": "StatisticEffect",
             "Description": {
-                "Id": "StatusEffect-VND-PPCLongRangePenaltyReduce",
-                "Name": "PPC LONG RANGE PENALTIES REDUCED",
+                "Id": "StatusEffect-VND-LLLongRangePenaltyReduce",
+                "Name": "LARGE LASER LONG RANGE PENALTIES REDUCED",
                 "Details": "Removes long range hit penalties.",
                 "Icon": "UixSvgIcon_specialEquip_System"
             },
@@ -70,9 +81,9 @@
                 "additionalRules": "NotSet",
                 "targetCollection": "Weapon",
                 "targetWeaponCategory": "NotSet",
-                "targetWeaponType": "PPC",
+                "targetWeaponType": "NotSet",
                 "targetAmmoCategory": "NotSet",
-                "targetWeaponSubType": "NotSet"
+                "targetWeaponSubType": "LargeLaser"
             },
             "tagData": null,
             "floatieData": null,

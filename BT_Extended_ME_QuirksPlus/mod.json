@@ -1,0 +1,18 @@
+{
+	"Name": "BT_Extended_ME_QuirksPlus",
+	"Enabled": true,
+	"Version": "",
+	"Description": "Add suitable quirks from BT_Extended_Quirks_Plus to BT_Extended_ME; Sprint/Shoot and LessCrit chassis left out for now.",
+	"Author": "LordRuthermore",
+	"Website": "",
+	"Contact": "https://discord.gg/KSmamMz",
+	"DependsOn": [
+		"BT_Extended_ME"
+	],
+	"OptionallyDependsOn": [],
+	"ConflictsWith": [],
+	
+	"Manifest": [
+		{ "Type": "AdvancedJSONMerge", "Path": "advancedmerge" }
+	]
+}
