@@ -22,3 +22,5 @@ Installation:
 - remove BT_Extended_ME_Vehicles and BT_Extended_ME_VehiclesAddon if not using my PlayableVehicles mod
 
 - BT_Extended_Quirks_Plus can also be removed. It gets overwritten anyway.
+
+- remove or do not install "BT_Extended_ME_OP" if you are not using Hounfor's Oldtimer Pack
