@@ -1,0 +1,40 @@
+{
+    "TargetIDs": [
+			"mechdef_battleaxe_BKX-7K",
+			"mechdef_battleaxe_BKX-7NC",
+			"mechdef_hammerhands_HMH-3D",
+			"mechdef_hammerhands_HMH-4D",
+			"mechdef_hoplite_HOP-4A",
+			"mechdef_hoplite_HOP-4B",
+			"mechdef_hoplite_HOP-4C",
+			"mechdef_hoplite_HOP-4D",
+			"mechdef_kyudo_KY2-D-01",
+			"mechdef_marauderII_MAD-5A",
+			"mechdef_marauderII_MAD-5C",
+			"mechdef_phoenix_PX-3R",
+			"mechdef_phoenix_PX-4R",
+			"mechdef_pillager_PLG-1N",
+			"mechdef_rifleman_RFL-2N",
+			"mechdef_vonrohrs_VON-4RH-5",
+			"mechdef_vonrohrs_VON-4RH-6"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "CenterTorso",
+				  "ComponentDefID": "emod_kit_shs",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

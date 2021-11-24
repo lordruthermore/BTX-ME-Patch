@@ -1,0 +1,84 @@
+{
+    "TargetIDs": [
+	"chassisdef_annihilator_ANH-1X",
+	"chassisdef_archer_ARC-2Rb",
+	"chassisdef_archer_ARC-5CS",
+	"chassisdef_battleaxe_BKX-7K",
+	"chassisdef_battleaxe_BKX-7NC",
+	"chassisdef_crusader_CRD-1R",
+	"chassisdef_galahad_GLH-1D",
+	"chassisdef_hammerhands_HMH-3D",
+	"chassisdef_hammerhands_HMH-4D",
+	"chassisdef_hoplite_HOP-4A",
+	"chassisdef_hoplite_HOP-4B",
+	"chassisdef_hoplite_HOP-4C",
+	"chassisdef_hoplite_HOP-4D",
+	"chassisdef_kyudo_KY2-D-01",
+	"chassisdef_kyudo_KY2-D-02",
+	"chassisdef_marauder_MAD-5CS",
+	"chassisdef_marauderII_MAD-5A",
+	"chassisdef_marauderII_MAD-5B",
+	"chassisdef_marauderII_MAD-5C",
+	"chassisdef_phoenix_PX-3R",
+	"chassisdef_phoenix_PX-4R",
+	"chassisdef_phoenixhawk_PXH-1bC",
+	"chassisdef_pillager_PLG-1N",
+	"chassisdef_pillager_PLG-3Z",
+	"chassisdef_rifleman_RFL-2N",
+	"chassisdef_rifleman_RFL-5CS",
+	"chassisdef_shadowhawk_SHD-2Hb",
+	"chassisdef_shadowhawk_SHD-2Ht",
+	"chassisdef_shootist_ST-8A",
+	"chassisdef_spector_SPR-4F",
+	"chassisdef_spector_SPR-5F",
+	"chassisdef_vonrohrs_VON-4RH-5",
+	"chassisdef_vonrohrs_VON-4RH-6",
+	"chassisdef_warhammer_WHM-6Rk",
+	"chassisdef_warhammer_WHM-6Rk_FR",
+	"chassisdef_warhammer_WHM-7CS",
+	"chassisdef_wolverine_WVR-7H",
+	"chassisdef_wyvern_WVE-5Nsl"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'Head')].InventorySlots",
+            "Action": "Replace",
+            "Value": 6
+        },
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'LeftArm')].InventorySlots",
+            "Action": "Replace",
+            "Value": 12
+        },
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'LeftTorso')].InventorySlots",
+            "Action": "Replace",
+            "Value": 12
+        },
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'CenterTorso')].InventorySlots",
+            "Action": "Replace",
+            "Value": 15
+        },
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'RightTorso')].InventorySlots",
+            "Action": "Replace",
+            "Value": 12
+        },
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'RightArm')].InventorySlots",
+            "Action": "Replace",
+            "Value": 12
+        },
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'LeftLeg')].InventorySlots",
+            "Action": "Replace",
+            "Value": 6
+        },
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'RightLeg')].InventorySlots",
+            "Action": "Replace",
+            "Value": 6
+        }
+    ]
+}

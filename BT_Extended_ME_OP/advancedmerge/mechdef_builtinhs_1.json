@@ -1,0 +1,29 @@
+{
+    "TargetIDs": [
+		"mechdef_shadowhawk_SHD-2Hb",
+		"mechdef_shootist_ST-8A",
+		"mechdef_archer_ARC-5CS",
+		"mechdef_battleaxe_BKX-7K",
+		"mechdef_battleaxe_BKX-7NC",
+		"mechdef_warhammer_WHM-7CS"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "CenterTorso",
+				  "ComponentDefID": "emod_engine_cooling_1",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

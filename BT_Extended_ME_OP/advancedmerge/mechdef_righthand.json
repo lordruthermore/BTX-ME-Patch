@@ -1,0 +1,40 @@
+{
+    "TargetIDs": [
+		"mechdef_archer_ARC-2Rb",
+		"mechdef_archer_ARC-5CS",
+		"mechdef_crusader_CRD-1R",
+		"mechdef_phoenixhawk_PXH-1bC",
+		"mechdef_pillager_PLG-1N",
+		"mechdef_pillager_PLG-3Z",
+		"mechdef_shadowhawk_SHD-2Hb",
+		"mechdef_shadowhawk_SHD-2Ht",
+		"mechdef_shootist_ST-8A",
+		"mechdef_vonrohrs_VON-4RH-5",
+		"mechdef_vonrohrs_VON-4RH-6",
+		"mechdef_warhammer_WHM-6Rk",
+		"mechdef_warhammer_WHM-6Rk_FR",
+		"mechdef_warhammer_WHM-7CS",
+		"mechdef_wolverine_WVR-7H",
+		"mechdef_wyvern_WVE-5Nsl"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "RightArm",
+				  "ComponentDefID": "emod_arm_part_hand",
+				  "SimGameUID": "",
+				  "ComponentDefType": "Upgrade",
+				  "HardpointSlot": -1,
+				  "IsFixed": true,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

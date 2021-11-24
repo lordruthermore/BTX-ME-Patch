@@ -1,0 +1,29 @@
+{
+    "TargetIDs": [
+		"mechdef_marauder_MAD-5CS",
+		"mechdef_marauderII_MAD-5A",
+		"mechdef_marauderII_MAD-5B",
+		"mechdef_marauderII_MAD-5C",
+		"mechdef_pillager_PLG-1N",
+		"mechdef_pillager_PLG-3Z"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "CenterTorso",
+				  "ComponentDefID": "emod_engine_cooling_2",
+				  "SimGameUID": "",
+				  "ComponentDefType": "HeatSink",
+				  "HardpointSlot": -1,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

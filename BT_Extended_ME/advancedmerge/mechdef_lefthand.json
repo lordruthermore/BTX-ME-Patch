@@ -335,13 +335,7 @@
 		"mechdef_helepolis_HEP-3H",
 		"mechdef_phoenixhawk_PXH-HK2",
 		"mechdef_stinger_STG-A5",
-		"mechdef_wasp_WSP-105",
-		"mechdef_shadowhawk_SHD-2Hb",
-		"mechdef_wolverine_WVR-7H",
-		"mechdef_archer_ARC-2Rb",
-		"mechdef_spector_SPR-4F",
-		"mechdef_spector_SPR-5F",
-		"mechdef_shootist_ST-8A"
+		"mechdef_wasp_WSP-105"
 	],
     "Instructions": [
         {
