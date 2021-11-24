@@ -7,7 +7,7 @@
 	"Website": "",
 	"Contact": "https://discord.gg/KSmamMz",
 	"DependsOn": [
-		"BT_Extended_ME"
+		"BT_Extended_ME", "OldtimerPack"
 	],
 	"OptionallyDependsOn": [
 	],
