@@ -1,0 +1,48 @@
+{
+    "TargetIDs": [
+		"chassisdef_goliath_GOL-1H",
+		"chassisdef_goliath_GOL-3M"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'Head')].InventorySlots",
+            "Action": "Replace",
+            "Value": 6
+        },
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'LeftArm')].InventorySlots",
+            "Action": "Replace",
+            "Value": 6
+        },
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'LeftTorso')].InventorySlots",
+            "Action": "Replace",
+            "Value": 12
+        },
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'CenterTorso')].InventorySlots",
+            "Action": "Replace",
+            "Value": 15
+        },
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'RightTorso')].InventorySlots",
+            "Action": "Replace",
+            "Value": 12
+        },
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'RightArm')].InventorySlots",
+            "Action": "Replace",
+            "Value": 6
+        },
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'LeftLeg')].InventorySlots",
+            "Action": "Replace",
+            "Value": 6
+        },
+        {
+            "JSONPath": "$.Locations[?(@.Location== 'RightLeg')].InventorySlots",
+            "Action": "Replace",
+            "Value": 6
+        }
+    ]
+}

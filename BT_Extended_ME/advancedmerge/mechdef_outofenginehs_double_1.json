@@ -5,7 +5,9 @@
 		"mechdef_rifleman_RFL-5D",
 		"mechdef_rifleman_RFL-5M",
 		"mechdef_snake_SNK-1V",
-		"mechdef_vulcan_VL-5M"
+		"mechdef_vulcan_VL-5M",
+		"mechdef_spector_SPR-4F",
+		"mechdef_spector_SPR-5F"
 	],
     "Instructions": [
         {

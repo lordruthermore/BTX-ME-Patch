@@ -34,7 +34,6 @@
 		"mechdef_blackknight_BL-6b-KNT",
 		"mechdef_blackknight_BL-9-KNT",
 		"mechdef_bombardier_BMB-12D",
-		"mechdef_bullshark_BSK-MAZ",
 		"mechdef_bushwacker_BSW-S2",
 		"mechdef_bushwacker_BSW-X1",
 		"mechdef_bushwacker_BSW-X2",
@@ -177,7 +176,10 @@
 		"mechdef_shadowhawk_SHD-2Hb",
 		"mechdef_wolverine_WVR-7H",
 		"mechdef_archer_ARC-2Rb",
-		"mechdef_ostwar_OWR-2Mb"
+		"mechdef_ostwar_OWR-2Mb",
+		"mechdef_spector_SPR-4F",
+		"mechdef_spector_SPR-5F",
+		"mechdef_shootist_ST-8A"
 	],
     "Instructions": [
         {

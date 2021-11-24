@@ -524,12 +524,17 @@
 		"chassisdef_archer_ARC-2Rb",
 		"chassisdef_ostwar_OWR-2Mb",
 		"chassisdef_shadowhawk_SHD-2Hb",
-		"chassisdef_wolverine_WVR-7H"
+		"chassisdef_wolverine_WVR-7H",
+		"chassisdef_shootist_ST-8A",
+		"chassisdef_spector_SPR-4F",
+		"chassisdef_spector_SPR-5F",
+		"chassisdef_helepolis_HEP-3H"
 	],
     "Instructions": [
         {
 		"JSONPath": "ChassisTags.items[?(@ == 'chassis_DHS')]",
-		"Action": "Remove"
+		"Action": "Replace",
+		"Value": "me_chassis_DHS"
         },
         {
 		"JSONPath": "ChassisTags.items[?(@ == 'mech_case_left')]",
@@ -545,11 +550,13 @@
         },
         {
 		"JSONPath": "ChassisTags.items[?(@ == 'chassis_endo')]",
-		"Action": "Remove"
+		"Action": "Replace",
+		"Value": "me_chassis_endo"
         },
         {
 		"JSONPath": "ChassisTags.items[?(@ == 'chassis_ferro')]",
-		"Action": "Remove"
+		"Action": "Replace",
+		"Value": "me_chassis_ferro"
         }
     ]
 }

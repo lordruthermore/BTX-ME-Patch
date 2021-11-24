@@ -23,7 +23,9 @@
 		"chassisdef_vixen_incubus-2",
 		"chassisdef_vixen_incubus-3",
 		"chassisdef_warhammer_IIC",
-		"chassisdef_warhammer_IIC-2"
+		"chassisdef_warhammer_IIC-2",
+		"chassisdef_bullshark_BSK-MAZ",
+		"chassisdef_bullshark_BSK-LT"
 	],
     "Instructions": [
         {

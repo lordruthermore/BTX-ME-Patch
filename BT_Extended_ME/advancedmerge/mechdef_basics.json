@@ -75,8 +75,6 @@
 		"mechdef_bushwacker_BSW-S2",
 		"mechdef_bushwacker_BSW-X1",
 		"mechdef_bushwacker_BSW-X2",
-		"mechdef_bullshark_BSK-M3",
-		"mechdef_bullshark_BSK-MAZ",
 		"mechdef_caesar_CES-3R",
 		"mechdef_cataphract_CTF-0X",
 		"mechdef_cataphract_CTF-1X",
@@ -519,7 +517,11 @@
 		"mechdef_wasp_WSP-105",
 		"mechdef_wolverine_WVR-7H",
 		"mechdef_archer_ARC-2Rb",
-		"mechdef_ostwar_OWR-2Mb"
+		"mechdef_ostwar_OWR-2Mb",
+		"mechdef_shootist_ST-8A",
+		"mechdef_spector_SPR-4F",
+		"mechdef_spector_SPR-5F",
+		"mechdef_helepolis_HEP-3H"
 	],
     "Instructions": [
         {

@@ -489,7 +489,11 @@
 		"mechdef_shadowhawk_SHD-2Hb",
 		"mechdef_wolverine_WVR-7H",
 		"mechdef_archer_ARC-2Rb",
-		"mechdef_ostwar_OWR-2Mb"
+		"mechdef_ostwar_OWR-2Mb",
+		"mechdef_spector_SPR-4F",
+		"mechdef_spector_SPR-5F",
+		"mechdef_shootist_ST-8A",
+		"mechdef_helepolis_HEP-3H"
 	],
     "Instructions": [
         {

@@ -497,7 +497,10 @@
 		"mechdef_wyvern_WVE-9N",
 		"mechdef_goshawk_vapor_eagle-2",
 		"mechdef_archer_ARC-2Rb",
-		"mechdef_wolverine_WVR-7H"
+		"mechdef_wolverine_WVR-7H",
+		"mechdef_spector_SPR-4F",
+		"mechdef_spector_SPR-5F",
+		"mechdef_helepolis_HEP-3H"
 	],
     "Instructions": [
         {
