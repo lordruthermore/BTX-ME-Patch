@@ -17,6 +17,8 @@ Installation:
 
 - overwrite BetterAI
 
+- Update SMA to newest version: https://github.com/mcb5637/BTSimpleMechAssembly
+
 - remove BT_Extended_ME_Vehicles and BT_Extended_ME_VehiclesAddon if not using my PlayableVehicles mod
 
 - BT_Extended_Quirks_Plus can also be removed. It gets overwritten anyway.
