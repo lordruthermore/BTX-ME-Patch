@@ -1,5 +1,5 @@
 {
-  "InitialTonnage": 6.0,
+  "InitialTonnage": 5.0,
   "Heatsinks": 0,
   "Custom": {
     "ArmActuatorSupport": {
@@ -34,7 +34,7 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_engine_180",
+      "ComponentDefID": "emod_engine_150",
       "SimGameUID": "",
       "ComponentDefType": "HeatSink",
       "HardpointSlot": -1,

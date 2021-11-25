@@ -1,33 +1,11 @@
 {
   "inventory": [
     {
-      "MountedLocation": "LeftArm",
-      "ComponentDefID": "Weapon_PPC_PPC_0-STOCK",
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Weapon_LRM_ALRM15_3-Delta",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "LeftArm",
-      "ComponentDefID": "Gear_HeatSink_Generic_Standard",
-      "SimGameUID": null,
-      "ComponentDefType": "HeatSink",
-      "HardpointSlot": -1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "LeftArm",
-      "ComponentDefID": "Gear_HeatSink_Generic_Standard",
-      "SimGameUID": null,
-      "ComponentDefType": "HeatSink",
-      "HardpointSlot": -1,
       "GUID": null,
       "DamageLevel": "Functional",
       "prefabName": null,
@@ -35,10 +13,10 @@
     },
     {
       "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Weapon_LRM_LRM5_0-STOCK",
+      "ComponentDefID": "Weapon_LRM_ALRM15_3-Delta",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
-      "HardpointSlot": 0,
+      "HardpointSlot": 1,
       "GUID": null,
       "DamageLevel": "Functional",
       "prefabName": null,
@@ -57,7 +35,7 @@
     },
     {
       "MountedLocation": "RightTorso",
-      "ComponentDefID": "Weapon_SRM_SRM6_0-STOCK",
+      "ComponentDefID": "Weapon_LRM_ALRM15_3-Delta",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
@@ -68,7 +46,7 @@
     },
     {
       "MountedLocation": "RightTorso",
-      "ComponentDefID": "Weapon_LRM_LRM5_0-STOCK",
+      "ComponentDefID": "Weapon_LRM_ALRM15_3-Delta",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 1,
@@ -79,7 +57,7 @@
     },
     {
       "MountedLocation": "RightTorso",
-      "ComponentDefID": "Ammo_AmmunitionBox_Generic_SRM",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
       "SimGameUID": null,
       "ComponentDefType": "AmmunitionBox",
       "HardpointSlot": -1,
@@ -89,8 +67,8 @@
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "RightArm",
-      "ComponentDefID": "Weapon_PPC_PPC_0-STOCK",
+      "MountedLocation": "LeftArm",
+      "ComponentDefID": "Weapon_Laser_MediumLaser_0-STOCK",
       "SimGameUID": null,
       "ComponentDefType": "Weapon",
       "HardpointSlot": 0,
@@ -101,20 +79,20 @@
     },
     {
       "MountedLocation": "RightArm",
-      "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+      "ComponentDefID": "Weapon_Laser_MediumLaser_0-STOCK",
       "SimGameUID": null,
-      "ComponentDefType": "HeatSink",
-      "HardpointSlot": -1,
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 0,
       "GUID": null,
       "DamageLevel": "Functional",
       "prefabName": null,
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "RightArm",
-      "ComponentDefID": "Gear_HeatSink_Generic_Standard",
+      "MountedLocation": "LeftLeg",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
       "SimGameUID": null,
-      "ComponentDefType": "HeatSink",
+      "ComponentDefType": "AmmunitionBox",
       "HardpointSlot": -1,
       "GUID": null,
       "DamageLevel": "Functional",
@@ -123,20 +101,9 @@
     },
     {
       "MountedLocation": "LeftLeg",
-      "ComponentDefID": "Gear_JumpJet_Generic_Heavy",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
       "SimGameUID": null,
-      "ComponentDefType": "JumpJet",
-      "HardpointSlot": -1,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "LeftLeg",
-      "ComponentDefID": "Gear_JumpJet_Generic_Heavy",
-      "SimGameUID": null,
-      "ComponentDefType": "JumpJet",
+      "ComponentDefType": "AmmunitionBox",
       "HardpointSlot": -1,
       "GUID": null,
       "DamageLevel": "Functional",
@@ -145,9 +112,9 @@
     },
     {
       "MountedLocation": "RightLeg",
-      "ComponentDefID": "Gear_JumpJet_Generic_Heavy",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
       "SimGameUID": null,
-      "ComponentDefType": "JumpJet",
+      "ComponentDefType": "AmmunitionBox",
       "HardpointSlot": -1,
       "GUID": null,
       "DamageLevel": "Functional",
@@ -156,14 +123,14 @@
     },
     {
       "MountedLocation": "RightLeg",
-      "ComponentDefID": "Gear_JumpJet_Generic_Heavy",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
       "SimGameUID": null,
-      "ComponentDefType": "JumpJet",
+      "ComponentDefType": "AmmunitionBox",
       "HardpointSlot": -1,
       "GUID": null,
       "DamageLevel": "Functional",
       "prefabName": null,
       "hasPrefabName": false
     }
-],
+  ],
 }

@@ -1,7 +1,7 @@
 {
     "inventory": [
         {
-            "MountedLocation": "LeftTorso",
+            "MountedLocation": "LeftArm",
             "ComponentDefID": "Weapon_LRM_ALRM20_0-STOCK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
