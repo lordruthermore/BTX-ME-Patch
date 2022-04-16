@@ -8,3 +8,4 @@ Requirements are:
 Installation:
 
 - overwrite or replace with included folders
+- don't play Simulation+
