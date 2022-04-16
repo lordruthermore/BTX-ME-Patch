@@ -1,5 +1,6 @@
 {
     "TargetIDs": [
+		"mechdef_urbanmech_UM-R50",
 		"mechdef_urbanmech_UM-R60",
 		"mechdef_urbanmech_UM-R60C",
 		"mechdef_urbanmech_UM-R60L",

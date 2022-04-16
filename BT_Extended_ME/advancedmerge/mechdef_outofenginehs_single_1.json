@@ -12,7 +12,7 @@
 		"mechdef_clint_CLNT-2-4T",
 		"mechdef_hermesII_HER-2M",
 		"mechdef_hermesII_HER-2S",
-		"mechdef_hermesII_HER-4K",
+		"mechdef_hollanderii_BZK-F5",
 		"mechdef_hussar_HSR-350-D",
 		"mechdef_hussar_HSR-400-D",
 		"mechdef_jenner_JR7-A",
@@ -38,12 +38,18 @@
 		"mechdef_spider_SDR-5V",
 		"mechdef_spider_SDR-7M",
 		"mechdef_stalker_STK-4P",
+		"mechdef_strider_SR1-O",
+		"mechdef_strider_SR1-OA",
+		"mechdef_strider_SR1-OB",
+		"mechdef_strider_SR1-OC",
+		"mechdef_strider_SR1-OD",
+		"mechdef_strider_SR1-OE",
+		"mechdef_strider_SR1-OF",
 		"mechdef_vindicator_VND-1AA",
 		"mechdef_vulcan_VL-2T",
 		"mechdef_vulcan_VL-5S",
 		"mechdef_vulcan_VL-5T",
-		"mechdef_vulcan_VT-BL",
-		"mechdef_helepolis_HEP-3H"
+		"mechdef_vulcan_VT-BL"
 	],
     "Instructions": [
         {

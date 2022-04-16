@@ -7,7 +7,10 @@
 		"mechdef_hunchback_HBK-4N",
 		"mechdef_hunchback_HBK-4P",
 		"mechdef_hunchback_HBK-4SP",
-		"mechdef_hunchback_HBK-5M"
+		"mechdef_hunchback_HBK-5M",
+		"mechdef_hunchback_HBK-5N",
+		"mechdef_hunchback_HBK-5S",
+		"mechdef_hunchback_HBK-6N"
 	],
     "Instructions": [
         {

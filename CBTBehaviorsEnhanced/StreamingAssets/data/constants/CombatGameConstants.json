@@ -1,6 +1,6 @@
 {
   "Heat": {
-    "WalkHeat": 0,
+    "WalkHeat": 3,
     "SprintHeat": 6,
     "ShowPeakHeat": false
   },  

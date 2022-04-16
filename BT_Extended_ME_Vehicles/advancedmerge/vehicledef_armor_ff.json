@@ -1,0 +1,52 @@
+{
+    "TargetIDs": [
+		"vehicledef_APC_Turhan",
+		"vehicledef_BEAGLE",
+		"vehicledef_BURKE",
+		"vehicledef_BURKE_Royal",
+		"vehicledef_CHALLENGER_MBT-X",
+		"vehicledef_CHALLENGER_MBT-XI",
+		"vehicledef_FURY_Royal",
+		"vehicledef_GABRIEL",
+		"vehicledef_GOBLIN_3053",
+		"vehicledef_HM_SLDFDroneHeavy",
+		"vehicledef_HM_SLDFDroneMedium",
+		"vehicledef_HUNTER_3054",
+		"vehicledef_LIGHTNING",
+		"vehicledef_LIGHTNING_Royal",
+		"vehicledef_MANTICORE_3055",
+		"vehicledef_MARKSMAN",
+		"vehicledef_ONTOS_3053",
+		"vehicledef_REGULATOR",
+		"vehicledef_ROMMEL_GAUSS",
+		"vehicledef_ROTUNDA",
+		"vehicledef_SLDFDroneHeavy",
+		"vehicledef_SLDFDroneMedium",
+		"vehicledef_STRIKER_3053",
+		"vehicledef_THOR",
+		"vehicledef_VEDETTE_ULTRA",
+		"vehicledef_VONLUCKNER_Royal",
+		"vehicledef_VONLUCKNER_SLDF",
+		"vehicledef_ZEPHYR",
+		"vehicledef_ZEPHYR_Royal"
+	],
+    "Instructions": [
+        {
+            "JSONPath": "$.inventory",
+            "Action": "ArrayConcat",
+            "Value": [
+				{
+				  "MountedLocation": "Rear",
+				  "ComponentDefID": "emod_armorslots_ferrosfibrous",
+				  "SimGameUID": "",
+				  "ComponentDefType": "Upgrade",
+				  "HardpointSlot": -1,
+				  "GUID": null,
+				  "DamageLevel": "Functional",
+				  "prefabName": "",
+				  "hasPrefabName": false
+				}
+			]
+        }
+    ]
+}

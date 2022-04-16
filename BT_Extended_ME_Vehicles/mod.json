@@ -7,7 +7,7 @@
     "Description": "Edits to BT Extended settings",
     "Author": "lordruthermore",
 	
-	"DependsOn": [ "MechEngineer Gear", "PlayableVehicles" ],
+	"DependsOn": [ "MechEngineer Gear", "BTX_PlayableVehicles", "BTX_OpForVehicles" ],
 	
 	"Manifest": [
 		{ "Type": "UpgradeDef", "Path": "upgrades", "AddToDB": true },

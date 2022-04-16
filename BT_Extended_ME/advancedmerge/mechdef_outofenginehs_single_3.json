@@ -5,11 +5,15 @@
 		"mechdef_blackjack_BJ-1DC",
 		"mechdef_blackjack_BJ-1-STARTER",
 		"mechdef_falcon_FLC-4N",
+		"mechdef_falcon_FLC-4P",
 		"mechdef_firebee_FRB-2E",
 		"mechdef_flea_FLE-16",
 		"mechdef_galahad_GLH-2D",
+		"mechdef_garm_GRM-01A",
+		"mechdef_garm_GRM-01B",
 		"mechdef_hatchetman_GDL_HCT-3F",
 		"mechdef_hatchetman_HCT-3F",
+		"mechdef_hatchetman_HCT-3G",
 		"mechdef_hatchetman_HCT-3K",
 		"mechdef_hatchetman_HCT-3NH",
 		"mechdef_hatchetman_HCT-3X",
@@ -33,9 +37,7 @@
 		"mechdef_vindicator_VND-1X",
 		"mechdef_wyvern_WVE-5N",
 		"mechdef_wyvern_WVE-5Nb",
-		"mechdef_wyvern_WVE-6N",
-		"mechdef_stinger_STG-A5",
-		"mechdef_wasp_WSP-105"
+		"mechdef_wyvern_WVE-6N"
 	],
     "Instructions": [
         {

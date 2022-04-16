@@ -1,7 +1,8 @@
 {
     "TargetIDs": [
 		"mechdef_piranha-1",
-		"mechdef_rifleman_IIC"
+		"mechdef_rifleman_IIC",
+		"mechdef_rifleman_IIC-2"
 	],
     "Instructions": [
         {
