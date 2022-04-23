@@ -3,16 +3,28 @@
   "Heatsinks": 0,
   "FixedEquipment": [
 	{
-		"MountedLocation" : "RightTorso",
-		"ComponentDefID" : "Gear_Sensor_EWE",
-		"SimGameUID" : "",
-		"ComponentDefType" : "Upgrade",
-		"HardpointSlot" : -1,
-		"IsFixed" : true,
-		"GUID" : null,
-		"DamageLevel" : "Functional",
-		"prefabName" : null,
-		"hasPrefabName" : false
+        "MountedLocation": "RightTorso",
+        "ComponentDefID": "Gear_SensorCAC_BeagleHC",
+        "SimGameUID": "",
+        "ComponentDefType": "Upgrade",
+        "HardpointSlot": -1,
+        "IsFixed": true,
+        "GUID": null,
+        "DamageLevel": "Functional",
+        "prefabName": null,
+        "hasPrefabName": false
+	},
+	{
+        "MountedLocation": "RightTorso",
+        "ComponentDefID": "Gear_SensorCAC_GuardianHC",
+        "SimGameUID": "",
+        "ComponentDefType": "Upgrade",
+        "HardpointSlot": -1,
+        "IsFixed": true,
+        "GUID": null,
+        "DamageLevel": "Functional",
+        "prefabName": null,
+        "hasPrefabName": false
 	},
     {
       "MountedLocation": "CenterTorso",

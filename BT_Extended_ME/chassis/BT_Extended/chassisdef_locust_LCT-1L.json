@@ -9,6 +9,30 @@
   },
   "FixedEquipment": [
     {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Gear_TSM_Prototype_Bergan_Idle",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Gear_TSM_Prototype_Bergan_Idle",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
       "MountedLocation": "CenterTorso",
       "ComponentDefID": "emod_structureslots_standard",
       "SimGameUID": "",

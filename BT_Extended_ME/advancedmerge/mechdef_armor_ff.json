@@ -1,6 +1,5 @@
 {
     "TargetIDs": [
-		"mechdef_griffin_GRF-4N_fp_greed",
 		"mechdef_atlas_AS7-D-HT",
 		"mechdef_axman_AXM-1N",
 		"mechdef_axman_AXM-2N",
@@ -30,6 +29,7 @@
 		"mechdef_garm_GRM-01A",
 		"mechdef_garm_GRM-01B",
 		"mechdef_griffin_GRF-4N",
+		"mechdef_griffin_GRF-4N_fp_greed",
 		"mechdef_hatchetman_HCT-5S",
 		"mechdef_hermes_HER-1S",
 		"mechdef_hermes_HER-1Sb",
@@ -68,6 +68,7 @@
 		"mechdef_kintaro_KTO-21",
 		"mechdef_kintaro_KTO-C",
 		"mechdef_kintaro_KTO-K",
+		"mechdef_kyudo_KY2-D-02",
 		"mechdef_locust_LCT-1Vb",
 		"mechdef_locust_LCT-3D",
 		"mechdef_locust_LCT-3M",

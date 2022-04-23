@@ -3,12 +3,13 @@
 		"mechdef_banshee_BNC-3E",
 		"mechdef_banshee_BNC-3M",
 		"mechdef_cerberus_MR-5M",
-		"mechdef_rakshasa_MDG-1A",
-		"mechdef_rakshasa_MDG-1B",
+		"mechdef_flashman_FLS-8K",
 		"mechdef_gladiator_executioner-A",
 		"mechdef_gladiator_executioner-B",
 		"mechdef_gladiator_executioner-C",
 		"mechdef_gladiator_executioner-D",
+		"mechdef_gladiator_executioner-E",
+		"mechdef_gladiator_executioner-H",
 		"mechdef_gladiator_executioner-PRIME",
 		"mechdef_mad_cat_timber_wolf-A",
 		"mechdef_mad_cat_timber_wolf-B",
@@ -16,11 +17,12 @@
 		"mechdef_mad_cat_timber_wolf-C",
 		"mechdef_mad_cat_timber_wolf-D",
 		"mechdef_mad_cat_timber_wolf-E",
+		"mechdef_mad_cat_timber_wolf-H",
 		"mechdef_mad_cat_timber_wolf-PRIME",
-		"mechdef_mad_cat_timber_wolf-S",
 		"mechdef_mad_cat_timber_wolf-PRYDE",
-		"mechdef_maelstrom_MTR-5K",
-		"mechdef_flashman_FLS-8K"
+		"mechdef_mad_cat_timber_wolf-S",
+		"mechdef_rakshasa_MDG-1A",
+		"mechdef_rakshasa_MDG-1B"
 	],
     "Instructions": [
         {

@@ -8,18 +8,30 @@
     }
   },
   "FixedEquipment": [
-        {
-            "MountedLocation" : "LeftTorso",
-            "ComponentDefID" : "Gear_Sensor_EWE",
-            "SimGameUID" : "",
-            "ComponentDefType" : "Upgrade",
-            "HardpointSlot" : -1,
-            "IsFixed" : true,
-            "GUID" : null,
-            "DamageLevel" : "Functional",
-            "prefabName" : null,
-            "hasPrefabName" : false
-        },
+	{
+        "MountedLocation": "LeftTorso",
+        "ComponentDefID": "Gear_SensorCAC_BeagleHC",
+        "SimGameUID": "",
+        "ComponentDefType": "Upgrade",
+        "HardpointSlot": -1,
+        "IsFixed": true,
+        "GUID": null,
+        "DamageLevel": "Functional",
+        "prefabName": null,
+        "hasPrefabName": false
+	},
+	{
+        "MountedLocation": "LeftTorso",
+        "ComponentDefID": "Gear_SensorCAC_GuardianHC",
+        "SimGameUID": "",
+        "ComponentDefType": "Upgrade",
+        "HardpointSlot": -1,
+        "IsFixed": true,
+        "GUID": null,
+        "DamageLevel": "Functional",
+        "prefabName": null,
+        "hasPrefabName": false
+	},
     {
       "MountedLocation": "CenterTorso",
       "ComponentDefID": "emod_structureslots_standard",

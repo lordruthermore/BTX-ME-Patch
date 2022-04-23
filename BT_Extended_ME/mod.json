@@ -24,6 +24,7 @@
 		{ "Type": "ChassisDef", "ShouldMergeJSON": true, "Path": "chassis/BT_Extended_Clans" },
 		{ "Type": "ChassisDef", "ShouldMergeJSON": true, "Path": "chassis/BT_Extended_Flashpoints" },
 		{ "Type": "ChassisDef", "ShouldMergeJSON": true, "Path": "chassis/BT_Extended_Plus" },
+		{ "Type": "ChassisDef", "ShouldMergeJSON": true, "Path": "chassis/Hounfor" },
 		{ "Type": "ChassisDef", "ShouldMergeJSON": false, "Path": "chassis/new" },
 		{ "Type": "MechDef", "Path": "mech/minus1hs", "ShouldMergeJSON": true },
 		{ "Type": "MechDef", "Path": "mech/minus2hs", "ShouldMergeJSON": true },

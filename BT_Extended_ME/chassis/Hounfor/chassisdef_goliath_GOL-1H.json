@@ -1,0 +1,61 @@
+{
+  "Custom": {
+    "ArmActuatorSupport": {
+      "LeftLimit": "Hand",
+      "RightLimit": "Hand",
+      "LeftDefaultShoulder": "Quad_Front_leg_hip",
+      "LeftDefaultUpper": "Quad_Front_leg_upper",
+      "LeftDefaultLower": "Quad_Front_leg_lower",
+      "LeftDefaultHand": "Quad_Front_leg_foot",
+      "RightDefaultShoulder": "Quad_Front_leg_hip",
+      "RightDefaultUpper": "Quad_Front_leg_upper",
+      "RightDefaultLower": "Quad_Front_leg_lower",
+      "RightDefaultHand": "Quad_Front_leg_foot"
+    },
+    "AssemblyVariant": {
+      "PrefabID": "Goliath",
+      "Exclude": false,
+      "Include": true
+    }
+  },
+  "InitialTonnage": 8.0,
+  "Heatsinks": 0,
+  "FixedEquipment": [
+    {
+      "MountedLocation": "CenterTorso",
+      "ComponentDefID": "emod_structureslots_standard",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": "",
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
+      "ComponentDefID": "emod_engineslots_std_center",
+      "SimGameUID": "",
+      "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": "",
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
+      "ComponentDefID": "emod_engine_320",
+      "SimGameUID": "",
+      "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": "",
+      "hasPrefabName": false
+    }
+  ]
+}

@@ -2,12 +2,15 @@
     "TargetIDs": [
 		"mechdef_berserker_BRZ-A3",
 		"mechdef_berserker_BRZ-B3",
+		"mechdef_grandtitan_T-IT-N11M",
 		"mechdef_kodiak-1",
 		"mechdef_kodiak-5",
 		"mechdef_manowar_gargoyle-A",
 		"mechdef_manowar_gargoyle-B",
 		"mechdef_manowar_gargoyle-C",
 		"mechdef_manowar_gargoyle-D",
+		"mechdef_manowar_gargoyle-E",
+		"mechdef_manowar_gargoyle-H",
 		"mechdef_manowar_gargoyle-PRIME"
 	],
     "Instructions": [

@@ -16,7 +16,7 @@
     },
     {
       "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Gear_Sensor_ActiveProbe",
+      "ComponentDefID": "Gear_SensorCAC_BeagleHC",
       "SimGameUID": "",
       "ComponentDefType": "Upgrade",
       "HardpointSlot": -1,

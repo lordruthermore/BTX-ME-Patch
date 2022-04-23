@@ -13,7 +13,7 @@
     },
     {
       "MountedLocation": "RightTorso",
-      "ComponentDefID": "Gear_Sensor_ActiveProbe_Clan",
+      "ComponentDefID": "Gear_SensorCAC_BeagleClan",
       "ComponentDefType": "Upgrade",
       "HardpointSlot": -1,
       "IsFixed": true,
@@ -82,7 +82,7 @@
     },
 		{
 		  "MountedLocation": "RightArm",
-		  "ComponentDefID": "Gear_Sensor_ActiveProbe_Clan",
+		  "ComponentDefID": "Gear_SensorCAC_BeagleClan",
 		  "ComponentDefType": "Upgrade",
 		  "HardpointSlot": -1,
 		  "IsFixed": true,

@@ -1,6 +1,9 @@
 {
     "TargetIDs": [
+		"mechdef_commando_COM-7S",
 		"mechdef_firefly_FFL-3A",
+		"mechdef_firefly_FFL-4C",
+		"mechdef_galahad_GLH-1D",
 		"mechdef_locust_LCT-1Vb"
 	],
     "Instructions": [

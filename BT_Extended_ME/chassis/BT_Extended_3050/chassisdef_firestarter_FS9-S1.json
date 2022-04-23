@@ -10,7 +10,7 @@
   "FixedEquipment": [
 	{
 		"MountedLocation" : "LeftTorso",
-		"ComponentDefID" : "Gear_Sensor_ECM",
+		"ComponentDefID" : "Gear_SensorCAC_GuardianHC",
 		"SimGameUID" : "",
 		"ComponentDefType" : "Upgrade",
 		"HardpointSlot" : -1,
