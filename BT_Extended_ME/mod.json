@@ -7,7 +7,7 @@
 	"Website": "",
 	"Contact": "https://discord.gg/KSmamMz",
 	"DependsOn": [
-		"BT_Extended", "BT_Extended_3050", "BT_Extended_Clans", "BT_Extended_Plus", "MechEngineer", "CustomComponents", "BTX_CAC_Compatibility"
+		"BT_Extended", "BT_Extended_3050", "BT_Extended_Clans", "BT_Extended_Plus", "MechEngineer", "CustomComponents", "BTX_CAC_Compatibility", "HounforMechs"
 	],
 	"OptionallyDependsOn": [
 		"BT_Extended_Quirks", "Flashpoint_Birth_Of_A_Legend", "Flashpoint_Falcons_Fury", "Flashpoint_Second_Try", "Battle_Of_Tukayyid", "Give_them_Kell"
