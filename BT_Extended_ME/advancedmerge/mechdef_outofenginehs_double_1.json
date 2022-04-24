@@ -1,13 +1,20 @@
 {
     "TargetIDs": [
+		"mechdef_awesome_AWS-9Q",
 		"mechdef_clint_CLNT-2-3U",
+		"mechdef_helios_HEL-3D",
+		"mechdef_helios_HEL-4A",
+		"mechdef_helios_HEL-C",
 		"mechdef_hermesII_HER-5S",
+		"mechdef_kyudo_KY2-D-02",
 		"mechdef_rifleman_RFL-5D",
 		"mechdef_rifleman_RFL-5M",
 		"mechdef_snake_SNK-1V",
-		"mechdef_vulcan_VL-5M",
 		"mechdef_spector_SPR-4F",
-		"mechdef_spector_SPR-5F"
+		"mechdef_spector_SPR-5F",
+		"mechdef_spider_SDR-8M",
+		"mechdef_vulcan_VL-5M",
+		"mechdef_yeoman_YMN-6Y"
 	],
     "Instructions": [
         {

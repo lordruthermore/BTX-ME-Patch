@@ -133,6 +133,24 @@
 	  "DamageLevel": "Functional",
 	  "prefabName": "",
 	  "hasPrefabName": false
+	},
+	{
+	  "MountedLocation": "CenterTorso",
+	  "ComponentDefID": "Gear_MASC_1_Clan",
+	  "ComponentDefType": "Upgrade",
+	  "HardpointSlot": -1,
+	  "IsFixed": true,
+	  "DamageLevel": "Functional",
+	  "hasPrefabName": false
+	},
+	{
+	  "MountedLocation": "RightTorso",
+	  "ComponentDefID": "Gear_TAC2_Clan",
+	  "ComponentDefType": "Upgrade",
+	  "HardpointSlot": -1,
+	  "IsFixed": true,
+	  "DamageLevel": "Functional",
+	  "hasPrefabName": false
 	}
   ]
 }

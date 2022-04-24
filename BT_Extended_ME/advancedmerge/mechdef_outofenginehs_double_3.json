@@ -2,9 +2,12 @@
     "TargetIDs": [
 		"mechdef_blackjack_BJ-2",
 		"mechdef_blackjack_BJ-3",
+		"mechdef_duangung_D9-G9",
 		"mechdef_javelin_JVN-11A",
 		"mechdef_javelin_JVN-11B",
 		"mechdef_vindicator_VND-3L",
+		"mechdef_vindicator_VND-5L",
+		"mechdef_wyvern_WVE-5Nsl",
 		"mechdef_wyvern_WVE-9N"
 	],
     "Instructions": [

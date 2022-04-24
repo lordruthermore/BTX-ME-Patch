@@ -1,13 +1,23 @@
 {
     "TargetIDs": [
+		"mechdef_annihilator_ANH-1X",
 		"mechdef_anvil_ANV-3M",
+		"mechdef_anvil_ANV-5M",
+		"mechdef_anvil_ANV-6M",
 		"mechdef_apollo_APL-1M",
 		"mechdef_apollo_APL-1R",
 		"mechdef_apollo_APL-2S",
+		"mechdef_apollo_APL-3T",
 		"mechdef_hunchback_HBK-5M",
+		"mechdef_hunchback_HBK-5N",
+		"mechdef_hunchback_HBK-5S",
+		"mechdef_hunchback_HBK-6N",
+		"mechdef_jackal_JA-KL-1532",
 		"mechdef_mongoose_MON-66b",
 		"mechdef_nighthawk_NTK-2Q",
-		"mechdef_osprey_OSP-15"
+		"mechdef_nighthawk_NTK-2S",
+		"mechdef_osprey_OSP-15",
+		"mechdef_wolfhound_WLF-2"
 	],
     "Instructions": [
         {

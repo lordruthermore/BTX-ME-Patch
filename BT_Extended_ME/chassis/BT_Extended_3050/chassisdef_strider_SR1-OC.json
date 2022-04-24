@@ -34,7 +34,7 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_engine_320",
+      "ComponentDefID": "emod_engine_240",
       "SimGameUID": "",
       "ComponentDefType": "HeatSink",
       "HardpointSlot": -1,
@@ -44,18 +44,6 @@
       "prefabName": "",
       "hasPrefabName": false
     },
-	{
-		"MountedLocation" : "CenterTorso",
-		"ComponentDefID" : "Gear_SensorCAC_Beagle",
-		"SimGameUID" : "",
-		"ComponentDefType" : "Upgrade",
-		"HardpointSlot" : -1,
-		"IsFixed" : true,
-		"GUID" : null,
-		"DamageLevel" : "Functional",
-		"prefabName" : null,
-		"hasPrefabName" : false
-	},
     {
       "MountedLocation": "LeftTorso",
       "ComponentDefID": "emod_case",
@@ -81,7 +69,7 @@
       "hasPrefabName": false
     },
 	{
-		"MountedLocation" : "RightTorso",
+		"MountedLocation" : "Head",
 		"ComponentDefID" : "Gear_C3_Slave",
 		"SimGameUID" : "",
 		"ComponentDefType" : "Upgrade",
