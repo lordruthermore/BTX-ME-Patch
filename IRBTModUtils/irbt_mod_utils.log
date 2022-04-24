@@ -1,0 +1,13 @@
+16:26:25.100 Assembly version: 1.12.0.0
+16:26:25.101 === MOD CONFIG BEGIN ===
+16:26:25.101   DEBUG: False Trace: False
+16:26:25.101 
+16:26:25.101 --- FEATURES ---
+16:26:25.101   EnableMovementModifiers: True
+16:26:25.101 
+16:26:25.101 --- DIALOGUE OPTIONS ---
+16:26:25.101 
+16:26:25.101 === MOD CONFIG END ===
+16:26:25.101 INFO: No errors reading settings file.
+16:28:40.629 Checking for UnitMoveModifierTypes in assemblies
+16:28:40.716 Adding move modifier: CBTBehaviorsEnhanced.Move.CBTBEMechMoveModifier

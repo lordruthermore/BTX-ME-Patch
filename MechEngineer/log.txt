@@ -1,0 +1,726 @@
+02:03.638 [ERROR] MechEngineer Could not find bonus description "PPCDEBUFF" used by Weapon_PPC_CPPCER_0-STOCK
+02:03.923 [ERROR] MechEngineer Could not find bonus description "DFAccuracy" used by Weapon_ATM_ATM9_0-STOCK
+02:03.923 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_ATM_ATM9_0-STOCK
+02:03.923 [ERROR] MechEngineer Could not find bonus description "ATM" used by Weapon_ATM_ATM9_0-STOCK
+02:03.923 [ERROR] MechEngineer Could not find bonus description "NoFireInMelee" used by Weapon_ATM_ATM9_0-STOCK
+02:03.923 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_ATM_ATM9_0-STOCK
+02:03.927 [ERROR] MechEngineer Could not find bonus description "DFAccuracy" used by Weapon_ATM_ATM6_0-STOCK
+02:03.927 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_ATM_ATM6_0-STOCK
+02:03.927 [ERROR] MechEngineer Could not find bonus description "ATM" used by Weapon_ATM_ATM6_0-STOCK
+02:03.927 [ERROR] MechEngineer Could not find bonus description "NoFireInMelee" used by Weapon_ATM_ATM6_0-STOCK
+02:03.927 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_ATM_ATM6_0-STOCK
+02:03.931 [ERROR] MechEngineer Could not find bonus description "DFAccuracy" used by Weapon_ATM_ATM3_0-STOCK
+02:03.931 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_ATM_ATM3_0-STOCK
+02:03.931 [ERROR] MechEngineer Could not find bonus description "ATM" used by Weapon_ATM_ATM3_0-STOCK
+02:03.931 [ERROR] MechEngineer Could not find bonus description "NoFireInMelee" used by Weapon_ATM_ATM3_0-STOCK
+02:03.931 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_ATM_ATM3_0-STOCK
+02:03.935 [ERROR] MechEngineer Could not find bonus description "DFAccuracy" used by Weapon_ATM_ATM12_0-STOCK
+02:03.935 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_ATM_ATM12_0-STOCK
+02:03.935 [ERROR] MechEngineer Could not find bonus description "ATM" used by Weapon_ATM_ATM12_0-STOCK
+02:03.935 [ERROR] MechEngineer Could not find bonus description "NoFireInMelee" used by Weapon_ATM_ATM12_0-STOCK
+02:03.935 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_ATM_ATM12_0-STOCK
+02:03.996 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_TAG_Light_Clan_0-STOCK
+02:03.996 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_TAG_Light_Clan_0-STOCK
+02:03.996 [ERROR] MechEngineer Could not find bonus description "TAG" used by Weapon_TAG_Light_Clan_0-STOCK
+02:03.999 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_TAG_Clan_0-STOCK
+02:04.000 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_TAG_Clan_0-STOCK
+02:04.000 [ERROR] MechEngineer Could not find bonus description "TAG" used by Weapon_TAG_Clan_0-STOCK
+02:04.021 [ERROR] MechEngineer Could not find bonus description "Streak" used by Weapon_SRM_SSRM6_0-STOCK
+02:04.021 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_SRM_SSRM6_0-STOCK
+02:04.021 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_SRM_SSRM6_0-STOCK
+02:04.021 [ERROR] MechEngineer Could not find bonus description "WpnCrits" used by Weapon_SRM_SSRM6_0-STOCK
+02:04.021 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_SRM_SSRM6_0-STOCK
+02:04.041 [ERROR] MechEngineer Could not find bonus description "Streak" used by Weapon_SRM_SSRM2_3-Valiant
+02:04.041 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_SRM_SSRM2_3-Valiant
+02:04.041 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_SRM_SSRM2_3-Valiant
+02:04.041 [ERROR] MechEngineer Could not find bonus description "WpnCrits" used by Weapon_SRM_SSRM2_3-Valiant
+02:04.041 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_SRM_SSRM2_3-Valiant
+02:04.044 [ERROR] MechEngineer Could not find bonus description "Streak" used by Weapon_SRM_SSRM2_2-Valiant
+02:04.044 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_SRM_SSRM2_2-Valiant
+02:04.044 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_SRM_SSRM2_2-Valiant
+02:04.044 [ERROR] MechEngineer Could not find bonus description "WpnCrits" used by Weapon_SRM_SSRM2_2-Valiant
+02:04.044 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_SRM_SSRM2_2-Valiant
+02:04.047 [ERROR] MechEngineer Could not find bonus description "Streak" used by Weapon_SRM_SSRM2_2-Holly
+02:04.047 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_SRM_SSRM2_2-Holly
+02:04.047 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_SRM_SSRM2_2-Holly
+02:04.048 [ERROR] MechEngineer Could not find bonus description "WpnCrits" used by Weapon_SRM_SSRM2_2-Holly
+02:04.048 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_SRM_SSRM2_2-Holly
+02:04.050 [ERROR] MechEngineer Could not find bonus description "Streak" used by Weapon_SRM_SSRM2_2-Coventry
+02:04.050 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_SRM_SSRM2_2-Coventry
+02:04.051 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_SRM_SSRM2_2-Coventry
+02:04.051 [ERROR] MechEngineer Could not find bonus description "WpnCrits" used by Weapon_SRM_SSRM2_2-Coventry
+02:04.051 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_SRM_SSRM2_2-Coventry
+02:04.053 [ERROR] MechEngineer Could not find bonus description "Streak" used by Weapon_SRM_SSRM2_1-Holly
+02:04.053 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_SRM_SSRM2_1-Holly
+02:04.054 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_SRM_SSRM2_1-Holly
+02:04.054 [ERROR] MechEngineer Could not find bonus description "WpnCrits" used by Weapon_SRM_SSRM2_1-Holly
+02:04.054 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_SRM_SSRM2_1-Holly
+02:04.056 [ERROR] MechEngineer Could not find bonus description "Streak" used by Weapon_SRM_SSRM2_1-Coventry
+02:04.056 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_SRM_SSRM2_1-Coventry
+02:04.057 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_SRM_SSRM2_1-Coventry
+02:04.057 [ERROR] MechEngineer Could not find bonus description "WpnCrits" used by Weapon_SRM_SSRM2_1-Coventry
+02:04.057 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_SRM_SSRM2_1-Coventry
+02:04.060 [ERROR] MechEngineer Could not find bonus description "Streak" used by Weapon_SRM_SSRM2_0-STOCK
+02:04.060 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_SRM_SSRM2_0-STOCK
+02:04.060 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_SRM_SSRM2_0-STOCK
+02:04.060 [ERROR] MechEngineer Could not find bonus description "WpnCrits" used by Weapon_SRM_SSRM2_0-STOCK
+02:04.060 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_SRM_SSRM2_0-STOCK
+02:04.255 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_SRM_CSSRM6_0-STOCK
+02:04.255 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_SRM_CSSRM6_0-STOCK
+02:04.255 [ERROR] MechEngineer Could not find bonus description "Streak" used by Weapon_SRM_CSSRM6_0-STOCK
+02:04.255 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_SRM_CSSRM6_0-STOCK
+02:04.258 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_SRM_CSSRM4_OneShot
+02:04.258 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_SRM_CSSRM4_OneShot
+02:04.258 [ERROR] MechEngineer Could not find bonus description "Streak" used by Weapon_SRM_CSSRM4_OneShot
+02:04.258 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_SRM_CSSRM4_OneShot
+02:04.261 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_SRM_CSSRM4_0-STOCK
+02:04.261 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_SRM_CSSRM4_0-STOCK
+02:04.261 [ERROR] MechEngineer Could not find bonus description "Streak" used by Weapon_SRM_CSSRM4_0-STOCK
+02:04.261 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_SRM_CSSRM4_0-STOCK
+02:04.264 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_SRM_CSSRM2_0-STOCK
+02:04.264 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_SRM_CSSRM2_0-STOCK
+02:04.264 [ERROR] MechEngineer Could not find bonus description "Streak" used by Weapon_SRM_CSSRM2_0-STOCK
+02:04.264 [ERROR] MechEngineer Could not find bonus description "MissileHealth" used by Weapon_SRM_CSSRM2_0-STOCK
+02:04.380 [ERROR] MechEngineer Could not find bonus description "WpnAccuracy" used by Weapon_Narc_CNarc_0-STOCK
+02:04.380 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_Narc_CNarc_0-STOCK
+02:04.380 [ERROR] MechEngineer Could not find bonus description "AMSImmune" used by Weapon_Narc_CNarc_0-STOCK
+02:04.400 [ERROR] MechEngineer Could not find bonus description "WpnCrits" used by Weapon_MachineGun_CMachineGun_0-STOCK
+02:04.400 [ERROR] MechEngineer Could not find bonus description "VariableBurstCount" used by Weapon_MachineGun_CMachineGun_0-STOCK
+02:04.764 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_Laser_CSmallLaserPulse_0-STOCK
+02:04.769 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_Laser_CMediumLaserPulse_0-STOCK
+02:04.772 [ERROR] MechEngineer Could not find bonus description "PipsIgnored" used by Weapon_Laser_CLargeLaserPulse_0-STOCK
+02:05.102 [ERROR] MechEngineer Could not find bonus description "VariableBurstCount" used by Weapon_Autocannon_CUAC5_0-STOCK
+02:05.102 [ERROR] MechEngineer Could not find bonus description "WpnRecoil" used by Weapon_Autocannon_CUAC5_0-STOCK
+02:05.102 [ERROR] MechEngineer Could not find bonus description "WeaponJAMFlat" used by Weapon_Autocannon_CUAC5_0-STOCK
+02:05.102 [ERROR] MechEngineer Could not find bonus description "NoFireInMelee" used by Weapon_Autocannon_CUAC5_0-STOCK
+02:05.106 [ERROR] MechEngineer Could not find bonus description "VariableBurstCount" used by Weapon_Autocannon_CUAC2_0-STOCK
+02:05.106 [ERROR] MechEngineer Could not find bonus description "WpnRecoil" used by Weapon_Autocannon_CUAC2_0-STOCK
+02:05.106 [ERROR] MechEngineer Could not find bonus description "WeaponJAMFlat" used by Weapon_Autocannon_CUAC2_0-STOCK
+02:05.106 [ERROR] MechEngineer Could not find bonus description "NoFireInMelee" used by Weapon_Autocannon_CUAC2_0-STOCK
+02:05.109 [ERROR] MechEngineer Could not find bonus description "VariableBurstCount" used by Weapon_Autocannon_CUAC20_0-STOCK
+02:05.110 [ERROR] MechEngineer Could not find bonus description "WpnRecoil" used by Weapon_Autocannon_CUAC20_0-STOCK
+02:05.110 [ERROR] MechEngineer Could not find bonus description "WeaponJAMFlat" used by Weapon_Autocannon_CUAC20_0-STOCK
+02:05.110 [ERROR] MechEngineer Could not find bonus description "NoFireInMelee" used by Weapon_Autocannon_CUAC20_0-STOCK
+02:05.113 [ERROR] MechEngineer Could not find bonus description "VariableBurstCount" used by Weapon_Autocannon_CUAC10_0-STOCK
+02:05.114 [ERROR] MechEngineer Could not find bonus description "WpnRecoil" used by Weapon_Autocannon_CUAC10_0-STOCK
+02:05.114 [ERROR] MechEngineer Could not find bonus description "WeaponJAMFlat" used by Weapon_Autocannon_CUAC10_0-STOCK
+02:05.114 [ERROR] MechEngineer Could not find bonus description "NoFireInMelee" used by Weapon_Autocannon_CUAC10_0-STOCK
+02:05.117 [ERROR] MechEngineer Could not find bonus description "WpnRecoil" used by Weapon_Autocannon_CLB5X_0-STOCK
+02:05.117 [ERROR] MechEngineer Could not find bonus description "NoFireInMelee" used by Weapon_Autocannon_CLB5X_0-STOCK
+02:05.120 [ERROR] MechEngineer Could not find bonus description "WpnRecoil" used by Weapon_Autocannon_CLB2X_0-STOCK
+02:05.120 [ERROR] MechEngineer Could not find bonus description "NoFireInMelee" used by Weapon_Autocannon_CLB2X_0-STOCK
+02:05.124 [ERROR] MechEngineer Could not find bonus description "WpnRecoil" used by Weapon_Autocannon_CLB20X_0-STOCK
+02:05.124 [ERROR] MechEngineer Could not find bonus description "NoFireInMelee" used by Weapon_Autocannon_CLB20X_0-STOCK
+02:05.127 [ERROR] MechEngineer Could not find bonus description "WpnRecoil" used by Weapon_Autocannon_CLB10X_0-STOCK
+02:05.127 [ERROR] MechEngineer Could not find bonus description "NoFireInMelee" used by Weapon_Autocannon_CLB10X_0-STOCK
+02:46.985 [ERROR] MechEngineer Could not find bonus description "JumpCapacity" used by Gear_JumpJet_Generic_Standard
+02:46.985 [ERROR] MechEngineer Could not find bonus description "JumpHeat" used by Gear_JumpJet_Generic_Standard
+02:46.985 [ERROR] MechEngineer Could not find bonus description "MinWeightJJ" used by Gear_JumpJet_Generic_Standard
+02:46.985 [ERROR] MechEngineer Could not find bonus description "MaxWeightJJ" used by Gear_JumpJet_Generic_Standard
+02:46.985 [ERROR] MechEngineer Could not find bonus description "MaxCountJJ" used by Gear_JumpJet_Generic_Standard
+05:22.621 [ERROR] MechEngineer Could not find bonus description "ReservedSlots" used by emod_engineslots_xl_center
+05:22.706 [ERROR] MechEngineer Could not find bonus description "IsSensorsA" used by Gear_Cockpit_Majesty_M_M_120KL
+05:22.709 [ERROR] MechEngineer Could not find bonus description "IsSensorsA" used by Gear_Cockpit_Majesty_M_M_180KL
+05:22.712 [ERROR] MechEngineer Could not find bonus description "IsSensorsA" used by Gear_Cockpit_Majesty_M_M_60KL
+05:22.714 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_Cockpit_StarCorps_Advanced
+05:22.717 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_Cockpit_StarCorps_Enhanced
+05:22.720 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_Cockpit_StarCorps_Improved
+05:22.742 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_Hartford_F1800
+05:22.745 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_Hartford_F2400
+05:22.747 [ERROR] MechEngineer Could not find bonus description "EvasionIgnore" used by Gear_TargetingTrackingSystem_Hartford_F3000
+05:22.747 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_Hartford_F3000
+05:22.750 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_Kallon_A-C-1000
+05:22.753 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_Kallon_A-C-1500
+05:22.755 [ERROR] MechEngineer Could not find bonus description "EvasionIgnore" used by Gear_TargetingTrackingSystem_Kallon_A-C-P150+
+05:22.755 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_Kallon_A-C-P150+
+05:22.758 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_RCA_InstaTrac-IX
+05:22.761 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_RCA_InstaTrac-VIII
+05:22.764 [ERROR] MechEngineer Could not find bonus description "EvasionIgnore" used by Gear_TargetingTrackingSystem_RCA_InstaTrac-X
+05:22.764 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_RCA_InstaTrac-X
+05:22.786 [ERROR] MechEngineer Could not find bonus description "IsSensorsA" used by Gear_Cockpit_Majesty_M_M_MagestrixAlpha
+05:22.789 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_Cockpit_StarCorps_Dalban
+05:22.792 [ERROR] MechEngineer Could not find bonus description "Minimal range -45m" used by Gear_Cockpit_Tacticon_B2000_Battle_Computer
+05:24.394 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_Cockpit_Tacticon_B2000_Battle_Computer
+05:24.399 [ERROR] MechEngineer Could not find bonus description "EvasionIgnore" used by Gear_TargetingTrackingSystem_Hartford_S2000
+05:24.399 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_Hartford_S2000
+05:24.402 [ERROR] MechEngineer Could not find bonus description "EvasionIgnore" used by Gear_TargetingTrackingSystem_Kallon_Lock-On
+05:24.402 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_Kallon_Lock-On
+05:24.405 [ERROR] MechEngineer Could not find bonus description "EvasionIgnore" used by Gear_TargetingTrackingSystem_RCA_InstaTrac-XII
+05:24.405 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_RCA_InstaTrac-XII
+05:24.410 [ERROR] MechEngineer Could not find bonus description "+20% EnergyDmg" used by Gear_General_Optimized_Capacitors
+05:24.411 [ERROR] MechEngineer Could not find bonus description "IsSensorsA" used by Gear_General_Optimized_Capacitors
+05:24.428 [ERROR] MechEngineer Could not find bonus description "+90m Supp.Range, +5 MeleeDefense" used by Gear_General_Close_Quarters_Combat_Suite
+05:24.428 [ERROR] MechEngineer Could not find bonus description "IsSensorsA" used by Gear_General_Close_Quarters_Combat_Suite
+05:24.434 [ERROR] MechEngineer Could not find bonus description "IsSensorsA" used by Gear_General_Intercept_System
+05:24.438 [ERROR] MechEngineer Could not find bonus description "IsSensorsA" used by Gear_General_Rangefinder_Suite
+05:24.590 [ERROR] MechEngineer Could not find bonus description "Minimal range -45m" used by Gear_Cockpit_Corean_B-Tech
+05:24.590 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_Cockpit_Corean_B-Tech
+05:24.593 [ERROR] MechEngineer Could not find bonus description "Ignores 2 Evasion for LRMs" used by Gear_General_Amain_Intercept_System
+05:24.593 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_General_Amain_Intercept_System
+05:24.596 [ERROR] MechEngineer Could not find bonus description "-2 Range Penalty for Large Lasers" used by Gear_General_CM_LL_Range_Improvement
+05:24.596 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_General_CM_LL_Range_Improvement
+05:24.598 [ERROR] MechEngineer Could not find bonus description "-2 Range Penalty for PPCs" used by Gear_General_CM_PPC_Range_Improvement
+05:24.598 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_General_CM_PPC_Range_Improvement
+05:24.602 [ERROR] MechEngineer Could not find bonus description "-2 Recoil Penalty" used by Gear_General_Dorwinion_Ballistic_Compensators
+05:24.602 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_General_Dorwinion_Ballistic_Compensators
+05:24.609 [ERROR] MechEngineer Could not find bonus description "+10% Ballistic Dmg" used by Gear_General_OP_2000A_Interface
+05:24.610 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_General_OP_2000A_Interface
+05:24.612 [ERROR] MechEngineer Could not find bonus description "+10% PPC Damage" used by Gear_General_OP_2000A_InterfacePPC
+05:24.612 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_General_OP_2000A_InterfacePPC
+05:24.615 [ERROR] MechEngineer Could not find bonus description "+ 2 Acc. for Narc" used by Gear_General_Starbeam_3000_Narc_Deployment
+05:24.615 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_General_Starbeam_3000_Narc_Deployment
+05:24.617 [ERROR] MechEngineer Could not find bonus description "- 35% Stb.Dmg. Taken" used by Gear_Gyro_Cosara_Balanced_Gyros
+05:24.668 [ERROR] MechEngineer Can't find critical effect id 'CriticalEffect-VehicleMotiveCruiseVTOLCrit1'
+05:24.668 [ERROR] MechEngineer Can't find critical effect id 'CriticalEffect-VehicleMotiveFlankVTOLCrit1'
+05:24.668 [ERROR] MechEngineer Can't find critical effect id 'CriticalEffect-VehicleMotiveCruiseVTOLCrit2'
+05:24.668 [ERROR] MechEngineer Can't find critical effect id 'CriticalEffect-VehicleMotiveFlankVTOLCrit2'
+05:24.669 [ERROR] MechEngineer Can't find critical effect id 'CriticalEffect-VehicleMotiveCruiseVTOLCrit3'
+05:24.669 [ERROR] MechEngineer Can't find critical effect id 'CriticalEffect-VehicleMotiveFlankVTOLCrit3'
+05:24.669 [ERROR] MechEngineer Could not find bonus description "MotiveSystemCrit" used by Gear_VTOL
+05:24.669 [ERROR] MechEngineer Could not find bonus description "VitalComponent" used by Gear_VTOL
+05:24.669 [ERROR] MechEngineer Could not find bonus description "RotorDurability" used by Gear_VTOL
+05:24.680 [ERROR] MechEngineer Could not find bonus description "ArmAccuracyBonus" used by emod_arm_hand
+05:24.680 [ERROR] MechEngineer Could not find bonus description "MeleeAccuracyBonus" used by emod_arm_hand
+05:24.682 [ERROR] MechEngineer Could not find bonus description "ArmAccuracyBonus" used by emod_arm_lower
+05:24.696 [ERROR] MechEngineer Could not find bonus description "StructureWeightReduction" used by emod_structureslots_endosteel
+05:24.696 [ERROR] MechEngineer Could not find bonus description "ReservedSlots" used by emod_structureslots_endosteel
+05:24.698 [ERROR] MechEngineer Could not find bonus description "OverheatDamage" used by Gear_Cockpit_Generic_Small
+05:24.717 [ERROR] MechEngineer Could not find bonus description "StandUP" used by Quad_Front_leg_foot
+05:24.719 [ERROR] MechEngineer Could not find bonus description "StandUP" used by Quad_Front_leg_hip
+05:24.721 [ERROR] MechEngineer Could not find bonus description "StandUP" used by Quad_Front_leg_lower
+05:24.723 [ERROR] MechEngineer Could not find bonus description "StandUP" used by Quad_Front_leg_upper
+05:24.725 [ERROR] MechEngineer Could not find bonus description "StandUP" used by Quad_Hind_leg_foot
+05:24.727 [ERROR] MechEngineer Could not find bonus description "StandUP" used by Quad_Hind_leg_hip
+05:24.729 [ERROR] MechEngineer Could not find bonus description "StandUP" used by Quad_Hind_leg_lower
+05:24.730 [ERROR] MechEngineer Could not find bonus description "StandUP" used by Quad_Hind_leg_upper
+05:24.733 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_I3F1
+05:24.736 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_I3F2
+05:24.739 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_TargetingTrackingSystem_I3F3
+05:24.741 [ERROR] MechEngineer Could not find bonus description "Target Initiative -1" used by Gear_Actuator_Komiyaba_Grapple_Frame
+05:24.743 [ERROR] MechEngineer Could not find bonus description "+10% Laser Damage" used by Gear_General_OP_2000A_InterfaceLaser
+05:24.743 [ERROR] MechEngineer Could not find bonus description "IsSensorsB" used by Gear_General_OP_2000A_InterfaceLaser
+05:24.746 [ERROR] MechEngineer Could not find bonus description "HoverMotive" used by Gear_Hover_Left
+05:24.746 [ERROR] MechEngineer Could not find bonus description "MotiveSystemCrit" used by Gear_Hover_Left
+05:24.748 [ERROR] MechEngineer Could not find bonus description "HoverMotive" used by Gear_Hover_Right
+05:24.748 [ERROR] MechEngineer Could not find bonus description "MotiveSystemCrit" used by Gear_Hover_Right
+05:24.750 [ERROR] MechEngineer Could not find bonus description "TrackedMotive" used by Gear_Tracked_Left
+05:24.750 [ERROR] MechEngineer Could not find bonus description "MotiveSystemCrit" used by Gear_Tracked_Left
+05:24.753 [ERROR] MechEngineer Could not find bonus description "TrackedMotive" used by Gear_Tracked_Right
+05:24.753 [ERROR] MechEngineer Could not find bonus description "MotiveSystemCrit" used by Gear_Tracked_Right
+05:24.755 [ERROR] MechEngineer Could not find bonus description "WheeledMotive" used by Gear_Wheeled_Left
+05:24.755 [ERROR] MechEngineer Could not find bonus description "MotiveSystemCrit" used by Gear_Wheeled_Left
+05:24.758 [ERROR] MechEngineer Could not find bonus description "WheeledMotive" used by Gear_Wheeled_Right
+05:24.758 [ERROR] MechEngineer Could not find bonus description "MotiveSystemCrit" used by Gear_Wheeled_Right
+05:24.760 [ERROR] MechEngineer Could not find bonus description "VitalComponent" used by Tank_CrewCompartment
+05:24.764 [ERROR] MechEngineer Could not find bonus description "AdvancedSensors" used by Tank_Sensors_Generic
+05:24.767 [ERROR] MechEngineer Could not find bonus description "TankTurretCrit" used by Tank_Turret
+05:24.820 [ERROR] MechEngineer Could not find bonus description "JumpCapacity" used by Gear_JumpJet_Generic_Assault
+05:24.820 [ERROR] MechEngineer Could not find bonus description "JumpHeat" used by Gear_JumpJet_Generic_Assault
+05:24.820 [ERROR] MechEngineer Could not find bonus description "MinWeightJJ" used by Gear_JumpJet_Generic_Assault
+05:24.820 [ERROR] MechEngineer Could not find bonus description "MaxWeightJJ" used by Gear_JumpJet_Generic_Assault
+05:24.820 [ERROR] MechEngineer Could not find bonus description "MaxCountJJ" used by Gear_JumpJet_Generic_Assault
+05:24.822 [ERROR] MechEngineer Could not find bonus description "JumpCapacity" used by Gear_JumpJet_Generic_Heavy
+05:24.822 [ERROR] MechEngineer Could not find bonus description "JumpHeat" used by Gear_JumpJet_Generic_Heavy
+05:24.822 [ERROR] MechEngineer Could not find bonus description "MinWeightJJ" used by Gear_JumpJet_Generic_Heavy
+05:24.822 [ERROR] MechEngineer Could not find bonus description "MaxWeightJJ" used by Gear_JumpJet_Generic_Heavy
+05:24.822 [ERROR] MechEngineer Could not find bonus description "MaxCountJJ" used by Gear_JumpJet_Generic_Heavy
+05:24.831 [ERROR] MechEngineer Could not find bonus description "JumpCapacity" used by Gear_JumpJet_Improved_Assault
+05:24.831 [ERROR] MechEngineer Could not find bonus description "JumpHeat" used by Gear_JumpJet_Improved_Assault
+05:24.831 [ERROR] MechEngineer Could not find bonus description "MinWeightJJ" used by Gear_JumpJet_Improved_Assault
+05:24.831 [ERROR] MechEngineer Could not find bonus description "MaxWeightJJ" used by Gear_JumpJet_Improved_Assault
+05:24.831 [ERROR] MechEngineer Could not find bonus description "MaxCountJJ" used by Gear_JumpJet_Improved_Assault
+05:24.833 [ERROR] MechEngineer Could not find bonus description "JumpCapacity" used by Gear_JumpJet_Improved_Heavy
+05:24.833 [ERROR] MechEngineer Could not find bonus description "JumpHeat" used by Gear_JumpJet_Improved_Heavy
+05:24.833 [ERROR] MechEngineer Could not find bonus description "MinWeightJJ" used by Gear_JumpJet_Improved_Heavy
+05:24.833 [ERROR] MechEngineer Could not find bonus description "MaxWeightJJ" used by Gear_JumpJet_Improved_Heavy
+05:24.833 [ERROR] MechEngineer Could not find bonus description "MaxCountJJ" used by Gear_JumpJet_Improved_Heavy
+05:24.835 [ERROR] MechEngineer Could not find bonus description "JumpCapacity" used by Gear_JumpJet_Improved_Heavy_Prototype
+05:24.835 [ERROR] MechEngineer Could not find bonus description "JumpHeat" used by Gear_JumpJet_Improved_Heavy_Prototype
+05:24.835 [ERROR] MechEngineer Could not find bonus description "MinWeightJJ" used by Gear_JumpJet_Improved_Heavy_Prototype
+05:24.835 [ERROR] MechEngineer Could not find bonus description "MaxWeightJJ" used by Gear_JumpJet_Improved_Heavy_Prototype
+05:24.835 [ERROR] MechEngineer Could not find bonus description "MaxCountJJ" used by Gear_JumpJet_Improved_Heavy_Prototype
+05:24.837 [ERROR] MechEngineer Could not find bonus description "JumpCapacity" used by Gear_JumpJet_Improved_Standard
+05:24.837 [ERROR] MechEngineer Could not find bonus description "JumpHeat" used by Gear_JumpJet_Improved_Standard
+05:24.837 [ERROR] MechEngineer Could not find bonus description "MinWeightJJ" used by Gear_JumpJet_Improved_Standard
+05:24.837 [ERROR] MechEngineer Could not find bonus description "MaxWeightJJ" used by Gear_JumpJet_Improved_Standard
+05:24.837 [ERROR] MechEngineer Could not find bonus description "MaxCountJJ" used by Gear_JumpJet_Improved_Standard
+15:10.099 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+15:10.102 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:27.681 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:27.683 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:28.325 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:28.327 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:29.748 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:29.749 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:30.366 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:30.368 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:31.040 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:31.042 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:31.351 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:31.353 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:32.159 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:32.161 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:32.950 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:32.952 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:34.394 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:34.396 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:34.641 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:34.642 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:36.153 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+21:36.155 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+25:16.978 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+25:16.980 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+37:59.497 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+37:59.498 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+37:59.762 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+37:59.764 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:00.524 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:00.526 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:01.489 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:01.491 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:02.027 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:02.029 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:03.052 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:03.053 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:06.088 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:06.090 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:06.124 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:06.125 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:07.084 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:07.086 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:08.280 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:08.282 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:08.315 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponSubType subType, BattleTech.WeaponType type, BattleTech.WeaponCategoryValue categoryValue) [0x00066] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyWeaponStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics.GetShotsWhenFired (System.Int32 baseValue) [0x00012] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef, System.Single damage, System.Single instability, System.Single accuracy) [0x00027] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+WeaponDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, BattleTech.WeaponDef weaponDef) [0x00015] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics+<>c__DisplayClass16_0.<.ctor>b__3 (BattleTech.WeaponDef x) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at System.Linq.Enumerable+WhereSelectEnumerableIterator`2[TSource,TResult].ToList () [0x00029] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <1b13ba6391c74847bbc3eddc86df7eee>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Func`2[T,TResult] customFilter) [0x000a1] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefFirepowerStatistics..ctor (BattleTech.MechDef mechDef, System.Int32 minRange, System.Int32 maxRange) [0x00014] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.GetFirepower (BattleTech.MechDef mechDef, System.Nullable`1[T] canUseInMelee) [0x00039] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.CloseRangeStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateFirepowerStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+38:08.316 [ERROR] MechEngineer System.NullReferenceException: Object reference not set to an instance of an object
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefStatisticModifier.ModifyStatistic[T] (MechEngineer.Helper.StatisticAdapter`1[T] stat, BattleTech.MechDef mechDef, System.Boolean acceptAllDamageLevels) [0x00071] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics.GetHeatSinkCapacity () [0x00025] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Helper.MechDefHeatEfficiencyStatistics..ctor (BattleTech.MechDef mechDef) [0x00018] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Stats.HeatEfficiencyStat.BarValue (BattleTech.MechDef mechDef) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 
+	  at MechEngineer.Features.OverrideStatTooltips.Patches.MechStatisticsRules_CalculateHeatEfficiencyStat_Patch.Prefix (BattleTech.MechDef mechDef, System.Single& currentValue, System.Single& maxValue) [0x00000] in <94c54adc38c14ae7a7460202c622f6c5>:0 

@@ -250,7 +250,7 @@
         "CBTWalkAndRunMPRounding" : true,
         "AdditionalWalkSpeed" : 24,
         "AdditionalRunSpeed" : 60,
-        "MovementPointDistanceMultiplier" : 30,
+        "MovementPointDistanceMultiplier" : 24,
         "JumpJetMovementPointDistanceMultiplier" : null,
         "MinimJumpHeat" : 9,
         "JumpJetDefaultJumpHeat" : 3,

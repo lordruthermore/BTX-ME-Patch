@@ -1,0 +1,233 @@
+{
+  "Description": {
+    "Cost": 4960000,
+    "Rarity": 5,
+    "Purchasable": true,
+    "Manufacturer": "",
+    "Model": "",
+    "UIName": "Shadow Hawk",
+    "Id": "chassisdef_shadowhawk_SHD-2Ht",
+    "Name": "Shadow Hawk",
+    "Details": "A refit of the SHD-2H developed by ComStar for the Battle of Tukayyid, the SH-2Ht was primarily intended as an Elemental hunter. While almost being visually identical to the venerable 2H, the 2Ht retains only the arm-mounted Martel Model 5 Medium Laser, trading the shoulder mounted autocannon for a Krupp Model 32 Large Laser and both missile racks for five Blankenburg SLS Streak SRM-2 launchers in the right torso fed by single ton of CASE protected ammo. The weapon swap was made possible by a reduced number of now double heat sinks. Most SHD-2Ht's were gathered together in anti-infantry teams alongside JR7-F Jenners attached to each Army, the 'Mech proving highly successful against Clans forces who misidentified it as the normal SHD-2H and closed to short-range, eventually leading them to mistakenly assume all Com Guard Shadow Hawks on Tukayyid were the SHD-2Ht.",
+    "Icon": "uixTxrIcon_shadowhawk"
+  },
+  "MovementCapDefID": "movedef_shadowhawk_SHD-2H",
+  "PathingCapDefID": "pathingdef_medium",
+  "HardpointDataDefID": "hardpointdatadef_shadowhawk",
+  "PrefabIdentifier": "chrPrfMech_shadowhawkBase-001",
+  "PrefabBase": "shadowhawk",
+  "Tonnage": 55,
+  "InitialTonnage": 27.5,
+  "weightClass": "MEDIUM",
+  "BattleValue": 5171000,
+  "Heatsinks": 10,
+  "TopSpeed": 80,
+  "TurnRadius": 90,
+  "MaxJumpjets": 5,
+  "Stability": 130,
+  "StabilityDefenses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "SpotterDistanceMultiplier": 1,
+  "VisibilityMultiplier": 1,
+  "SensorRangeMultiplier": 1,
+  "Signature": 0,
+  "Radius": 5,
+  "PunchesWithLeftArm": false,
+  "MeleeDamage": 85,
+  "MeleeInstability": 55,
+  "MeleeToHitModifier": -2,
+  "DFADamage": 70,
+  "DFAToHitModifier": 0,
+  "DFASelfDamage": 70,
+  "DFAInstability": 70,
+  "Locations": [
+    {
+      "Location": "Head",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 1,
+      "MaxArmor": 45,
+      "MaxRearArmor": -1,
+      "InternalStructure": 16
+    },
+    {
+      "Location": "LeftArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 90,
+      "MaxRearArmor": -1,
+      "InternalStructure": 45
+    },
+    {
+      "Location": "LeftTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 130,
+      "MaxRearArmor": 65,
+      "InternalStructure": 65
+    },
+    {
+      "Location": "CenterTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 180,
+      "MaxRearArmor": 90,
+      "InternalStructure": 90
+    },
+    {
+      "Location": "RightTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 130,
+      "MaxRearArmor": 65,
+      "InternalStructure": 65
+    },
+    {
+      "Location": "RightArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 90,
+      "MaxRearArmor": -1,
+      "InternalStructure": 45
+    },
+    {
+      "Location": "LeftLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 130,
+      "MaxRearArmor": -1,
+      "InternalStructure": 65
+    },
+    {
+      "Location": "RightLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 130,
+      "MaxRearArmor": -1,
+      "InternalStructure": 65
+    }
+  ],
+  "LOSSourcePositions": [
+    {
+      "x": 0,
+      "y": 15,
+      "z": 0
+    },
+    {
+      "x": 4,
+      "y": 15,
+      "z": 0
+    },
+    {
+      "x": -4,
+      "y": 15,
+      "z": 0
+    }
+  ],
+  "LOSTargetPositions": [
+    {
+      "x": 0,
+      "y": 15,
+      "z": 0
+    },
+    {
+      "x": 4,
+      "y": 15,
+      "z": 0
+    },
+    {
+      "x": -4,
+      "y": 15,
+      "z": 0
+    },
+    {
+      "x": 2.5,
+      "y": 6,
+      "z": 2.5
+    },
+    {
+      "x": -2.5,
+      "y": 6,
+      "z": 2.5
+    }
+  ],
+  "VariantName": "SHD-2Ht",
+  "ChassisTags": {
+    "items": [
+      "chassis_DHS",
+      "mech_case_right",
+      "mech_quirk_battlefists",
+      "mech_quirk_improvedlifesupport"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "StockRole": "Brawler & Skirmisher",
+  "YangsThoughts": "This is another ComStar refit for Battle of Tukayyid. The SHD-2Ht got a Large Laser and an additional Medium Laser, coupled with five Streak SRM launchers instead of conventional weapons. Other nice changes include two additional jump jets, a CASE system in the right torso and ten double heat sinks. A serious opponent at short range, but for ranged combat it may lack firepower.",
+  "FixedEquipment": [
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Gear_General_OP_2000A_InterfaceLaser",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    }
+  ]
+}

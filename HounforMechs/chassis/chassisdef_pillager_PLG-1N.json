@@ -1,0 +1,230 @@
+{
+  "Description": {
+    "Cost": 9630000,
+    "Rarity": 3,
+    "Purchasable": true,
+    "Manufacturer": "",
+    "Model": "",
+    "UIName": "Pillager",
+    "Id": "chassisdef_pillager_PLG-1N",
+    "Name": "Pillager",
+    "Details": "The original Pillager, designed in 2575 and fielded for the first two decades of the Reunification War, uses a standard Fusion Engine instead of the Extralight model that went into production. Other limitations include a 60 meter jump range and 17 tons of armor. The weapons suite was also different, relying on twin torso mounted Autocannon/20s, a single SRM-4, and three Medium Lasers; one mounted in each arm and a head-mounted laser firing to the rear. Sixteen single heat sinks kept the heat under control.",
+    "Icon": "uixTxrIcon_kodiak"
+  },
+  "MovementCapDefID": "movedef_atlas_AS7-D",
+  "PathingCapDefID": "pathingdef_assault",
+  "HardpointDataDefID": "hardpointdatadef_kodiak",
+  "PrefabIdentifier": "chrprfmech_kodiakbase-001",
+  "PrefabBase": "kodiak",
+  "Tonnage": 100,
+  "InitialTonnage": 35,
+  "weightClass": "ASSAULT",
+  "BattleValue": 2927000,
+  "Heatsinks": 0,
+  "TopSpeed": 50,
+  "TurnRadius": 90,
+  "MaxJumpjets": 2,
+  "Stability": 200,
+  "StabilityDefenses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "SpotterDistanceMultiplier": 1,
+  "VisibilityMultiplier": 1,
+  "SensorRangeMultiplier": 1,
+  "Signature": 0,
+  "Radius": 8,
+  "PunchesWithLeftArm": false,
+  "MeleeDamage": 140,
+  "MeleeInstability": 100,
+  "MeleeToHitModifier": -2,
+  "DFADamage": 125,
+  "DFAToHitModifier": 0,
+  "DFASelfDamage": 125,
+  "DFAInstability": 125,
+  "Locations": [
+    {
+      "Location": "Head",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 1,
+      "MaxArmor": 45,
+      "MaxRearArmor": -1,
+      "InternalStructure": 16
+    },
+    {
+      "Location": "LeftArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 170,
+      "MaxRearArmor": -1,
+      "InternalStructure": 85
+    },
+    {
+      "Location": "LeftTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Ballistic",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Ballistic",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 210,
+      "MaxRearArmor": 105,
+      "InternalStructure": 105
+    },
+    {
+      "Location": "CenterTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 310,
+      "MaxRearArmor": 155,
+      "InternalStructure": 155
+    },
+    {
+      "Location": "RightTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Ballistic",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Ballistic",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 210,
+      "MaxRearArmor": 105,
+      "InternalStructure": 105
+    },
+    {
+      "Location": "RightArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 170,
+      "MaxRearArmor": -1,
+      "InternalStructure": 85
+    },
+    {
+      "Location": "LeftLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 210,
+      "MaxRearArmor": -1,
+      "InternalStructure": 105
+    },
+    {
+      "Location": "RightLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 210,
+      "MaxRearArmor": -1,
+      "InternalStructure": 105
+    }
+  ],
+  "LOSSourcePositions": [
+    {
+      "x": 0.0,
+      "y": 16.0,
+      "z": 16.0
+    },
+    {
+      "x": 5.0,
+      "y": 16.0,
+      "z": 16.0
+    },
+    {
+      "x": -5.0,
+      "y": 16.0,
+      "z": 16.0
+    }
+  ],
+  "LOSTargetPositions": [
+    {
+      "x": 0.0,
+      "y": 16.0,
+      "z": 16.0
+    },
+    {
+      "x": 5.0,
+      "y": 16.0,
+      "z": 16.0
+    },
+    {
+      "x": -5.0,
+      "y": 16.0,
+      "z": 16.0
+    },
+    {
+      "x": 3.5,
+      "y": 5.5,
+      "z": 5.5
+    },
+    {
+      "x": -3.5,
+      "y": 5.5,
+      "z": 5.5
+    }
+  ],
+  "VariantName": "PLG-1N",
+  "ChassisTags": {
+    "items": [
+      "mech_quirk_battlefists"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "StockRole": "Brawler",
+  "YangsThoughts": "The 1N Pillager was originally conceived as the Victor's older brother: both BattleMechs have a similar composition of weapons with the difference that the Pillager carries not one, but two AC/20 autocannons and an additional medium laser, as well as seventeen tons of armor, but has a shorter jump range due to only two mounted jump jets. The 'Mech is practically unarmed for long-range combat, but God forbid being within range of its main caliber."
+}

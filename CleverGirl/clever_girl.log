@@ -1,0 +1,15 @@
+16:27:18.150 Assembly version: 0.5.1.0
+16:27:18.151 ModDir is:F:\Steam\steamapps\common\BATTLETECH\Mods\CleverGirl
+16:27:18.151 mod.json settings are:({"Debug":true,"Trace":false,"Profile":false,"UseCBTBEMelee":true,"Weights":{"FriendlyDamageMulti":2.0,"PunchbotDamageMulti":2.0,"OneShotMinimumToHit":0.4}})
+16:27:18.152 === MOD CONFIG BEGIN ===
+16:27:18.152  LOGGING -- Debug:True Trace:False
+16:27:18.152  CBTBEMelee: True
+16:27:18.152 
+16:27:18.152 --- Decision Weights ---
+16:27:18.152  FriendlyDamageMulti: 2
+16:27:18.152  PunchbotDamageMulti: 2
+16:27:18.152 === MOD CONFIG END ===
+16:28:41.150 Checking for relevant types in all assemblies
+16:28:41.310 Adding position factor: CBTBehaviorsEnhanced.Patches.AI.InfluenceMap.PreferAvoidMeleeWhenOutTonned
+16:28:41.310 Adding position factor: CBTBehaviorsEnhanced.Patches.AI.InfluenceMap.PreferStationaryWithMeleeWeapon
+16:28:41.364  -- Done checking for influence factors

@@ -1,0 +1,209 @@
+{
+  "Description": {
+    "Cost": 6020000,
+    "Rarity": 5,
+    "Purchasable": true,
+    "Manufacturer": "",
+    "Model": "",
+    "UIName": "Von Rohrs",
+    "Id": "chassisdef_vonrohrs_VON-4RH-6",
+    "Name": "Von Rohrs",
+    "Details": "A planned variant that may or may not have reached production status prior to the annihilation of the Von Rohrs family, this version of the Von Rohrs called for the replacement of the missile launcher with two SRM-4s. An additional heat sink would have allowed it to keep up a respectable rate of fire.",
+    "Icon": "uixTxrIcon_vonrohrs"
+  },
+  "MovementCapDefID": "movedef_thunder_THR-1L",
+  "PathingCapDefID": "pathingdef_heavy",
+  "HardpointDataDefID": "hardpointdatadef_vonrohrs",
+  "PrefabIdentifier": "chrprfmech_vonrohrsbase-001",
+  "PrefabBase": "vonrohrs",
+  "Tonnage": 65,
+  "InitialTonnage": 37,
+  "weightClass": "HEAVY",
+  "BattleValue": 6057000,
+  "Heatsinks": 0,
+  "TopSpeed": 120,
+  "TurnRadius": 90,
+  "MaxJumpjets": 0,
+  "Stability": 160,
+  "StabilityDefenses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "SpotterDistanceMultiplier": 1,
+  "VisibilityMultiplier": 1,
+  "SensorRangeMultiplier": 1,
+  "Signature": 0,
+  "Radius": 8,
+  "PunchesWithLeftArm": false,
+  "MeleeDamage": 80,
+  "MeleeInstability": 65,
+  "MeleeToHitModifier": 0,
+  "DFADamage": 80,
+  "DFAToHitModifier": 0,
+  "DFASelfDamage": 80,
+  "DFAInstability": 80,
+  "Locations": [
+    {
+      "Location": "Head",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 1,
+      "MaxArmor": 45,
+      "MaxRearArmor": -1,
+      "InternalStructure": 16
+    },
+    {
+      "Location": "LeftArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 100,
+      "MaxRearArmor": -1,
+      "InternalStructure": 50
+    },
+    {
+      "Location": "LeftTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 150,
+      "MaxRearArmor": 75,
+      "InternalStructure": 75
+    },
+    {
+      "Location": "CenterTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 210,
+      "MaxRearArmor": 105,
+      "InternalStructure": 105
+    },
+    {
+      "Location": "RightTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 150,
+      "MaxRearArmor": 75,
+      "InternalStructure": 75
+    },
+    {
+      "Location": "RightArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 100,
+      "MaxRearArmor": -1,
+      "InternalStructure": 50
+    },
+    {
+      "Location": "LeftLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 150,
+      "MaxRearArmor": -1,
+      "InternalStructure": 75
+    },
+    {
+      "Location": "RightLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 150,
+      "MaxRearArmor": -1,
+      "InternalStructure": 75
+    }
+  ],
+  "LOSSourcePositions": [
+    {
+      "x": 0,
+      "y": 12,
+      "z": 1
+    },
+    {
+      "x": 4,
+      "y": 12,
+      "z": 0
+    },
+    {
+      "x": -4,
+      "y": 12,
+      "z": 0
+    }
+  ],
+  "LOSTargetPositions": [
+    {
+      "x": 0,
+      "y": 12,
+      "z": 1
+    },
+    {
+      "x": 4,
+      "y": 12,
+      "z": 0
+    },
+    {
+      "x": -4,
+      "y": 12,
+      "z": 0
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 0
+    }
+  ],
+  "VariantName": "VON 4RH-6",
+  "ChassisTags": {
+    "items": [
+      "mech_quirk_badreputation"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "StockRole": "Skirmisher",
+  "YangsThoughts": "It's not known for certain whether this version was widely produced at all or not, but it seems that several 'Mechs were nevertheless built. Anyway, this particular Von Rohrs is the 4RH-6 model. It differs slightly from its predecessor: the LRM-10 launcher was replaced with twin SRM-4s with one ton of ammunition. If you ask me, Boss, I'd rather sell this thing to some crazy collector.",
+  "FixedEquipment": []
+}

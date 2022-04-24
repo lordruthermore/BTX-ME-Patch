@@ -1,0 +1,205 @@
+{
+  "Description": {
+    "Cost": 5985000,
+    "Rarity": 5,
+    "Purchasable": true,
+    "Manufacturer": "",
+    "Model": "",
+    "UIName": "Von Rohrs",
+    "Id": "chassisdef_vonrohrs_VON-4RH-5",
+    "Name": "Von Rohrs",
+    "Details": "Following the Battle of Nox and the failure of the Gladiator during that battle, Coordinator Von Rohrs ordered the creation of a new manufacturing center with a new BattleMech. 2487 saw the first Von Rohrs step out of the factory. This new 'Mech was to be symbolic of the Dragon's steps forward, as well as the Dragon itself. Following the McAllister Rebellion that saw all of the members of the Von Rohrs dynasty killed, Coordinator Martin McAllister ordered the Von Rohrs renamed the Hebi. He further mandated that the BattleMech not be salvaged from the battlefield and instead chose to focus on newer designs, a situation eerily reminiscent of the fate of the Gladiator. Production ceased in 2510 and the last Hebi was dismantled in 2518.",
+    "Icon": "uixTxrIcon_vonrohrs"
+  },
+  "MovementCapDefID": "movedef_thunder_THR-1L",
+  "PathingCapDefID": "pathingdef_heavy",
+  "HardpointDataDefID": "hardpointdatadef_vonrohrs",
+  "PrefabIdentifier": "chrprfmech_vonrohrsbase-001",
+  "PrefabBase": "vonrohrs",
+  "Tonnage": 65,
+  "InitialTonnage": 37,
+  "weightClass": "HEAVY",
+  "BattleValue": 6057000,
+  "Heatsinks": 0,
+  "TopSpeed": 120,
+  "TurnRadius": 90,
+  "MaxJumpjets": 0,
+  "Stability": 160,
+  "StabilityDefenses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "SpotterDistanceMultiplier": 1,
+  "VisibilityMultiplier": 1,
+  "SensorRangeMultiplier": 1,
+  "Signature": 0,
+  "Radius": 8,
+  "PunchesWithLeftArm": false,
+  "MeleeDamage": 80,
+  "MeleeInstability": 65,
+  "MeleeToHitModifier": 0,
+  "DFADamage": 80,
+  "DFAToHitModifier": 0,
+  "DFASelfDamage": 80,
+  "DFAInstability": 80,
+  "Locations": [
+    {
+      "Location": "Head",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 1,
+      "MaxArmor": 45,
+      "MaxRearArmor": -1,
+      "InternalStructure": 16
+    },
+    {
+      "Location": "LeftArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 100,
+      "MaxRearArmor": -1,
+      "InternalStructure": 50
+    },
+    {
+      "Location": "LeftTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 150,
+      "MaxRearArmor": 75,
+      "InternalStructure": 75
+    },
+    {
+      "Location": "CenterTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 210,
+      "MaxRearArmor": 105,
+      "InternalStructure": 105
+    },
+    {
+      "Location": "RightTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 150,
+      "MaxRearArmor": 75,
+      "InternalStructure": 75
+    },
+    {
+      "Location": "RightArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 100,
+      "MaxRearArmor": -1,
+      "InternalStructure": 50
+    },
+    {
+      "Location": "LeftLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 150,
+      "MaxRearArmor": -1,
+      "InternalStructure": 75
+    },
+    {
+      "Location": "RightLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 150,
+      "MaxRearArmor": -1,
+      "InternalStructure": 75
+    }
+  ],
+  "LOSSourcePositions": [
+    {
+      "x": 0,
+      "y": 12,
+      "z": 1
+    },
+    {
+      "x": 4,
+      "y": 12,
+      "z": 0
+    },
+    {
+      "x": -4,
+      "y": 12,
+      "z": 0
+    }
+  ],
+  "LOSTargetPositions": [
+    {
+      "x": 0,
+      "y": 12,
+      "z": 1
+    },
+    {
+      "x": 4,
+      "y": 12,
+      "z": 0
+    },
+    {
+      "x": -4,
+      "y": 12,
+      "z": 0
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 0
+    }
+  ],
+  "VariantName": "VON 4RH-5",
+  "ChassisTags": {
+    "items": [
+      "mech_quirk_badreputation"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "StockRole": "Sniper & Fire Support",
+  "YangsThoughts": "I wonder where this thing came from at all. It's believed that the last Von Rohrs 'Mech was dismantled back in 2518. I can't say that this 'Mech is anything special: it carries only nine tons of armor, and its armament is almost identical to the Griffin model 1N, which is ten tons lighter, the only difference is in the additional flamethrower. On the other hand, it has a powerful enough engine to accelerate to 86 km/h, so at least it doesn't suffer from a lack of mobility.",
+  "FixedEquipment": []
+}

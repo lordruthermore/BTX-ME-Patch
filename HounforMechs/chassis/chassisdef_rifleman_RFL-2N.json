@@ -1,0 +1,229 @@
+{
+  "Description": {
+    "Cost": 5300000,
+    "Rarity": 5,
+    "Purchasable": true,
+    "Manufacturer": "",
+    "Model": "",
+    "UIName": "Rifleman",
+    "Id": "chassisdef_rifleman_RFL-2N",
+    "Name": "Rifleman",
+    "Details": "Introduced in 2556, the Rifleman RFL-2N replaced the primitive components of the 1N version with standard armor and engine. The freed space and weight allowed engineers to fit in sixteen heat sinks. The large lasers were removed from the arms and replaced by PPCs, while two more medium lasers were added, one in each side torso. Production of this model continued until the RFL-3N was introduced.",
+    "Icon": "uixTxrIcon_rifleman"
+  },
+  "MovementCapDefID": "movedef_rifleman_RFL-3N",
+  "PathingCapDefID": "pathingdef_heavy",
+  "HardpointDataDefID": "hardpointdatadef_rifleman",
+  "PrefabIdentifier": "chrPrfMech_riflemanBase-001",
+  "PrefabBase": "rifleman",
+  "Tonnage": 50,
+  "InitialTonnage": 18.5,
+  "weightClass": "MEDIUM",
+  "BattleValue": 5514000,
+  "Heatsinks": 0,
+  "TopSpeed": 120,
+  "TurnRadius": 90,
+  "MaxJumpjets": 0,
+  "Stability": 160,
+  "StabilityDefenses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "SpotterDistanceMultiplier": 1,
+  "VisibilityMultiplier": 1,
+  "SensorRangeMultiplier": 1,
+  "Signature": 0,
+  "Radius": 8,
+  "PunchesWithLeftArm": false,
+  "MeleeDamage": 55,
+  "MeleeInstability": 60,
+  "MeleeToHitModifier": 0,
+  "DFADamage": 65,
+  "DFAToHitModifier": 0,
+  "DFASelfDamage": 65,
+  "DFAInstability": 65,
+  "Locations": [
+    {
+      "Location": "Head",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 1,
+      "MaxArmor": 45,
+      "MaxRearArmor": -1,
+      "InternalStructure": 16
+    },
+    {
+      "Location": "LeftArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 80,
+      "MaxRearArmor": -1,
+      "InternalStructure": 40
+    },
+    {
+      "Location": "LeftTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 120,
+      "MaxRearArmor": 60,
+      "InternalStructure": 60
+    },
+    {
+      "Location": "CenterTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 160,
+      "MaxRearArmor": 80,
+      "InternalStructure": 80
+    },
+    {
+      "Location": "RightTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 120,
+      "MaxRearArmor": 60,
+      "InternalStructure": 60
+    },
+    {
+      "Location": "RightArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 80,
+      "MaxRearArmor": -1,
+      "InternalStructure": 40
+    },
+    {
+      "Location": "LeftLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 120,
+      "MaxRearArmor": -1,
+      "InternalStructure": 60
+    },
+    {
+      "Location": "RightLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 120,
+      "MaxRearArmor": -1,
+      "InternalStructure": 60
+    }
+  ],
+  "LOSSourcePositions": [
+    {
+      "x": 0,
+      "y": 14,
+      "z": 0.5
+    },
+    {
+      "x": 4.5,
+      "y": 13,
+      "z": -0.5
+    },
+    {
+      "x": -4.5,
+      "y": 13,
+      "z": -0.5
+    }
+  ],
+  "LOSTargetPositions": [
+    {
+      "x": 0,
+      "y": 14,
+      "z": 0.5
+    },
+    {
+      "x": 4.5,
+      "y": 13,
+      "z": -0.5
+    },
+    {
+      "x": -4.5,
+      "y": 13,
+      "z": -0.5
+    },
+    {
+      "x": 2.5,
+      "y": 5,
+      "z": 1.25
+    },
+    {
+      "x": -2.5,
+      "y": 5,
+      "z": 1.25
+    }
+  ],
+  "VariantName": "RFL-2N",
+  "ChassisTags": {
+    "items": [
+      "mech_quirk_antiaircraft",
+      "mech_quirk_improvedcomm",
+      "mech_quirk_searchlight_LT",
+      "mech_quirk_searchlight_RT"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "StockRole": "Anti-Aircraft & Direct-Fire Support",
+  "YangsThoughts": "This is the second Rifleman model ever produced. It carries good armament for its tonnage and is ten tons lighter than the 3H, but it is still a Rifleman with all its flaws – weak armor protection and poor heat management, even with sixteen heat sinks.",
+  "FixedEquipment": [
+    {
+      "MountedLocation": "Head",
+      "ComponentDefID": "Gear_General_Rangefinder_Suite",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    }
+  ]
+}

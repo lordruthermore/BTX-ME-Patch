@@ -1,0 +1,342 @@
+{
+  "Description": {
+    "Cost": 8420000,
+    "Rarity": 5,
+    "Purchasable": true,
+    "Manufacturer": "",
+    "Model": "",
+    "UIName": "Phoenix Hawk",
+    "Id": "chassisdef_phoenixhawk_PXH-1bC",
+    "Name": "Phoenix Hawk",
+    "Details": "Refits of heavily damaged 'Mechs from the 112th Royal Hussar Regiment developed by ComStar for the Battle of Tukayyid, this Phoenix Hawk \"Special\" variant replaces damaged arm-mounted ER PPCs with the Blakenburg 25 ER Large Laser from its torso. The most significant change was mounting Narc Missile Beacons, stripped from KTO-19 Kintaros as part of Operation ROSEBUD, in the left arm with three tons of ammunition in a CASE protected bay in the left torso. Pilots became renowned for tagging over-eager Clan warriors with Homing Pods. The Harmon Medium Lasers remain in the arms, but in recognition of Elementals the machine guns are replaced with a Zippo Flamer, more to cause havoc and cover retreats than for combat. Retaining the six jump jets, it also carries the Guardian ECM Suite of the \"Special\", and twelve double heat sinks. While highly successful in its role, almost all PXH-1bCs were destroyed on Tukayyid.",
+    "Icon": "uixTxrIcon_phoenixhawk"
+  },
+  "MovementCapDefID": "movedef_phoenixhawk_PXH-1b",
+  "PathingCapDefID": "pathingdef_medium",
+  "HardpointDataDefID": "hardpointdatadef_phoenixhawk",
+  "PrefabIdentifier": "chrPrfMech_phoenixhawkBase-001",
+  "PrefabBase": "phoenixhawk",
+  "Tonnage": 45,
+  "InitialTonnage": 16.5,
+  "weightClass": "MEDIUM",
+  "Heatsinks": 10,
+  "MaxJumpjets": 6,
+  "Stability": 130,
+  "StabilityDefenses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "SpotterDistanceMultiplier": 1,
+  "VisibilityMultiplier": 1,
+  "SensorRangeMultiplier": 1,
+  "Signature": 0,
+  "Radius": 5,
+  "PunchesWithLeftArm": false,
+  "MeleeDamage": 60,
+  "MeleeInstability": 45,
+  "MeleeToHitModifier": 0,
+  "DFADamage": 55,
+  "DFAToHitModifier": 0,
+  "DFASelfDamage": 55,
+  "DFAInstability": 55,
+  "Locations": [
+    {
+      "Location": "Head",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 1,
+      "MaxArmor": 45,
+      "MaxRearArmor": -1,
+      "InternalStructure": 16
+    },
+    {
+      "Location": "LeftArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 70,
+      "MaxRearArmor": -1,
+      "InternalStructure": 35
+    },
+    {
+      "Location": "LeftTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 110,
+      "MaxRearArmor": 55,
+      "InternalStructure": 55
+    },
+    {
+      "Location": "CenterTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 140,
+      "MaxRearArmor": 70,
+      "InternalStructure": 70
+    },
+    {
+      "Location": "RightTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 110,
+      "MaxRearArmor": 55,
+      "InternalStructure": 55
+    },
+    {
+      "Location": "RightArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 70,
+      "MaxRearArmor": -1,
+      "InternalStructure": 35
+    },
+    {
+      "Location": "LeftLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 110,
+      "MaxRearArmor": -1,
+      "InternalStructure": 55
+    },
+    {
+      "Location": "RightLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 110,
+      "MaxRearArmor": -1,
+      "InternalStructure": 55
+    }
+  ],
+  "LOSSourcePositions": [
+    {
+      "x": 0,
+      "y": 13,
+      "z": 0
+    },
+    {
+      "x": 3.5,
+      "y": 13,
+      "z": -0.5
+    },
+    {
+      "x": -3.5,
+      "y": 13,
+      "z": -0.5
+    }
+  ],
+  "LOSTargetPositions": [
+    {
+      "x": 0,
+      "y": 13,
+      "z": 0
+    },
+    {
+      "x": 3.5,
+      "y": 13,
+      "z": -0.5
+    },
+    {
+      "x": -3.5,
+      "y": 13,
+      "z": -0.5
+    },
+    {
+      "x": 2.5,
+      "y": 5,
+      "z": 1
+    },
+    {
+      "x": -2.5,
+      "y": 5,
+      "z": 1
+    }
+  ],
+  "VariantName": "PXH-1BC",
+  "ChassisTags": {
+    "items": [
+      "chassis_DHS",
+      "chassis_endo",
+      "mech_case_left",
+      "mech_quirk_improvedcomm",
+      "mech_quirk_largeengine"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "StockRole": "Skirmisher",
+  "YangsThoughts": "Very interesting 'Mech, Boss. This is a ComStar refit used by one of their regiments during the Battle of Tukayyid. The main difference from the original PHX-1b is that the ER PPC and machine guns were dismantled, instead of them Narc Missile Beacons, a flamethrower and two additional double heat sinks were installed. Almost all 'Mechs of this model were destroyed, but looks like a few of them survived the Battle of Tukayyid.",
+  "FixedEquipment": [
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Gear_XL_Engine",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Gear_XL_Engine",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Gear_JumpJet_Vectored_Thrust_Kit",
+      "SimGameUID": "",
+      "ComponentDefType": "JumpJet",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Gear_JumpJet_Vectored_Thrust_Kit",
+      "SimGameUID": "",
+      "ComponentDefType": "JumpJet",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftArm",
+      "ComponentDefID": "Gear_EndoSteel_2_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
+      "ComponentDefID": "Gear_EndoSteel_2_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Gear_EndoSteel_2_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightArm",
+      "ComponentDefID": "Gear_EndoSteel_1_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftLeg",
+      "ComponentDefID": "Gear_EndoSteel_3_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightLeg",
+      "ComponentDefID": "Gear_EndoSteel_3_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
+      "ComponentDefID": "Gear_SensorCAC_Guardian",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    }
+  ]
+}

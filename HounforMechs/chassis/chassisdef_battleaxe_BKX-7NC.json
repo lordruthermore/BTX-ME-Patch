@@ -1,0 +1,206 @@
+{
+  "Description": {
+    "Cost": 6010000,
+    "Rarity": 5,
+    "Purchasable": true,
+    "Manufacturer": "",
+    "Model": "",
+    "UIName": "BattleAxe",
+    "Id": "chassisdef_battleaxe_BKX-7NC",
+    "Name": "BattleAxe",
+    "Details": "Due to the uncertainty of the BattleAxe's jump jets, many MechWarriors had technicians remove the jump jets in favor of two more LRM-5 launchers, one on each side of the torso. It was labeled the 7NC because of its nickname \"No Crash\".",
+    "Icon": "uixTxrIcon_battleaxe"
+  },
+  "MovementCapDefID": "movedef_warhammer_WHM-6R",
+  "PathingCapDefID": "pathingdef_heavy",
+  "HardpointDataDefID": "hardpointdatadef_battleaxe",
+  "PrefabIdentifier": "chrprfmech_battleaxebase-001",
+  "PrefabBase": "battleaxe",
+  "Tonnage": 70,
+  "InitialTonnage": 29,
+  "weightClass": "HEAVY",
+  "Heatsinks": 0,
+  "MaxJumpjets": 4,
+  "Stability": 160,
+  "StabilityDefenses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "SpotterDistanceMultiplier": 1,
+  "VisibilityMultiplier": 1,
+  "SensorRangeMultiplier": 1,
+  "Signature": 0,
+  "Radius": 8,
+  "PunchesWithLeftArm": false,
+  "MeleeDamage": 65,
+  "MeleeInstability": 70,
+  "MeleeToHitModifier": 0,
+  "DFADamage": 90,
+  "DFAToHitModifier": 0,
+  "DFASelfDamage": 90,
+  "DFAInstability": 90,
+  "Locations": [
+    {
+      "Location": "Head",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 1,
+      "MaxArmor": 45,
+      "MaxRearArmor": -1,
+      "InternalStructure": 16
+    },
+    {
+      "Location": "LeftArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 110,
+      "MaxRearArmor": -1,
+      "InternalStructure": 55
+    },
+    {
+      "Location": "LeftTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 150,
+      "MaxRearArmor": 75,
+      "InternalStructure": 75
+    },
+    {
+      "Location": "CenterTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 220,
+      "MaxRearArmor": 110,
+      "InternalStructure": 110
+    },
+    {
+      "Location": "RightTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 150,
+      "MaxRearArmor": 75,
+      "InternalStructure": 75
+    },
+    {
+      "Location": "RightArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 110,
+      "MaxRearArmor": -1,
+      "InternalStructure": 55
+    },
+    {
+      "Location": "LeftLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 150,
+      "MaxRearArmor": -1,
+      "InternalStructure": 75
+    },
+    {
+      "Location": "RightLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 150,
+      "MaxRearArmor": -1,
+      "InternalStructure": 75
+    }
+  ],
+  "LOSSourcePositions": [
+    {
+      "x": 0,
+      "y": 15,
+      "z": 1
+    },
+    {
+      "x": 4,
+      "y": 14,
+      "z": 0
+    },
+    {
+      "x": -4,
+      "y": 14,
+      "z": 0
+    }
+  ],
+  "LOSTargetPositions": [
+    {
+      "x": 0,
+      "y": 15,
+      "z": 1
+    },
+    {
+      "x": 4,
+      "y": 14,
+      "z": 0
+    },
+    {
+      "x": -4,
+      "y": 14,
+      "z": 0
+    },
+    {
+      "x": 2.5,
+      "y": 5,
+      "z": 1
+    },
+    {
+      "x": -2.5,
+      "y": 5,
+      "z": 1
+    }
+  ],
+  "VariantName": "BKX-7NC",
+  "ChassisTags": {
+    "items": [
+      "mech_quirk_difficulttomaintain"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "StockRole": "Sniper & Fire Support",
+  "YangsThoughts": "This is a refit of a regular BKX-7K nicknamed \"No Crash\" due to the removed jump jets. It differs from the original version in that the freed tonnage was used to install two additional LRM-5 launchers into each side torso. On the one hand, the increased firepower isn't bad, but on the other hand, one ton of ammunition for such a large number of launchers is clearly not enough, and due to the fact that the cooling remains the same, the 'Mech overheats much faster.",
+  "FixedEquipment": []
+}

@@ -1,0 +1,229 @@
+{
+  "Description": {
+    "Cost": 15600000,
+    "Rarity": 5,
+    "Purchasable": true,
+    "Manufacturer": "",
+    "Model": "",
+    "UIName": "Marauder",
+    "Id": "chassisdef_marauder_MAD-5CS",
+    "Name": "Marauder",
+    "Details": "Developed by ComStar for the Battle of Tukayyid, this Marauder variant is a fairly simplistic upgrade to allow MAD-3R pilots to readily adapt to. The MAD-5CS has an Magna Sunspot ER PPC and Aberdovey Medium Pulse Laser in each arm weapon pod while the class 5 autocannon is replaced by a Lubalin LB 10-X autocannon with two tons of ammunition. To make room for the new weapons and the eighteen double heat sinks, ComStar 'Techs installed a Vlar 300 XL Engine from the Clanbuster cache.",
+    "Icon": "uixTxrIcon_marauder"
+  },
+  "MovementCapDefID": "movedef_marauder_MAD-3R",
+  "PathingCapDefID": "pathingdef_heavy",
+  "HardpointDataDefID": "hardpointdatadef_marauder",
+  "PrefabIdentifier": "chrPrfMech_marauderBase-001",
+  "PrefabBase": "marauder",
+  "Tonnage": 75,
+  "InitialTonnage": 24,
+  "weightClass": "HEAVY",
+  "Heatsinks": 16,
+  "MaxJumpjets": 0,
+  "Stability": 160,
+  "StabilityDefenses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "SpotterDistanceMultiplier": 1,
+  "VisibilityMultiplier": 1,
+  "SensorRangeMultiplier": 1,
+  "Signature": 0,
+  "Radius": 8,
+  "PunchesWithLeftArm": false,
+  "MeleeDamage": 70,
+  "MeleeInstability": 75,
+  "MeleeToHitModifier": 0,
+  "DFADamage": 95,
+  "DFAToHitModifier": 0,
+  "DFASelfDamage": 95,
+  "DFAInstability": 95,
+  "Locations": [
+    {
+      "Location": "Head",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 1,
+      "MaxArmor": 45,
+      "MaxRearArmor": -1,
+      "InternalStructure": 16
+    },
+    {
+      "Location": "LeftArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 120,
+      "MaxRearArmor": -1,
+      "InternalStructure": 60
+    },
+    {
+      "Location": "LeftTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 160,
+      "MaxRearArmor": 80,
+      "InternalStructure": 80
+    },
+    {
+      "Location": "CenterTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 230,
+      "MaxRearArmor": 115,
+      "InternalStructure": 115
+    },
+    {
+      "Location": "RightTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Ballistic",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Ballistic",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 160,
+      "MaxRearArmor": 80,
+      "InternalStructure": 80
+    },
+    {
+      "Location": "RightArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 120,
+      "MaxRearArmor": -1,
+      "InternalStructure": 60
+    },
+    {
+      "Location": "LeftLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 160,
+      "MaxRearArmor": -1,
+      "InternalStructure": 80
+    },
+    {
+      "Location": "RightLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 160,
+      "MaxRearArmor": -1,
+      "InternalStructure": 80
+    }
+  ],
+  "LOSSourcePositions": [
+    {
+      "x": 0,
+      "y": 13.5,
+      "z": 1
+    },
+    {
+      "x": 3,
+      "y": 13,
+      "z": -1
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": -1
+    }
+  ],
+  "LOSTargetPositions": [
+    {
+      "x": 0,
+      "y": 13.5,
+      "z": 1
+    },
+    {
+      "x": 3,
+      "y": 13,
+      "z": -1
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": -1
+    },
+    {
+      "x": 2.5,
+      "y": 7,
+      "z": -2.5
+    },
+    {
+      "x": -2.5,
+      "y": 7,
+      "z": -2.5
+    }
+  ],
+  "VariantName": "MAD-5CS",
+  "ChassisTags": {
+    "items": [
+      "chassis_DHS",
+      "mech_quirk_commandmech",
+      "mech_quirk_hyperextendingactuators",
+      "mech_quirk_narrowlowprofile"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "StockRole": "Heavy Assault",
+  "YangsThoughts": "A modification of the classic Marauder created by ComStar for the Battle of Tukayyid. An XL Engine was installed and the armament was also changed: PPCs and Medium Lasers were replaced by ER PPCs and Medium Pulse Lasers, and an LB 10-X class cannon was mounted instead of the AC/5. ComStar ‘Techs have also redesigned the cooling system to use eighteen double heat sinks.",
+  "FixedEquipment": [
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Gear_XL_Engine",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Gear_XL_Engine",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    }
+  ]
+}

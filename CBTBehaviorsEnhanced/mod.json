@@ -159,7 +159,7 @@
             "RunMulti" : 1.5,
             "FallAfterRunChance" : 0.30,
             "FallAfterJumpChance" : 0.30,
-			"MPMetersPerHex": 30.0
+			"MPMetersPerHex": 25.0
         },
         
         "Piloting" : {

@@ -1,0 +1,196 @@
+{
+  "Description": {
+    "Cost": 3280000,
+    "Rarity": 3,
+    "Purchasable": true,
+    "Manufacturer": "",
+    "Model": "",
+    "UIName": "Kyudo",
+    "Id": "chassisdef_kyudo_KY2-D-01",
+    "Name": "Kyudo",
+    "Details": "The Kyudo was developed by Martinson Armaments early in the history of BattleMechs, having been unveiled in 2443. The Terran Hegemony purchased the design that was intended to support the Mackie, as it was cheaper than that 'Mech.\r\n\r\nThe earliest version of the Kyudo used the technology that was available at the time, but was primitive compared to the -02. It could only manage 64 km/h and had inferior armor protection, despite carrying nine and half tons of it. It used a standard Large Laser and an LRM-10. This version of the Kyudo served with the Hegemony Armed Forces throughout the Reunification War. Gradually it was reassigned to various militia and reserve forces before being destroyed in the Amaris Civil War.",
+    "Icon": "uixTxrIcon_vindicator"
+  },
+  "MovementCapDefID": "movedef_vindicator_VND-1R",
+  "PathingCapDefID": "pathingdef_medium",
+  "HardpointDataDefID": "hardpointdatadef_vindicator",
+  "PrefabIdentifier": "chrPrfMech_vindicatorBase-001",
+  "PrefabBase": "vindicator",
+  "Tonnage": 45,
+  "InitialTonnage": 25.5,
+  "weightClass": "MEDIUM",
+  "BattleValue": 4252000,
+  "Heatsinks": 0,
+  "TopSpeed": 120,
+  "TurnRadius": 90,
+  "MaxJumpjets": 0,
+  "Stability": 130,
+  "StabilityDefenses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "SpotterDistanceMultiplier": 1,
+  "VisibilityMultiplier": 1,
+  "SensorRangeMultiplier": 1,
+  "Signature": 0,
+  "Radius": 5,
+  "PunchesWithLeftArm": true,
+  "MeleeDamage": 55,
+  "MeleeInstability": 45,
+  "MeleeToHitModifier": 0,
+  "DFADamage": 55,
+  "DFAToHitModifier": 0,
+  "DFASelfDamage": 55,
+  "DFAInstability": 55,
+  "Locations": [
+    {
+      "Location": "Head",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 1,
+      "MaxArmor": 45,
+      "MaxRearArmor": -1,
+      "InternalStructure": 16
+    },
+    {
+      "Location": "LeftArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 70,
+      "MaxRearArmor": -1,
+      "InternalStructure": 35
+    },
+    {
+      "Location": "LeftTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 110,
+      "MaxRearArmor": 55,
+      "InternalStructure": 55
+    },
+    {
+      "Location": "CenterTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 140,
+      "MaxRearArmor": 70,
+      "InternalStructure": 70
+    },
+    {
+      "Location": "RightTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 110,
+      "MaxRearArmor": 55,
+      "InternalStructure": 55
+    },
+    {
+      "Location": "RightArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 70,
+      "MaxRearArmor": -1,
+      "InternalStructure": 35
+    },
+    {
+      "Location": "LeftLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 110,
+      "MaxRearArmor": -1,
+      "InternalStructure": 55
+    },
+    {
+      "Location": "RightLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 110,
+      "MaxRearArmor": -1,
+      "InternalStructure": 55
+    }
+  ],
+  "LOSSourcePositions": [
+    {
+      "x": 0,
+      "y": 14,
+      "z": 0
+    },
+    {
+      "x": 3.5,
+      "y": 13,
+      "z": 0
+    },
+    {
+      "x": -3.5,
+      "y": 13,
+      "z": 0
+    }
+  ],
+  "LOSTargetPositions": [
+    {
+      "x": 0,
+      "y": 14,
+      "z": 0
+    },
+    {
+      "x": 3.5,
+      "y": 13,
+      "z": 0
+    },
+    {
+      "x": -3.5,
+      "y": 13,
+      "z": 0
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "z": 0
+    },
+    {
+      "x": -3,
+      "y": 5,
+      "z": 0
+    }
+  ],
+  "VariantName": "KY2-D-01",
+  "ChassisTags": {
+    "items": [
+      "mech_quirk_easytopilot",
+      "mech_quirk_exposedactuators"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "StockRole": "Sniper",
+  "YangsThoughts": "There isn't much to say about this 'Mech. It's an old and rather primitive model with weapons matched for ranged combat, but at the same time it has low mobility, and doesn't make up for it with jump jets.",
+  "FixedEquipment": []
+}

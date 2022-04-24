@@ -1,0 +1,291 @@
+{
+  "Description": {
+    "Cost": 3690000,
+    "Rarity": 5,
+    "Purchasable": true,
+    "Manufacturer": "",
+    "Model": "",
+    "UIName": "Galahad",
+    "Id": "chassisdef_galahad_GLH-1D",
+    "Name": "Galahad",
+    "Details": "Born from the Terran Hegemony's attempts to create a medium fire-support platform that would be more advanced than the RLN-1N Rifleman, Mitchell Vehicles unveiled the GLH-1D Galahad in 2570. The original HAF Galahad weighed only 50 tons, was powered by a 150-rated GM Fusion engine, used Star League V Endo Steel internals, and had ten tons of standard Armorscale armor to protect it. For weapons, it had two Nova Large Lasers and two Magna Hellstar Particle Projection Cannons, one in each arm. The GLH-1D only had a mere thirteen double heat sinks to attempt to cope with such high-heat weapons, which rewarded careful volley fire but punished alpha strikes. The GLH-1D's slow speed for its weight and insufficient cooling resulted in the upgraded GLH-2D variant.",
+    "Icon": "uixTxrIcon_galahad"
+  },
+  "MovementCapDefID": "movedef_galahad_GLH-2D",
+  "PathingCapDefID": "pathingdef_heavy",
+  "HardpointDataDefID": "hardpointdatadef_novacat",
+  "PrefabIdentifier": "chrPrfMech_novacatbase-001",
+  "PrefabBase": "novacat",
+  "Tonnage": 50,
+  "InitialTonnage": 13,
+  "weightClass": "MEDIUM",
+  "BattleValue": 5383000,
+  "Heatsinks": 10,
+  "TopSpeed": 60,
+  "TurnRadius": 90,
+  "MaxJumpjets": 0,
+  "Stability": 130,
+  "StabilityDefenses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "SpotterDistanceMultiplier": 1,
+  "VisibilityMultiplier": 1,
+  "SensorRangeMultiplier": 1,
+  "Signature": 0,
+  "Radius": 8,
+  "PunchesWithLeftArm": false,
+  "MeleeDamage": 55,
+  "MeleeInstability": 60,
+  "MeleeToHitModifier": 0,
+  "DFADamage": 65,
+  "DFAToHitModifier": 0,
+  "DFASelfDamage": 65,
+  "DFAInstability": 65,
+  "Locations": [
+    {
+      "Location": "Head",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 1,
+      "MaxArmor": 45,
+      "MaxRearArmor": -1,
+      "InternalStructure": 16
+    },
+    {
+      "Location": "LeftArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 80,
+      "MaxRearArmor": -1,
+      "InternalStructure": 40
+    },
+    {
+      "Location": "LeftTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 120,
+      "MaxRearArmor": 60,
+      "InternalStructure": 60
+    },
+    {
+      "Location": "CenterTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 160,
+      "MaxRearArmor": 80,
+      "InternalStructure": 80
+    },
+    {
+      "Location": "RightTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 120,
+      "MaxRearArmor": 60,
+      "InternalStructure": 60
+    },
+    {
+      "Location": "RightArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 80,
+      "MaxRearArmor": -1,
+      "InternalStructure": 40
+    },
+    {
+      "Location": "LeftLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 120,
+      "MaxRearArmor": -1,
+      "InternalStructure": 60
+    },
+    {
+      "Location": "RightLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 120,
+      "MaxRearArmor": -1,
+      "InternalStructure": 60
+    }
+  ],
+  "LOSSourcePositions": [
+    {
+      "x": 0,
+      "y": 13,
+      "z": 1
+    },
+    {
+      "x": 3,
+      "y": 13,
+      "z": 0
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": 0
+    }
+  ],
+  "LOSTargetPositions": [
+    {
+      "x": 0,
+      "y": 13,
+      "z": 1
+    },
+    {
+      "x": 3,
+      "y": 13,
+      "z": 0
+    },
+    {
+      "x": -3,
+      "y": 13,
+      "z": 0
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "z": 0
+    },
+    {
+      "x": -2,
+      "y": 5,
+      "z": 0
+    }
+  ],
+  "VariantName": "GLH-1D",
+  "ChassisTags": {
+    "items": [
+      "mr-resize-0.95-0.95-0.95",
+      "chassis_DHS",
+      "chassis_endo",
+      "mech_quirk_difficulttomaintain"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "StockRole": "Skirmisher & Brawler",
+  "YangsThoughts": "The Galahad is slow as a brick for its tonnage. Moreover, the 1D model is armed with only energy weapons and suffers significant overheating problems even with double heat sinks. On the other hand, this BattleMech doesn't require ammunition and is well armored, so overall it is not bad, although I would prefer a Galahad 2D with it's pair of Gauss Rifles.",
+  "FixedEquipment": [
+    {
+      "MountedLocation": "LeftArm",
+      "ComponentDefID": "Gear_EndoSteel_1_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Gear_EndoSteel_3_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
+      "ComponentDefID": "Gear_EndoSteel_1_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Gear_EndoSteel_3_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightArm",
+      "ComponentDefID": "Gear_EndoSteel_1_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftLeg",
+      "ComponentDefID": "Gear_EndoSteel_2_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightLeg",
+      "ComponentDefID": "Gear_EndoSteel_2_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    }
+  ]
+}

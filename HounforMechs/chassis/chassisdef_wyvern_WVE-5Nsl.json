@@ -1,0 +1,302 @@
+{
+  "Description": {
+    "Cost": 3400000,
+    "Rarity": 1,
+    "Purchasable": true,
+    "Manufacturer": "",
+    "Model": "",
+    "UIName": "Wyvern",
+    "Id": "chassisdef_wyvern_WVE-5Nsl",
+    "Name": "Wyvern",
+    "Details": "The Wyvern was designed as an urban warfare BattleMech for the Star League Defense Force. While considered slow when compared to other medium 'Mechs, and indeed vulnerable if forced to engage in open country, the Wyvern quickly proved itself to be one of the best urban combatants ever built. Thanks to its combination of weaponry, decent armor and jump jets the Wyvern can take on and destroy 'Mechs well outside its weight class.",
+    "Icon": "uixTxrIcon_wyvern"
+  },
+  "MovementCapDefID": "movedef_wyvern_WVE-6N",
+  "PathingCapDefID": "pathingdef_medium",
+  "HardpointDataDefID": "hardpointdatadef_wyvern",
+  "PrefabIdentifier": "chrprfmech_wyvernbase-001",
+  "PrefabBase": "wyvern",
+  "Tonnage": 45,
+  "InitialTonnage": 15.5,
+  "weightClass": "MEDIUM",
+  "BattleValue": 4067000,
+  "Heatsinks": 10,
+  "TopSpeed": 120,
+  "TurnRadius": 90,
+  "MaxJumpjets": 4,
+  "Stability": 130,
+  "StabilityDefenses": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "SpotterDistanceMultiplier": 1,
+  "VisibilityMultiplier": 1,
+  "SensorRangeMultiplier": 1,
+  "Signature": 0,
+  "Radius": 5,
+  "PunchesWithLeftArm": false,
+  "MeleeDamage": 55,
+  "MeleeInstability": 45,
+  "MeleeToHitModifier": 0,
+  "DFADamage": 55,
+  "DFAToHitModifier": 0,
+  "DFASelfDamage": 55,
+  "DFAInstability": 55,
+  "Locations": [
+    {
+      "Location": "Head",
+      "Hardpoints": [
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 1,
+      "MaxArmor": 45,
+      "MaxRearArmor": -1,
+      "InternalStructure": 16
+    },
+    {
+      "Location": "LeftArm",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 70,
+      "MaxRearArmor": -1,
+      "InternalStructure": 35
+    },
+    {
+      "Location": "LeftTorso",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 110,
+      "MaxRearArmor": 55,
+      "InternalStructure": 55
+    },
+    {
+      "Location": "CenterTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 140,
+      "MaxRearArmor": 70,
+      "InternalStructure": 70
+    },
+    {
+      "Location": "RightTorso",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "Missile",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 10,
+      "MaxArmor": 110,
+      "MaxRearArmor": 55,
+      "InternalStructure": 55
+    },
+    {
+      "Location": "RightArm",
+      "Hardpoints": [
+        {
+          "WeaponMount": "Energy",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        },
+        {
+          "WeaponMount": "AntiPersonnel",
+          "Omni": false
+        }
+      ],
+      "Tonnage": 0,
+      "InventorySlots": 8,
+      "MaxArmor": 70,
+      "MaxRearArmor": -1,
+      "InternalStructure": 35
+    },
+    {
+      "Location": "LeftLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 110,
+      "MaxRearArmor": -1,
+      "InternalStructure": 55
+    },
+    {
+      "Location": "RightLeg",
+      "Hardpoints": [],
+      "Tonnage": 0,
+      "InventorySlots": 4,
+      "MaxArmor": 110,
+      "MaxRearArmor": -1,
+      "InternalStructure": 55
+    }
+  ],
+  "LOSSourcePositions": [
+    {
+      "x": 0,
+      "y": 14,
+      "z": 0
+    },
+    {
+      "x": 4,
+      "y": 14,
+      "z": 0
+    },
+    {
+      "x": -4,
+      "y": 14,
+      "z": 0
+    }
+  ],
+  "LOSTargetPositions": [
+    {
+      "x": 0,
+      "y": 14,
+      "z": 0
+    },
+    {
+      "x": 4,
+      "y": 14,
+      "z": 0
+    },
+    {
+      "x": -4,
+      "y": 14,
+      "z": 0
+    },
+    {
+      "x": 2.5,
+      "y": 6,
+      "z": 2.5
+    },
+    {
+      "x": -2.5,
+      "y": 6,
+      "z": 2.5
+    }
+  ],
+  "VariantName": "WVE-5Nsl",
+  "ChassisTags": {
+    "items": [
+      "chassis_DHS",
+      "chassis_endo",
+      "mech_case_left",
+      "mech_case_right",
+      "mech_quirk_rugged1"
+    ],
+    "tagSetSourceFile": ""
+  },
+  "StockRole": "Fire Support & Skirmisher",
+  "YangsThoughts": "The Wyvern is a solid 'Mech for it's tonnage. They typically mount Jump Jets, and have a combination of arms that make them ideal in city environments. The 5Nsl model was converted to double heat sinks, the SRM-6 launcher was replaced by three Streak SRM-2s, and the laser was converted to ER. A good medium 'Mech, but don't get carried away with Alpha Strikes.",
+  "FixedEquipment": [
+    {
+      "MountedLocation": "LeftArm",
+      "ComponentDefID": "Gear_EndoSteel_2_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Gear_EndoSteel_2_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
+      "ComponentDefID": "Gear_EndoSteel_1_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Gear_EndoSteel_2_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightArm",
+      "ComponentDefID": "Gear_EndoSteel_2_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftLeg",
+      "ComponentDefID": "Gear_EndoSteel_2_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightLeg",
+      "ComponentDefID": "Gear_EndoSteel_2_Slot",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    }
+  ]
+}

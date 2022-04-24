@@ -1,0 +1,254 @@
+
+{
+  "ChassisID": "chassisdef_archer_ARC-5CS",
+  "HeraldryID": null,
+  "Description": {
+    "Cost": 19200000,
+    "Rarity": 5,
+    "Purchasable": true,
+    "Manufacturer": null,
+    "Model": null,
+    "UIName": "Archer ARC-5CS",
+    "Id": "mechdef_archer_ARC-5CS",
+    "Name": "Archer",
+    "Details": "Developed by ComStar for the Battle of Tukayyid, this Archer variant uses an VOX 280 XL Engine and Endo Steel skeleton to free weight, trading durability for enhanced firepower. Protected by eleven and a half tons of armor, it carries two Holly LRM-15s with Artemis IV FCS in each side torso, allowing it to outgun even the venerable Longbow. The arms carry the typical Diverse Optics Type 18 Medium Laser, and the rear-firing lasers are removed.",
+    "Icon": "uixTxrIcon_archer"
+  },
+  "simGameMechPartCost": 1920000,
+  "Version": 1,
+  "Locations": [
+    {
+      "DamageLevel": "Functional",
+      "Location": "Head",
+      "CurrentArmor": 45,
+      "CurrentRearArmor": -1,
+      "CurrentInternalStructure": 16,
+      "AssignedArmor": 45,
+      "AssignedRearArmor": -1
+    },
+    {
+      "DamageLevel": "Functional",
+      "Location": "LeftArm",
+      "CurrentArmor": 100,
+      "CurrentRearArmor": -1,
+      "CurrentInternalStructure": 55,
+      "AssignedArmor": 100,
+      "AssignedRearArmor": -1
+    },
+    {
+      "DamageLevel": "Functional",
+      "Location": "LeftTorso",
+      "CurrentArmor": 110,
+      "CurrentRearArmor": 25,
+      "CurrentInternalStructure": 75,
+      "AssignedArmor": 110,
+      "AssignedRearArmor": 25
+    },
+    {
+      "DamageLevel": "Functional",
+      "Location": "CenterTorso",
+      "CurrentArmor": 145,
+      "CurrentRearArmor": 40,
+      "CurrentInternalStructure": 110,
+      "AssignedArmor": 145,
+      "AssignedRearArmor": 40
+    },
+    {
+      "DamageLevel": "Functional",
+      "Location": "RightTorso",
+      "CurrentArmor": 110,
+      "CurrentRearArmor": 25,
+      "CurrentInternalStructure": 75,
+      "AssignedArmor": 110,
+      "AssignedRearArmor": 25
+    },
+    {
+      "DamageLevel": "Functional",
+      "Location": "RightArm",
+      "CurrentArmor": 100,
+      "CurrentRearArmor": -1,
+      "CurrentInternalStructure": 55,
+      "AssignedArmor": 100,
+      "AssignedRearArmor": -1
+    },
+    {
+      "DamageLevel": "Functional",
+      "Location": "LeftLeg",
+      "CurrentArmor": 110,
+      "CurrentRearArmor": -1,
+      "CurrentInternalStructure": 75,
+      "AssignedArmor": 110,
+      "AssignedRearArmor": -1
+    },
+    {
+      "DamageLevel": "Functional",
+      "Location": "RightLeg",
+      "CurrentArmor": 110,
+      "CurrentRearArmor": -1,
+      "CurrentInternalStructure": 75,
+      "AssignedArmor": 110,
+      "AssignedRearArmor": -1
+    }
+  ],
+  "inventory": [
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Weapon_LRM_ALRM15_3-Delta",
+      "SimGameUID": null,
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 0,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Weapon_LRM_ALRM15_3-Delta",
+      "SimGameUID": null,
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 0,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+      "SimGameUID": null,
+      "ComponentDefType": "AmmunitionBox",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "CenterTorso",
+      "ComponentDefID": "Gear_HeatSink_Generic_Double",
+      "SimGameUID": null,
+      "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Weapon_LRM_ALRM15_3-Delta",
+      "SimGameUID": null,
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 0,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Weapon_LRM_ALRM15_3-Delta",
+      "SimGameUID": null,
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 0,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+      "SimGameUID": null,
+      "ComponentDefType": "AmmunitionBox",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftArm",
+      "ComponentDefID": "Weapon_Laser_MediumLaser_0-STOCK",
+      "SimGameUID": null,
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 0,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightArm",
+      "ComponentDefID": "Weapon_Laser_MediumLaser_0-STOCK",
+      "SimGameUID": null,
+      "ComponentDefType": "Weapon",
+      "HardpointSlot": 0,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftLeg",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+      "SimGameUID": null,
+      "ComponentDefType": "AmmunitionBox",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftLeg",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+      "SimGameUID": null,
+      "ComponentDefType": "AmmunitionBox",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightLeg",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+      "SimGameUID": null,
+      "ComponentDefType": "AmmunitionBox",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightLeg",
+      "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",
+      "SimGameUID": null,
+      "ComponentDefType": "AmmunitionBox",
+      "HardpointSlot": -1,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    }
+  ],
+  "MechTags": {
+    "items": [
+      "unit_mech",
+      "unit_heavy",
+      "unit_indirectFire",
+      "unit_range_long",
+      "unit_speed_low",
+      "unit_armor_high",
+      "unit_hot",
+      "unit_lance_support",
+      "unit_role_sniper",
+      "unit_release",
+      "unit_LosTech"
+    ],
+    "tagSetSourceFile": ""
+  }
+}
