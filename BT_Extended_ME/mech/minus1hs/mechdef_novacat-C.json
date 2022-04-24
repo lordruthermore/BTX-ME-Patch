@@ -1,0 +1,106 @@
+{
+    "inventory": [
+        {
+            "MountedLocation": "LeftArm",
+            "ComponentDefID": "Weapon_Laser_CLargeLaserPulse_0-STOCK",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "LeftArm",
+            "ComponentDefID": "Weapon_Laser_CLargeLaserPulse_0-STOCK",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Gear_HeatSink_Clan_Double",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+		{
+			"MountedLocation": "RightTorso",
+			"ComponentDefID": "Ammo_AmmunitionBox_Generic_AC5",
+			"ComponentDefType": "AmmunitionBox",
+			"HardpointSlot": -1,
+			"IsFixed": false,
+			"DamageLevel": "Functional",
+			"hasPrefabName": false
+		},
+		{
+			"MountedLocation": "RightTorso",
+			"ComponentDefID": "Ammo_AmmunitionBox_Generic_AC5",
+			"ComponentDefType": "AmmunitionBox",
+			"HardpointSlot": -1,
+			"IsFixed": false,
+			"DamageLevel": "Functional",
+			"hasPrefabName": false
+		},
+		{
+			"MountedLocation": "RightTorso",
+			"ComponentDefID": "Ammo_AmmunitionBox_Generic_LB5X",
+			"ComponentDefType": "AmmunitionBox",
+			"HardpointSlot": -1,
+			"IsFixed": false,
+			"DamageLevel": "Functional",
+			"hasPrefabName": false
+		},
+		{
+			"MountedLocation": "RightTorso",
+			"ComponentDefID": "Ammo_AmmunitionBox_Generic_LB5X",
+			"ComponentDefType": "AmmunitionBox",
+			"HardpointSlot": -1,
+			"IsFixed": false,
+			"DamageLevel": "Functional",
+			"hasPrefabName": false
+		},
+        {
+            "MountedLocation": "RightArm",
+            "ComponentDefID": "Weapon_Autocannon_CUAC5_0-STOCK",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightArm",
+            "ComponentDefID": "Weapon_Autocannon_CUAC5_0-STOCK",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightArm",
+            "ComponentDefID": "Weapon_Autocannon_CLB5X_0-STOCK",
+            "SimGameUID": null,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        }
+    ]
+}

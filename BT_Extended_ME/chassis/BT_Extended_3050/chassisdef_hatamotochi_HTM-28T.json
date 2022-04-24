@@ -21,7 +21,7 @@
 	},
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_structureslots_endosteel",
+      "ComponentDefID": "emod_structureslots_standard",
       "SimGameUID": "",
       "ComponentDefType": "Upgrade",
       "HardpointSlot": -1,
@@ -45,7 +45,7 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_engine_320",
+      "ComponentDefID": "emod_engine_240",
       "SimGameUID": "",
       "ComponentDefType": "HeatSink",
       "HardpointSlot": -1,

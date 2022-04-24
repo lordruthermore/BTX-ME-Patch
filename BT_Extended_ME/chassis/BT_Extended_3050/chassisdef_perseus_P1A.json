@@ -73,6 +73,30 @@
 		"DamageLevel" : "Functional",
 		"prefabName" : null,
 		"hasPrefabName" : false
-	}
+	},
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "emod_case",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": "",
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "emod_case",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": "",
+      "hasPrefabName": false
+    }
   ]
 }

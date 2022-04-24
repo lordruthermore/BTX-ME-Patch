@@ -3,30 +3,6 @@
   "Heatsinks": 0,
   "FixedEquipment": [
     {
-      "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Weapon_TAG_C3-STOCK",
-      "SimGameUID": "",
-      "ComponentDefType": "Weapon",
-      "HardpointSlot": 0,
-      "IsFixed": true,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Gear_C3_Master",
-      "SimGameUID": "",
-      "ComponentDefType": "Upgrade",
-      "HardpointSlot": -1,
-      "IsFixed": true,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": null,
-      "hasPrefabName": false
-    },
-    {
       "MountedLocation": "CenterTorso",
       "ComponentDefID": "emod_structureslots_standard",
       "SimGameUID": "",
@@ -110,17 +86,17 @@
       "prefabName": "",
       "hasPrefabName": false
     },
-        {
-            "MountedLocation" : "Head",
-            "ComponentDefID" : "Gear_C3_Slave",
-            "SimGameUID" : "",
-            "ComponentDefType" : "Upgrade",
-            "HardpointSlot" : -1,
-            "IsFixed" : true,
-            "GUID" : null,
-            "DamageLevel" : "Functional",
-            "prefabName" : null,
-            "hasPrefabName" : false
-        }
+	{
+		"MountedLocation" : "Head",
+		"ComponentDefID" : "Gear_C3_Slave",
+		"SimGameUID" : "",
+		"ComponentDefType" : "Upgrade",
+		"HardpointSlot" : -1,
+		"IsFixed" : true,
+		"GUID" : null,
+		"DamageLevel" : "Functional",
+		"prefabName" : null,
+		"hasPrefabName" : false
+	}
   ]
 }

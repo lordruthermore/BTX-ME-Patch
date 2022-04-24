@@ -37,14 +37,25 @@
       "hasPrefabName": false
     },
     {
-      "MountedLocation": "LeftTorso",
-      "ComponentDefID": "Gear_AMS_Clan",
-      "ComponentDefType": "Upgrade",
-      "HardpointSlot": -1,
-      "IsFixed": false,
-      "DamageLevel": "Functional",
-      "hasPrefabName": false
+		"MountedLocation": "LeftTorso",
+		"ComponentDefID": "Weapon_AMSCAC_Clan",
+		"ComponentDefType": "Weapon",
+		"HardpointSlot": 0,
+		"IsFixed": false,
+		"DamageLevel": "Functional",
+		"hasPrefabName": false
     },
+	{
+		"MountedLocation": "LeftTorso",
+		"ComponentDefID": "Ammo_AmmunitionBox_Generic_MG",
+		"SimGameUID": null,
+		"ComponentDefType": "AmmunitionBox",
+		"HardpointSlot": -1,
+		"GUID": null,
+		"DamageLevel": "Functional",
+		"prefabName": null,
+		"hasPrefabName": false
+	},
     {
       "MountedLocation": "LeftTorso",
       "ComponentDefID": "Ammo_AmmunitionBox_Generic_LRM",

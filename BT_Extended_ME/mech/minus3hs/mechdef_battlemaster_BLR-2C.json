@@ -2,14 +2,25 @@
     "inventory": [
         {
             "MountedLocation": "LeftArm",
-            "ComponentDefID" : "Gear_AMS_Cal-Boeing",
+            "ComponentDefID" : "Weapon_AMSCAC_0",
             "SimGameUID" : "",
-            "ComponentDefType" : "Upgrade",
-            "HardpointSlot" : -1,
+            "ComponentDefType": "Weapon",
+            "HardpointSlot": 0,
             "GUID" : null,
             "DamageLevel" : "Functional",
             "prefabName" : null,
             "hasPrefabName" : false
+        },
+        {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_MG",
+            "SimGameUID": null,
+            "ComponentDefType": "AmmunitionBox",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
         },
         {
             "MountedLocation": "LeftTorso",
