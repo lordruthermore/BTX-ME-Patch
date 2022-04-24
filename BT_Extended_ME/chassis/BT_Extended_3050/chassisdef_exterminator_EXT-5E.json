@@ -1,19 +1,7 @@
 {
-  "InitialTonnage": 2.5,
+  "InitialTonnage": 6.5,
   "Heatsinks": 0,
   "FixedEquipment": [
-	{
-		"MountedLocation" : "LeftTorso",
-		"ComponentDefID" : "Gear_SensorCAC_Beagle",
-		"SimGameUID" : "",
-		"ComponentDefType" : "Upgrade",
-		"HardpointSlot" : -1,
-		"IsFixed" : true,
-		"GUID" : null,
-		"DamageLevel" : "Functional",
-		"prefabName" : null,
-		"hasPrefabName" : false
-	},
     {
       "MountedLocation": "CenterTorso",
       "ComponentDefID": "emod_structureslots_endosteel",
@@ -64,7 +52,7 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_engine_200",
+      "ComponentDefID": "emod_engine_390",
       "SimGameUID": "",
       "ComponentDefType": "HeatSink",
       "HardpointSlot": -1,
@@ -73,6 +61,30 @@
       "DamageLevel": "Functional",
       "prefabName": "",
       "hasPrefabName": false
-    }
+    },
+        {
+            "MountedLocation" : "CenterTorso",
+            "ComponentDefID" : "Gear_C3_Improved",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Upgrade",
+            "HardpointSlot" : -1,
+            "IsFixed" : true,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        },
+        {
+            "MountedLocation" : "RightTorso",
+            "ComponentDefID" : "Gear_MASC_3",
+            "SimGameUID" : "",
+            "ComponentDefType" : "Upgrade",
+            "HardpointSlot" : -1,
+            "IsFixed" : true,
+            "GUID" : null,
+            "DamageLevel" : "Functional",
+            "prefabName" : null,
+            "hasPrefabName" : false
+        }
   ]
 }

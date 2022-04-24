@@ -1,10 +1,10 @@
 {
-  "InitialTonnage": 2.5,
+  "InitialTonnage": 9.0,
   "Heatsinks": 0,
   "FixedEquipment": [
 	{
 		"MountedLocation" : "LeftTorso",
-		"ComponentDefID" : "Gear_SensorCAC_Beagle",
+		"ComponentDefID" : "Gear_C3_Slave",
 		"SimGameUID" : "",
 		"ComponentDefType" : "Upgrade",
 		"HardpointSlot" : -1,
@@ -16,7 +16,7 @@
 	},
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_structureslots_endosteel",
+      "ComponentDefID": "emod_structureslots_standard",
       "SimGameUID": "",
       "ComponentDefType": "Upgrade",
       "HardpointSlot": -1,
@@ -64,7 +64,7 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_engine_200",
+      "ComponentDefID": "emod_engine_360",
       "SimGameUID": "",
       "ComponentDefType": "HeatSink",
       "HardpointSlot": -1,

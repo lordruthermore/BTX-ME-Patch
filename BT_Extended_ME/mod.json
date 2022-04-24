@@ -17,7 +17,7 @@
 	"Manifest": [
 		{ "Type": "AmmunitionBoxDef", "ShouldMergeJSON": true, "Path": "ammunitionbox" },
 		{ "Type": "AmmunitionBoxDef", "ShouldMergeJSON": false, "Path": "ammoboxnew" },
-		{ "Type": "ItemCollectionDef", "ShouldAppendText": true, "Path": "itemcollections" },
+		{ "Type": "ItemCollectionDef", "Path": "itemcollections" },
 		{ "Type": "ChassisDef", "ShouldMergeJSON": true, "Path": "chassis/Vanilla" },
 		{ "Type": "ChassisDef", "ShouldMergeJSON": true, "Path": "chassis/BT_Extended" },
 		{ "Type": "ChassisDef", "ShouldMergeJSON": true, "Path": "chassis/BT_Extended_3050" },

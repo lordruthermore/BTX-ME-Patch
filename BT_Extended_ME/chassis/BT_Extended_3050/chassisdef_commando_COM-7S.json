@@ -2,18 +2,6 @@
   "InitialTonnage": 2.5,
   "Heatsinks": 0,
   "FixedEquipment": [
-	{
-		"MountedLocation" : "LeftTorso",
-		"ComponentDefID" : "Gear_SensorCAC_Beagle",
-		"SimGameUID" : "",
-		"ComponentDefType" : "Upgrade",
-		"HardpointSlot" : -1,
-		"IsFixed" : true,
-		"GUID" : null,
-		"DamageLevel" : "Functional",
-		"prefabName" : null,
-		"hasPrefabName" : false
-	},
     {
       "MountedLocation": "CenterTorso",
       "ComponentDefID": "emod_structureslots_endosteel",
@@ -28,7 +16,7 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_engineslots_xl_center",
+      "ComponentDefID": "emod_engineslots_light_center",
       "SimGameUID": "",
       "ComponentDefType": "HeatSink",
       "HardpointSlot": -1,
@@ -40,7 +28,7 @@
     },
     {
       "MountedLocation": "LeftTorso",
-      "ComponentDefID": "emod_engineslots_size3",
+      "ComponentDefID": "emod_engineslots_size2",
       "SimGameUID": "",
       "ComponentDefType": "HeatSink",
       "HardpointSlot": -1,
@@ -52,7 +40,7 @@
     },
     {
       "MountedLocation": "RightTorso",
-      "ComponentDefID": "emod_engineslots_size3",
+      "ComponentDefID": "emod_engineslots_size2",
       "SimGameUID": "",
       "ComponentDefType": "HeatSink",
       "HardpointSlot": -1,
@@ -64,9 +52,21 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_engine_200",
+      "ComponentDefID": "emod_engine_150",
       "SimGameUID": "",
       "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": "",
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "emod_case",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
       "HardpointSlot": -1,
       "IsFixed": true,
       "GUID": null,

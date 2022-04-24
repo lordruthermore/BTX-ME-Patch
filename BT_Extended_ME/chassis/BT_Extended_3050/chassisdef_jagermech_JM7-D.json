@@ -1,22 +1,28 @@
 {
-  "InitialTonnage": 2.5,
+  "InitialTonnage": 7.0,
   "Heatsinks": 0,
+  "Custom": {
+    "ArmActuatorSupport": {
+      "LeftLimit": "Upper",
+      "RightLimit": "Upper"
+    }
+  },
   "FixedEquipment": [
-	{
-		"MountedLocation" : "LeftTorso",
-		"ComponentDefID" : "Gear_SensorCAC_Beagle",
-		"SimGameUID" : "",
-		"ComponentDefType" : "Upgrade",
-		"HardpointSlot" : -1,
-		"IsFixed" : true,
-		"GUID" : null,
-		"DamageLevel" : "Functional",
-		"prefabName" : null,
-		"hasPrefabName" : false
-	},
+    {
+      "MountedLocation": "Head",
+      "ComponentDefID": "Gear_General_Rangefinder_Suite",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": null,
+      "hasPrefabName": false
+    },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_structureslots_endosteel",
+      "ComponentDefID": "emod_structureslots_standard",
       "SimGameUID": "",
       "ComponentDefType": "Upgrade",
       "HardpointSlot": -1,
@@ -64,9 +70,33 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_engine_200",
+      "ComponentDefID": "emod_engine_280",
       "SimGameUID": "",
       "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": "",
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "emod_case",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": "",
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "emod_case",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
       "HardpointSlot": -1,
       "IsFixed": true,
       "GUID": null,

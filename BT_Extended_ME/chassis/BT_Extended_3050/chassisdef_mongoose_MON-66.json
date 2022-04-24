@@ -4,7 +4,7 @@
   "FixedEquipment": [
 	{
 		"MountedLocation" : "LeftTorso",
-		"ComponentDefID" : "Gear_SensorCAC_BeagleHC",
+		"ComponentDefID" : "Gear_SensorCAC_Beagle",
 		"SimGameUID" : "",
 		"ComponentDefType" : "Upgrade",
 		"HardpointSlot" : -1,

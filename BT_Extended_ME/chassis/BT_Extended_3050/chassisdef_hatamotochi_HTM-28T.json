@@ -1,10 +1,15 @@
 {
-  "InitialTonnage": 2.5,
+  "InitialTonnage": 8.0,
   "Heatsinks": 0,
+  "Custom": {
+    "ArmActuatorSupport": {
+      "LeftLimit": "Lower"
+    }
+  },
   "FixedEquipment": [
 	{
-		"MountedLocation" : "LeftTorso",
-		"ComponentDefID" : "Gear_SensorCAC_Beagle",
+		"MountedLocation" : "CenterTorso",
+		"ComponentDefID" : "Gear_C3_Slave",
 		"SimGameUID" : "",
 		"ComponentDefType" : "Upgrade",
 		"HardpointSlot" : -1,
@@ -28,31 +33,7 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_engineslots_xl_center",
-      "SimGameUID": "",
-      "ComponentDefType": "HeatSink",
-      "HardpointSlot": -1,
-      "IsFixed": true,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": "",
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "LeftTorso",
-      "ComponentDefID": "emod_engineslots_size3",
-      "SimGameUID": "",
-      "ComponentDefType": "HeatSink",
-      "HardpointSlot": -1,
-      "IsFixed": true,
-      "GUID": null,
-      "DamageLevel": "Functional",
-      "prefabName": "",
-      "hasPrefabName": false
-    },
-    {
-      "MountedLocation": "RightTorso",
-      "ComponentDefID": "emod_engineslots_size3",
+      "ComponentDefID": "emod_engineslots_std_center",
       "SimGameUID": "",
       "ComponentDefType": "HeatSink",
       "HardpointSlot": -1,
@@ -64,9 +45,33 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_engine_200",
+      "ComponentDefID": "emod_engine_320",
       "SimGameUID": "",
       "ComponentDefType": "HeatSink",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": "",
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "LeftTorso",
+      "ComponentDefID": "emod_case",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
+      "HardpointSlot": -1,
+      "IsFixed": true,
+      "GUID": null,
+      "DamageLevel": "Functional",
+      "prefabName": "",
+      "hasPrefabName": false
+    },
+    {
+      "MountedLocation": "RightTorso",
+      "ComponentDefID": "emod_case",
+      "SimGameUID": "",
+      "ComponentDefType": "Upgrade",
       "HardpointSlot": -1,
       "IsFixed": true,
       "GUID": null,

@@ -1,10 +1,10 @@
 {
-  "InitialTonnage": 2.5,
+  "InitialTonnage": 3.0,
   "Heatsinks": 0,
   "FixedEquipment": [
 	{
-		"MountedLocation" : "LeftTorso",
-		"ComponentDefID" : "Gear_SensorCAC_Beagle",
+		"MountedLocation" : "CenterTorso",
+		"ComponentDefID" : "Gear_C3_Improved",
 		"SimGameUID" : "",
 		"ComponentDefType" : "Upgrade",
 		"HardpointSlot" : -1,
@@ -64,7 +64,7 @@
     },
     {
       "MountedLocation": "CenterTorso",
-      "ComponentDefID": "emod_engine_200",
+      "ComponentDefID": "emod_engine_270",
       "SimGameUID": "",
       "ComponentDefType": "HeatSink",
       "HardpointSlot": -1,
